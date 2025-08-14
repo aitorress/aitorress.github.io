@@ -9,6 +9,8 @@ plugins:
   - jekyll-seo-tag        # SEO metadata
   - jekyll-feed           # /feed.xml for RSS/email tools
   - jekyll-sitemap        # /sitemap.xml for crawlers
+  - jekyll-include-cache
+
 remote_theme: "mmistakes/minimal-mistakes@4.26.0"
 
 # Minimal Mistakes quick knobs (tweak later)
