@@ -23,9 +23,9 @@ author:
   avatar: null
   links:
     - label: "X"
-      url: "https://x.com/<handle>"
+      url: "https://x.com/torres_andres87"
     - label: "LinkedIn"
-      url: "https://www.linkedin.com/in/<handle>/"
+      url: "https://www.linkedin.com/in/andres-torres-360248b1/"
 
 # URLs & pagination
 permalink: /:categories/:title/
