@@ -1,0 +1,47 @@
+title: Andres Notes
+description: Thoughts, frameworks, and experiments.
+url: "https://aitorress.github.io"   # replace later if/when you add a custom domain
+
+# Use the theme remotely so GitHub Pages can build it without local Ruby setup
+theme: null
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag        # SEO metadata
+  - jekyll-feed           # /feed.xml for RSS/email tools
+  - jekyll-sitemap        # /sitemap.xml for crawlers
+remote_theme: "mmistakes/minimal-mistakes@4.26.0"
+
+# Minimal Mistakes quick knobs (tweak later)
+minimal_mistakes_skin: "default"  # try: "dark", "air", "neon"
+locale: en-US
+
+author:
+  name: "Andres"
+  bio: "AI, frameworks, and serendipity engineering."
+  avatar: null
+  links:
+    - label: "X"
+      url: "https://x.com/<handle>"
+    - label: "LinkedIn"
+      url: "https://www.linkedin.com/in/<handle>/"
+
+# URLs & pagination
+permalink: /:categories/:title/
+paginate: 5
+paginate_path: /page:num/
+
+# Comments (we'll wire Giscus in step 5)
+comments:
+  provider: false
+
+# Feeds
+feed:
+  path: feed.xml
+
+# Defaults to reduce front matter boilerplate
+defaults:
+  - scope: { path: "" , type: "posts" }
+    values:
+      layout: single
+      author_profile: true
+      toc: true
