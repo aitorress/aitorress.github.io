@@ -1,3 +1,11 @@
+---
+title: "AI Isn’t a Team. It’s a Platform."
+date: 2025-08-14
+categories: [meta]
+tags: [intro]
+excerpt: "Kicking this off with a low-friction setup."
+---
+
 # **AI Isn’t a Team. It’s a Platform.**
 
 ## **We’re Building With Fire and No Blueprint**
