@@ -14,12 +14,12 @@ plugins:
 remote_theme: "mmistakes/minimal-mistakes@4.26.0"
 
 # Minimal Mistakes quick knobs (tweak later)
-minimal_mistakes_skin: "default"  # try: "dark", "air", "neon"
+minimal_mistakes_skin: "air"  # try: "dark", "air", "neon"
 locale: en-US
 
 author:
   name: "Andres"
-  bio: "AI, frameworks, and serendipity engineering."
+  bio: "I collect frameworks, strong opinions, and good stories — then test them out in real life. This blog is where I share the keepers, the flops, hoping they lead to insights and good conversations."
   avatar: null
   links:
     - label: "X"
