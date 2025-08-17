@@ -2,6 +2,8 @@
 layout: single
 title: About
 permalink: /about/
+author_profile: true
+toc: false
 ---
 
 Hey — my name’s Andres!
