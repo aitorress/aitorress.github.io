@@ -13,9 +13,12 @@ plugins:
 
 remote_theme: "mmistakes/minimal-mistakes@4.26.0"
 
-# Minimal Mistakes quick knobs (tweak later)
-minimal_mistakes_skin: "air"  # try: "dark", "air", "neon"
+# Look & locale
+minimal_mistakes_skin: "air"
 locale: en-US
+
+# Reading time settings
+words_per_minute: 220
 
 author:
   name: "Andres"
@@ -32,7 +35,7 @@ permalink: /:categories/:title/
 paginate: 5
 paginate_path: /page:num/
 
-# Comments (we'll wire Giscus in step 5)
+# Comments (leave off for now; enable per-post later if you want)
 comments:
   provider: false
 
@@ -40,10 +43,16 @@ comments:
 feed:
   path: feed.xml
 
-# Defaults to reduce front matter boilerplate
+# Defaults: apply to all posts
 defaults:
-  - scope: { path: "" , type: "posts" }
+  - scope: { path: "", type: "posts" }
     values:
       layout: single
-      author_profile: true
+      author_profile: false   # remove left sidebar on posts
       toc: true
+      toc_sticky: true
+      classes: wide           # widen content column
+      read_time: true         # show reading time
+      show_date: true
+      share: true             # minimal share links
+      related: true           # related posts at bottom
