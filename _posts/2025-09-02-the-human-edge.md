@@ -3,7 +3,7 @@ title: "The Human Edge"
 date: 2025-09-10
 categories: [thought-leadership, ai, future-of-work]
 tags: [scarcity, curation, trust, relevance, human-edge]
-excerpt: "In an age of abundant intelligence, what remainsvaluable is human judgment, taste, and trust."
+excerpt: "In an age of abundant intelligence, what remains valuable is human judgment, taste, and trust."
 ---
 
 # Scarcity as a Currency
@@ -46,7 +46,7 @@ Signals, repeated over time, create **trust.** Not the algorithmic “reliabilit
 
 AI can simulate credibility and reliability. What it can’t fake is intimacy or self-orientation. It has no skin in the game. Humans do. That’s why trust compounds around people who consistently stake their reputation on what they curate and signal. They become **trust nodes** - anchors in the noise, the ones whose judgment others rely on. And here’s the key: it doesn’t matter who you impact. A leader or influencer may shape millions, while you might choose to focus on friends, colleagues, or family. The circles are different in size, but the dynamic is identical. Wherever trust takes root, networks form. Those networks feed back through interactions, curations, and reinforcement—until the effect multiplies. That’s where **1 + 1 = 3**: trust compounds not because of scale, but because every relationship magnifies the signal.
 
-And here’s the kicker: these traits don’t live in isolation. They feed each other. Curation → Signal → Trust → Stronger Curation. The more you curate, the clearer your signal. The clearer your signal, the deeper the trust. The deeper the trust, the sharper the feedback you receive - which makes your curation even better.
+These traits don’t live in isolation. They feed each other. Curation → Signal → Trust → Stronger Curation. The more you curate, the clearer your signal. The clearer your signal, the deeper the trust. The deeper the trust, the sharper the feedback you receive - which makes your curation even better.
 
 It’s a flywheel. And in a world of infinite noise, only scarcity compounds: **curation, signal, and trust.**
 
