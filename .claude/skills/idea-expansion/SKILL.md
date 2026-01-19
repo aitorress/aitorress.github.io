@@ -92,8 +92,14 @@ Output the full markdown and tell the user: "Copy this to your drafts folder whe
 - Don't be boring
 - Don't ask clarifying questions—just run with what they gave you and note assumptions
 
-## Example Input
+## Example Inputs
 
-> "Someone said 'AI won't replace you, someone using AI will.' Feels true but also too clean. There's something about how this frames humans as the bottleneck rather than the source of value..."
+These examples show the range of topics this skill handles. The skill is domain-agnostic—expand whatever the user brings:
 
-This should trigger the full expansion and save to drafts.
+> "Hot take: most networking advice is backwards. The best professional connections I've made happened when I wasn't trying to network at all."
+
+> "I've been thinking... cities that optimize for efficiency become less livable. There's something about friction being necessary for serendipity."
+
+> "Someone said 'talent is overrated, consistency beats intensity.' But I know incredibly consistent people who never break through. What's actually the missing variable?"
+
+Any of these should trigger the full expansion and save to drafts. Follow the user's topic wherever it leads—connect to adjacent domains organically, but don't force connections to any particular field.
