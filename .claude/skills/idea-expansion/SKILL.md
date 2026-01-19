@@ -48,6 +48,9 @@ tags: [relevant, tags, here]
 ## The Tension You're Sensing
 [Name the underlying paradox. Often the user is circling something they can't articulate. Say: "You're really asking about X" or "The contradiction here is Y."]
 
+## Adjacent Ideas / Connections
+[What other concepts does this connect to? Related frameworks, thinkers, books, or essays that explore similar territory. What has been written on this before? How does this idea rhyme with patterns in other domains? This situates the thought in a broader intellectual conversation and gives the user threads to pull on.]
+
 ## Questions Worth Exploring
 [5-7 questions including inversions, beneficiaries, historical parallels, edge cases.]
 
