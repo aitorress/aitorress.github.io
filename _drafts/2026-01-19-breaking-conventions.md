@@ -75,6 +75,20 @@ There's also a tension between individual expression and collective progress. Co
 
 You might be asking: **Is "interesting" even the right goal?** Interesting to whom? For how long? There's conventional work that endures because it perfectly executes a timeless form, and convention-breaking work that's forgotten because it was only interesting in opposition to a context that no longer exists.
 
+## Adjacent Ideas / Connections
+
+**Thomas Kuhn's paradigm shifts.** In *The Structure of Scientific Revolutions*, Kuhn showed that science doesn't progress linearly—it alternates between "normal science" (convention-following) and revolutions (convention-breaking). The most important scientific work is definitionally paradigm-violating.
+
+**Harold Bloom's "anxiety of influence."** Bloom argued that poets achieve greatness by creatively misreading their predecessors—by breaking with tradition while remaining in dialogue with it. Convention-breaking that ignores what came before is just ignorance; meaningful breaks require deep engagement.
+
+**Brian Eno on "scenius."** Eno coined the term to describe the collective genius of creative scenes. Conventions emerge from scenes; breaking conventions requires a scene to break against. The lone genius myth obscures how convention-breaking is always social.
+
+**Viktor Shklovsky's "defamiliarization."** The Russian Formalist argued that art's purpose is to make the familiar strange—to break the conventions of perception so we see things anew. Convention-breaking isn't just aesthetic preference; it's the mechanism by which art works.
+
+**Nassim Taleb on "antifragility."** Systems that benefit from shocks and disorder are antifragile. Conventions are fragile (they break). Convention-breakers might be antifragile—gaining strength from the resistance they encounter.
+
+**Marshall McLuhan's "the medium is the message."** When a new medium emerges, early content copies old conventions (films were filmed plays; early websites were brochures). True innovation comes from discovering what the new medium does that the old one couldn't. Convention-breaking is often medium-discovering.
+
 ## Questions Worth Exploring
 
 1. **The inversion:** What would it mean for conventional work to be the most interesting? Are there domains where this is true? (Craftsmanship traditions, perhaps—a perfectly conventional piece of Shaker furniture is deeply interesting precisely because the conventions are so demanding.)

@@ -85,6 +85,20 @@ The deeper tension: **we live in the short run but the returns compound in the l
 
 Amara's Law describes a forecasting error, but the real problem is a mismatch between human timescales and technological ones. The law isn't something to correct. It's something to navigate—and navigation requires accepting that you will, at various points, be wrong in predictable ways.
 
+## Adjacent Ideas / Connections
+
+**Gartner's Hype Cycle.** The consulting firm formalized this pattern: technology trigger → peak of inflated expectations → trough of disillusionment → slope of enlightenment → plateau of productivity. Amara's Law is the conceptual foundation; Gartner made it a consulting product.
+
+**Carlota Perez's technological revolutions framework.** In *Technological Revolutions and Financial Capital*, Perez shows how major technologies follow installation → crash → deployment phases. The "trough" isn't failure—it's the transition from speculative capital to productive capital.
+
+**Everett Rogers' Diffusion of Innovations.** The S-curve of adoption (innovators → early adopters → early majority → late majority → laggards) explains *why* we overestimate short-term effects: we extrapolate from innovators to everyone, ignoring the long tail of adoption.
+
+**Daniel Kahneman on the planning fallacy.** We systematically underestimate time, costs, and risks of future actions while overestimating benefits. Amara's Law is the planning fallacy applied to technology forecasting.
+
+**Stewart Brand on pace layers.** Brand's model shows how fashion changes fast, commerce slower, infrastructure slower still, culture even slower, and nature slowest. Technology hype operates at the fast layers; actual impact happens at the slow ones. The mismatch is structural.
+
+**Philip Tetlock's work on forecasting.** *Superforecasting* shows that good forecasters update frequently, think probabilistically, and distrust narratives. Amara's Law is a narrative that might make forecasting worse by providing a false sense of understanding.
+
 ## Questions Worth Exploring
 
 1. **What's the current technology that's most overestimated in the short run?** (Everyone will say AI—but is that itself an example of hype-cycle meta-awareness, and are we underestimating AI's short-term effects by assuming it follows the pattern?)

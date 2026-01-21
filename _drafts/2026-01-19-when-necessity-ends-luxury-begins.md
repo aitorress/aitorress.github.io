@@ -71,6 +71,20 @@ The phrase "luxury becomes necessity" sits at the fulcrum of these two worldview
 
 Maybe luxury becomes necessity *and* that's a pattern we should resist. Both can be true.
 
+## Adjacent Ideas / Connections
+
+**Maslow's hierarchy of needs.** The pyramid model suggests that once lower needs (physiological, safety) are met, higher needs (belonging, esteem, self-actualization) emerge. The "luxury becomes necessity" observation is Maslow's hierarchy experienced from inside—each new level feels as urgent as the last.
+
+**The hedonic treadmill (Brickman & Campbell).** Research shows that people adapt to both positive and negative changes, returning to a baseline happiness level. Lottery winners aren't permanently happier; paraplegics aren't permanently miserable. Luxury → necessity is the material version of hedonic adaptation.
+
+**Diderot's "Regrets on Parting with My Old Dressing Gown."** The 18th-century essay describes how a new dressing gown made all of Diderot's other possessions look shabby, triggering a cascade of replacements. The "Diderot effect" is the luxury-necessity ratchet in action.
+
+**Buddhist teachings on tanha (craving).** Buddhism identifies craving as the root of suffering—not because desires are bad, but because satisfying one desire generates another. The luxury → necessity cycle is tanha observed in economic behavior.
+
+**Juliet Schor's "The Overspent American."** Schor documented how reference groups shifted upward—people now compare themselves to those much richer, not their neighbors. This social comparison mechanism accelerates luxury → necessity conversion.
+
+**Ivan Illich on "radical monopoly."** Illich argued that certain technologies (cars, schools) create dependencies that feel like necessities by eliminating alternatives. The luxury → necessity shift isn't just psychological; it's structural.
+
 ## Questions Worth Exploring
 
 1. **The inversion:** At what point does necessity become luxury? When survival is too easy, do people manufacture hardship to feel alive? (See: extreme sports, fasting, voluntary simplicity.)

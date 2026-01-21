@@ -77,6 +77,20 @@ The deeper tension: optionality has cost, but the cost of *losing* optionality i
 
 This connects to something broader about how we should structure our lives. The best position isn't maximum expected value—it's maximum expected value *conditional on staying in the game*. Survival is the prerequisite for compounding.
 
+## Adjacent Ideas / Connections
+
+**Nassim Taleb's "Antifragile."** Taleb argues that systems should be designed to benefit from volatility, not just survive it. The forced seller is fragile; the patient buyer with cash is antifragile—gaining from others' distress.
+
+**Warren Buffett's "be greedy when others are fearful."** Buffett's famous aphorism is the forced-seller principle in reverse. His entire strategy depends on having the liquidity and temperament to be the counterparty when others must sell.
+
+**The "permanent portfolio" and risk parity approaches.** These investment strategies explicitly allocate to assets that perform well in different regimes (stocks, bonds, gold, cash), ensuring you always have something liquid when other assets crash. Forced-seller prevention as portfolio construction.
+
+**Benjamin Graham's "Mr. Market" parable.** Graham imagined the market as a manic-depressive business partner who offers to buy or sell at wildly varying prices. The key insight: you don't have to accept his offers. Being a forced seller means you do.
+
+**The Kelly criterion.** The Kelly formula for optimal bet sizing shows that even with positive expected value, betting too large eventually leads to ruin. Position sizing is forced-seller prevention formalized.
+
+**Stoic philosophy on what's in your control.** The Stoics distinguished between what we control (our judgments, actions) and what we don't (external events). Avoiding forced-seller status is about expanding what's in your control—your runway, your alternatives, your ability to say no.
+
 ## Questions Worth Exploring
 
 1. **The inversion:** What would it look like to deliberately become a buyer when others are forced sellers? How do you structure your life to be the counterparty?
