@@ -79,6 +79,20 @@ The current tech narrative treats software like a product. "We need to build X a
 
 The people predicting engineering job losses are thinking in products. The people predicting no change are thinking in infrastructure. You're sensing that the infrastructure view is probably right, but the product view is how companies actually budget.
 
+## Adjacent Ideas / Connections
+
+**Jevons Paradox.** William Stanley Jevons observed in 1865 that as coal efficiency improved, total coal consumption increased rather than decreased. The parallel to software engineering productivity is direct—if AI makes building cheaper, do we build less or infinitely more?
+
+**David Autor's work on task-based technological change.** Autor's research shows that automation rarely eliminates whole jobs; it eliminates tasks within jobs while creating new tasks. The "infinite backlog" argument aligns with his finding that technology tends to complement rather than substitute human labor in the aggregate.
+
+**Marc Andreessen's "Software is Eating the World."** The 2011 essay argued that software was still in its infancy of transforming industries. If true, we're nowhere near peak software demand—we've barely started.
+
+**Clayton Christensen's disruption theory.** Incumbent companies under-build because they optimize for current customers. If engineering becomes cheaper, the long tail of "jobs to be done" that were never economical suddenly becomes viable. Disruption accelerates.
+
+**Fred Brooks and "The Mythical Man-Month."** Brooks argued that software development doesn't scale linearly with headcount due to communication overhead. If AI reduces coordination costs by handling routine tasks, does Brooks' law change? Can teams scale differently?
+
+**The Solow Productivity Paradox.** "You can see the computer age everywhere except in the productivity statistics." For decades, IT investment didn't show up in measured productivity. Are we about to see a delayed payoff, or will AI follow the same pattern?
+
 ## Questions Worth Exploring
 
 1. **When has a productivity tool ever reduced total employment in its field?** Accounting software, design tools, manufacturing automation—did any of them reduce total headcount in their industries, or just change the composition?

@@ -81,6 +81,20 @@ This is deeply uncomfortable because it violates the meritocratic ideal. We want
 
 It's not about rationality. It's about who can outlast whom.
 
+## Adjacent Ideas / Connections
+
+**John Maynard Keynes' actual investment philosophy.** Beyond the quote, Keynes was a speculator who nearly went broke multiple times before developing his "value investing" approach. His experience taught him that being right about value means nothing without the capital to survive being wrong about timing.
+
+**Hyman Minsky's financial instability hypothesis.** Minsky showed that stability breeds instability—long periods without crisis lead to increased leverage and risk-taking, which sets up the next crisis. Forced sellers emerge precisely when everyone thought forced selling was a thing of the past.
+
+**George Soros on reflexivity.** Soros argued that market participants' beliefs affect market fundamentals, which affect beliefs, in a feedback loop. "Irrational" prices aren't errors—they're self-fulfilling prophecies that persist until something breaks the loop.
+
+**Nassim Taleb's barbell strategy.** Taleb advocates extreme safety (cash, treasuries) combined with extreme risk (venture bets, options), nothing in between. The safe side exists precisely to prevent becoming a forced seller of the risky side.
+
+**Seth Klarman's *Margin of Safety*.** Klarman argues that the most important concept in value investing isn't finding cheap assets—it's avoiding situations where you can be forced to sell. Liquidity is the prerequisite for exploiting others' illiquidity.
+
+**Howard Marks' memos on market cycles.** Marks repeatedly emphasizes that "being too far ahead of your time is indistinguishable from being wrong." The market timing problem isn't about prediction—it's about survival.
+
 ## Questions Worth Exploring
 
 1. **Inversion:** What if solvency constraints are a *feature* not a bug? Do they prevent even worse market dysfunction by forcing early contrarians to exit?

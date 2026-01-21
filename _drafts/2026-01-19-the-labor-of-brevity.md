@@ -75,6 +75,20 @@ But there's a third layer you might be sensing: *the optimal length depends on t
 
 The real tension: We praise brevity as a universal virtue, but it's actually a *contextual* virtue. The quote is true for most writing because most writing overestimates how much context the reader needs—or underestimates how much the writer doesn't understand their own point. But it's not a law of nature. Sometimes the long version is right.
 
+## Adjacent Ideas / Connections
+
+**Blaise Pascal's famous apology.** "I have made this longer than usual because I have not had time to make it shorter." The sentiment has been attributed to many writers (Twain, Locke, Cicero), suggesting it captures a universal truth about the writing process.
+
+**Strunk and White's *Elements of Style*.** "Omit needless words" is the book's most famous injunction. The entire tradition of American composition pedagogy takes brevity as a core virtue.
+
+**George Orwell's "Politics and the English Language."** Orwell argued that unclear writing both reflects and enables unclear thinking—and that political manipulation depends on verbal bloat. Brevity is an ethical stance, not just a stylistic one.
+
+**Information theory and compression.** Claude Shannon showed that the information content of a message is inversely related to its predictability. Redundant words carry zero information. Brevity maximizes signal-to-noise ratio.
+
+**Richard Lanham's "Paramedic Method."** Lanham developed a systematic process for revising verbose prose: circle prepositions, highlight "is" verbs, find the action, make it the verb. The method proves that brevity is a learnable skill, not a gift.
+
+**Twitter and the constraint-as-liberation tradition.** From sonnets to haiku to 280 characters, formal constraints often produce more creative work than unlimited freedom. The labor of brevity is also the gift of brevity.
+
 ## Questions Worth Exploring
 
 1. **The inversion:** Is there a domain where *length* requires more effort than brevity? Legal contracts? Academic writing? Where does "make it longer" represent the harder task?

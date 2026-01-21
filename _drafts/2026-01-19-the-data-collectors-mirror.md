@@ -75,6 +75,20 @@ You're sensing that **the more authoritative AI becomes, the more dangerous its 
 
 The uncomfortable question underneath: is it *possible* to build AI that doesn't encode its creators' perspectives? Or is "representative AI" an oxymoron, and we need to think about this problem completely differently?
 
+## Adjacent Ideas / Connections
+
+**Donna Haraway's "situated knowledges."** Haraway argued that all knowledge is produced from a particular standpoint—there is no "view from nowhere." AI's claim to objectivity is philosophically naive; all data collection embodies a perspective.
+
+**Joy Buolamwini's work on algorithmic bias.** Buolamwini's "Gender Shades" project empirically demonstrated that facial recognition systems performed dramatically worse on dark-skinned women. The data didn't just happen to be biased—it reflected systematic blind spots in who builds and tests these systems.
+
+**Safiya Umoja Noble's *Algorithms of Oppression*.** Noble showed how search engines reproduce and amplify racist and sexist stereotypes. The "neutral" algorithm is a myth; the choices embedded in systems reflect the worldviews of their creators.
+
+**Michel Foucault on knowledge/power.** Foucault argued that knowledge production is always entangled with power structures. Who gets to define categories, what counts as data, what questions get asked—these are political choices disguised as technical ones.
+
+**Edward Said's *Orientalism*.** Said showed how Western scholarship constructed "the Orient" as an object of study in ways that served colonial power. AI trained on Western data may reproduce similar dynamics—constructing the non-Western world through a Western lens.
+
+**Kate Crawford's *Atlas of AI*.** Crawford maps the material infrastructure of AI—the mines, the labor, the data centers—showing how AI embeds extractive relationships. The bias problem isn't just about representation; it's about power structures all the way down.
+
 ## Questions Worth Exploring
 
 1. **The inversion:** What if the problem isn't that AI data is biased, but that we've been promised "unbiased AI" and that promise was always impossible? Does the solution lie in better data, or in abandoning the pretense of objectivity?

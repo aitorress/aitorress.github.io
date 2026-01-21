@@ -67,6 +67,20 @@ The contradiction: we want to believe creativity is about unlearning constraints
 
 The deeper tension: this feels elitist, but it might just be true. And if it's true, a lot of what we celebrate as authentic self-expression is actually just... being stuck.
 
+## Adjacent Ideas / Connections
+
+**Picasso's "Learn the rules like a pro, so you can break them like an artist."** Often attributed to Picasso (possibly apocryphal), this captures the core argument: mastery precedes meaningful transgression.
+
+**The Dreyfus model of skill acquisition.** Stuart and Hubert Dreyfus described how experts move from rule-following (novice) to intuitive pattern recognition (expert). "Style" might be what emerges when technique becomes unconscious—when you're no longer thinking about how to do it.
+
+**Wabi-sabi and the aesthetics of imperfection.** Japanese aesthetics value the irregular, the incomplete, the imperfect. But wabi-sabi isn't random imperfection—it's cultivated asymmetry that requires deep understanding of balance. The cracks are intentional.
+
+**Deliberate practice research (Anders Ericsson).** Ericsson's work shows that expertise comes from specific kinds of practice—not just repetition but targeted work at the edge of ability. This supports the "technique enables style" argument: you can't shortcut to expression.
+
+**The outsider art debate.** Jean Dubuffet championed Art Brut—art by untrained creators. The ongoing debate about whether outsider art is "genuine" or "limited" maps directly onto this technique/style tension.
+
+**Jazz and the "play inside/outside" tradition.** Jazz musicians talk about playing "inside" (following harmonic conventions) versus "outside" (departing from them). The great players move fluidly between both—but you can't play outside if you don't know where inside is.
+
 ## Questions Worth Exploring
 
 1. **The inversion:** Is there such a thing as too much technique? At what point does capability become a cage of its own?

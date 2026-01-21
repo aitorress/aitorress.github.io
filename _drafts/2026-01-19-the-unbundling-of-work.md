@@ -75,6 +75,20 @@ The carpenter analogy is comforting because carpenters clearly have embodied ski
 
 You're circling the question of whether your job has a *kernel of irreducible humanness* or whether it's *tasks all the way down*.
 
+## Adjacent Ideas / Connections
+
+**David Autor's task-based framework.** Economist David Autor pioneered the analysis of jobs as task bundles, showing that automation affects tasks, not occupations. His research on "routine" vs. "non-routine" tasks maps directly to which parts of jobs AI threatens.
+
+**The ATM and bank teller paradox.** Counter to predictions, ATM deployment led to *more* bank tellers, not fewer—because reduced branch costs led to more branches, and tellers shifted to sales and relationship tasks. The canonical example of task substitution ≠ job elimination.
+
+**Ronald Coase's theory of the firm.** Coase asked why firms exist at all (vs. pure markets). Answer: transaction costs make bundling work into jobs more efficient than contracting every task separately. If AI reduces coordination costs, does Coase's logic change?
+
+**Cal Newport's "Deep Work."** Newport argues that the ability to focus on cognitively demanding tasks is increasingly valuable precisely because it's increasingly rare. The "unbundled" job might be primarily deep work—if you can protect it.
+
+**The "gig economy" as partial unbundling.** Uber, TaskRabbit, Upwork already unbundle certain jobs into discrete tasks. AI might accelerate this pattern across knowledge work, not just service work.
+
+**Buckminster Fuller's "ephemeralization."** Fuller predicted doing "more with less"—the trend toward accomplishing larger tasks with smaller material and energy inputs. AI-assisted work is extreme ephemeralization of cognitive labor.
+
 ## Questions Worth Exploring
 
 1. **What percentage of your current job is "busywork" you'd happily offload?** If it's over 50%, what does the remaining job actually look like? Is it still a job, or is it a hobby with a salary?

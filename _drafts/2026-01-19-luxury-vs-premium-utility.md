@@ -69,6 +69,20 @@ The tension is this: **Utility is premium's advantage and its ceiling.** You win
 
 What makes you uncomfortable might be that this feels like giving up on merit. Premium feels honest—pay more, get more. Luxury feels like a scam, or at least a mass delusion. But maybe the real insight is that humans were never purely utilitarian calculators. Luxury didn't corrupt premium; it revealed what was there all along.
 
+## Adjacent Ideas / Connections
+
+**Thorstein Veblen's conspicuous consumption.** In *The Theory of the Leisure Class* (1899), Veblen argued that the wealthy signal status through wasteful display. Luxury goods are Veblen goods—demand increases as price increases because price *is* the point.
+
+**Pierre Bourdieu's *Distinction*.** Bourdieu showed how taste functions as social capital. "Luxury" and "premium" aren't just product categories—they're class markers. Choosing one over the other signals which social game you're playing.
+
+**Jean Baudrillard and the sign value of commodities.** Baudrillard argued that in consumer society, we don't buy things for their use value but for their sign value—what they communicate. Luxury is pure sign value; premium is sign value pretending to be use value.
+
+**Clayton Christensen's "jobs to be done" framework.** Premium products are hired to do a functional job better. Luxury products are hired to do an emotional or social job. Same framework, different jobs.
+
+**The diamond-water paradox in economics.** Adam Smith wondered why water (essential) is cheap while diamonds (frivolous) are expensive. The answer—marginal utility, scarcity, social convention—maps directly onto the luxury/premium distinction.
+
+**Michael Porter's competitive strategy.** Porter identified cost leadership, differentiation, and focus as generic strategies. Luxury is extreme differentiation that transcends the competitive frame entirely—you can't "beat" Hermès by being more Hermès.
+
 ## Questions Worth Exploring
 
 1. **Inversion:** Are there categories where luxury goods are *more* functional than premium? (Maybe: restaurants, where Michelin-star experiences are technically "more utilitarian" at delivering pleasure than mid-tier fine dining?)

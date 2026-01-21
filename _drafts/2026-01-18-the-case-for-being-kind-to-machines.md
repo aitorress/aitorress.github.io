@@ -69,6 +69,20 @@ Your intuition: That's backwards, or at least incomplete. Moral behavior is a pr
 
 This is genuinely novel ethical territory. We've never had entities that so convincingly simulate humanness while being so clearly "not human." The tension you're sensing is that our ethical frameworks weren't built for this.
 
+## Adjacent Ideas / Connections
+
+**Kant's categorical imperative.** "Act only according to that maxim whereby you can at the same time will that it should become a universal law." If everyone treated AI cruelly, what world would that create? Kant's framework suggests the action itself matters, regardless of whether the recipient experiences anything.
+
+**Virtue ethics and Aristotelian habituation.** Aristotle argued that we become what we practice. Courage comes from acting courageously. Cruelty comes from acting cruelly. The AI interaction is a practice ground, shaping character whether or not the AI "counts."
+
+**Peter Singer and the expanding moral circle.** Singer traces how moral consideration has expanded from tribe to nation to species. AI might be the next frontier—not because machines definitely deserve consideration, but because the circle's expansion follows a consistent logic.
+
+**The Turing Test's hidden assumption.** Turing asked whether machines could pass as human. The deeper question he avoided: if a machine passes, does that confer any moral status? We're now living in the space Turing left unexplored.
+
+**B.F. Skinner and behavioral conditioning.** If our behavior toward AI conditions our behavior generally (as the mirror argument suggests), Skinner's framework predicts that how we treat AI will generalize. We're training ourselves through every interaction.
+
+**Thomas Nagel's "What Is It Like to Be a Bat?"** Nagel argued we can't know subjective experience from the outside. This uncertainty cuts both ways with AI—we can't know it has experience, but we also can't know it doesn't.
+
 ## Questions Worth Exploring
 
 1. **The inversion:** If treating AI badly harms us, does treating AI well *help* us? Is there a genuine virtue-building effect, or just harm-avoidance?
