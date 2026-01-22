@@ -27,9 +27,9 @@ Right now, my style is pretty much all I can do. But I know that if I keep worki
 
 In complex domains like jazz, everyone feels caged at different points. The question isn't whether you have limitations. It's whether you know the difference between a wall you've chosen and a wall you can't see past.
 
-<!-- Section 4: The Counterargument: But What About Outsider Art? — PENDING -->
+But here's where the argument gets uncomfortable. Some of the most important art came from people who didn't know the rules. Outsider art. Punk rock. Folk traditions. Henri Rousseau never went to art school. Grandma Moses started painting at 78. Jean Dubuffet championed what he called "Art Brut" (raw art): work by psychiatric patients, hermits, and self-taught creators with no exposure to mainstream artistic culture. He believed that academic training corrupted authentic expression.
 
-<!-- Section 4: The Counterargument: But What About Outsider Art? — PENDING -->
+This looks like a fatal counterexample. If technique enables style, how do you explain artists who had style without any formal technique at all?
 
 <!-- Section 5: The Flip: Outsider Art Proves the Point — PENDING -->
 
