@@ -1,7 +1,7 @@
 # Style Is the Residue of Choices — Status
 
 ## Current Phase
-Expansion (Section 6 of 8)
+Expansion (Section 7 of 8)
 
 ## Completed
 - [x] Analysis (2026-01-22)
@@ -14,12 +14,12 @@ Expansion (Section 6 of 8)
 - [x] Section 3: "My Style Is All I Can Do" (2026-01-22)
 - [x] Section 4: The Counterargument (2026-01-22)
 - [x] Section 5: The Flip (2026-01-22)
+- [x] Section 6: The Gatekeeping Question (2026-01-22)
 
 ## In Progress
-- [ ] Section 6: The Gatekeeping Question
+- [ ] Section 7: The Test (How Do You Know?)
 
 ## Still Needed
-- [ ] Section 7: The Test (How Do You Know?)
 - [ ] Section 8: The Close
 - [ ] Polish
 

@@ -41,8 +41,8 @@ This argument has an uncomfortable implication. If technique enables style, and 
 
 But here's the distinction that matters: credentials gatekeep, not capability. A degree from an art school doesn't prove you can make choices. A portfolio does. The question isn't "who certified you?" or "where did you study?" It's "can you do something other than what you're doing?" Institutions don't get to define what counts as technique. They just happen to be one place where people develop it. Portfolio over pedigree. Always.
 
-<!-- Section 7: The Test (How Do You Know?) — PENDING -->
+So how do you tell the difference? From the outside, you often can't. The amateur's "abstract" hands and the master's deliberate abstraction might look identical. You can't judge capability from a single piece of output.
 
-<!-- Section 7: The Test (How Do You Know?) — PENDING -->
+From the inside, though, the test is simple: try something else. If you can't, or if you've never tried, what you call "style" might be the shape of your cage. Some "styles" dissolve the moment you learn the thing you were avoiding. You thought you preferred short sentences until you learned to write long ones and discovered you still preferred them. Now it's a choice. Or you learn to write long ones and realize you only wrote short ones because you couldn't sustain a thought. The technique didn't change your style. It revealed it.
 
 <!-- Section 8: The Close — PENDING -->
