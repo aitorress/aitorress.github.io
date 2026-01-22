@@ -42,6 +42,10 @@
 - "That's where I would really be able to say that I have a style vs a limitation"
 - "In incredibly complex domains such as jazz, it wouldn't surprise me everyone feels caged at different points in time"
 
-### Still Needed
+### Position on Outsider Art (decided 2026-01-22)
 
-- Research on outsider art / Art Brut before author can take a position on that counterargument
+**Decision: Absorb into the argument.**
+
+Outsider art doesn't disprove "technique enables style" — it proves technique can be self-developed. Darger and Wölfli had style *because* they built capability through decades of obsessive practice, just outside institutions.
+
+This aligns with the gatekeeping distinction: credentials gatekeep, not capability. Dubuffet opposed *institutional* technique, not capability itself.
