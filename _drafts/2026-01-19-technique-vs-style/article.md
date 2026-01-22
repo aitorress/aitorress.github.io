@@ -21,7 +21,13 @@ The pattern holds across domains. The chef who serves a "simple" dish of three i
 
 The strongest version of this argument: technique creates the space for style to emerge. Without it, what you call "style" is just the shape of your current constraints. It's like calling a cage a room because you've never walked outside.
 
-<!-- Section 3: "My Style Is All I Can Do" — PENDING -->
+I know this because I live it. I play jazz guitar, and I'm not good enough. I can hear ideas in my head that I can't execute because I haven't practiced enough, because I haven't broken through the barrier. In a state of flow, those ideas never even come. They're not part of my muscle memory or repertoire, so my brain doesn't offer them as options.
+
+Right now, my style is pretty much all I can do. But I know that if I keep working, keep expanding what's possible, I'll eventually be able to pick and choose. That's when I'll really have a style. Not because I'll play differently, but because I'll be choosing to play this way instead of being stuck with it.
+
+In complex domains like jazz, everyone feels caged at different points. The question isn't whether you have limitations. It's whether you know the difference between a wall you've chosen and a wall you can't see past.
+
+<!-- Section 4: The Counterargument: But What About Outsider Art? — PENDING -->
 
 <!-- Section 4: The Counterargument: But What About Outsider Art? — PENDING -->
 
