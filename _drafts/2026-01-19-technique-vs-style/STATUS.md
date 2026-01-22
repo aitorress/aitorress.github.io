@@ -1,17 +1,17 @@
 # Technique vs Style — Status
 
 ## Current Phase
-Research (outsider art)
+Awaiting author decision on outsider art position
 
 ## Completed
 - [x] Analysis (2026-01-22)
 - [x] Author input gathered (2026-01-22)
+- [x] Research: Outsider art / Art Brut / Dubuffet (2026-01-22)
 
 ## In Progress
-- [ ] Research: Outsider art / Art Brut / Dubuffet
+- [ ] Author position on outsider art
 
 ## Still Needed
-- [ ] Author position on outsider art (after research)
 - [ ] Structure proposal
 - [ ] Expansion
 - [ ] Polish
