@@ -64,6 +64,7 @@ Based on analysis of the author's published work:
 - Binary closings that oversimplify real choices
 - Self-deprecating hedges that feel like false modesty
 - Constant urgency—vary the emotional register
+- **Em-dashes** — a major tell that AI wrote the text. Use periods, commas, colons, or parentheses instead. Rewrite sentences to avoid needing em-dashes.
 
 ## Expansion Quality Standards
 
