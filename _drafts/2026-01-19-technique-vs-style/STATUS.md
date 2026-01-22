@@ -1,7 +1,7 @@
 # Style Is the Residue of Choices — Status
 
 ## Current Phase
-Expansion (Section 8 of 8)
+Complete — Ready for Review
 
 ## Completed
 - [x] Analysis (2026-01-22)
@@ -16,12 +16,14 @@ Expansion (Section 8 of 8)
 - [x] Section 5: The Flip (2026-01-22)
 - [x] Section 6: The Gatekeeping Question (2026-01-22)
 - [x] Section 7: The Test (How Do You Know?) (2026-01-22)
+- [x] Section 8: The Close (2026-01-22)
+- [x] Polish pass (2026-01-22)
 
 ## In Progress
-- [ ] Section 8: The Close
+None
 
 ## Still Needed
-- [ ] Polish
+None
 
 ## Key Decisions Made
 - **Title:** "Style Is the Residue of Choices"
@@ -32,5 +34,8 @@ Expansion (Section 8 of 8)
 - **Scope:** Extends beyond art to professional domains generally
 - **Purpose:** Push people to not hide behind "that's my style"
 
+## Remaining Concerns
+None flagged. Piece is ready for final review.
+
 ## Notes
-Section 5 approved. No em-dashes. Continuing expansion.
+Polish pass complete. Word count reduced ~8% (914 → 837). Removed redundant question, cut throat-clearing, tightened hedges.
