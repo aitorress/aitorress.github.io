@@ -1,7 +1,7 @@
 # Style Is the Residue of Choices — Status
 
 ## Current Phase
-Expansion (Section 1 of 8)
+Expansion (Section 2 of 8)
 
 ## Completed
 - [x] Analysis (2026-01-22)
@@ -9,12 +9,12 @@ Expansion (Section 1 of 8)
 - [x] Research: Outsider art / Art Brut / Dubuffet (2026-01-22)
 - [x] Author position on outsider art: Absorb into argument (2026-01-22)
 - [x] Structure approved (2026-01-22)
+- [x] Section 1: The Sharp Distinction (2026-01-22)
 
 ## In Progress
-- [ ] Section 1: The Sharp Distinction (Opening)
+- [ ] Section 2: The Logic
 
 ## Still Needed
-- [ ] Section 2: The Logic
 - [ ] Section 3: "My Style Is All I Can Do" (Personal Anchor)
 - [ ] Section 4: The Counterargument: But What About Outsider Art?
 - [ ] Section 5: The Flip: Outsider Art Proves the Point
@@ -33,4 +33,4 @@ Expansion (Section 1 of 8)
 - **Purpose:** Push people to not hide behind "that's my style"
 
 ## Notes
-Structure approved. Ready for section-by-section expansion.
+Section 1 approved. No em-dashes. Continuing expansion.
