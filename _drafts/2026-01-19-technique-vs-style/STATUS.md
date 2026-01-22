@@ -1,7 +1,7 @@
 # Style Is the Residue of Choices — Status
 
 ## Current Phase
-Expansion (Section 7 of 8)
+Expansion (Section 8 of 8)
 
 ## Completed
 - [x] Analysis (2026-01-22)
@@ -15,12 +15,12 @@ Expansion (Section 7 of 8)
 - [x] Section 4: The Counterargument (2026-01-22)
 - [x] Section 5: The Flip (2026-01-22)
 - [x] Section 6: The Gatekeeping Question (2026-01-22)
+- [x] Section 7: The Test (How Do You Know?) (2026-01-22)
 
 ## In Progress
-- [ ] Section 7: The Test (How Do You Know?)
+- [ ] Section 8: The Close
 
 ## Still Needed
-- [ ] Section 8: The Close
 - [ ] Polish
 
 ## Key Decisions Made

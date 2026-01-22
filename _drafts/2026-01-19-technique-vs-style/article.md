@@ -45,4 +45,6 @@ So how do you tell the difference? From the outside, you often can't. The amateu
 
 From the inside, though, the test is simple: try something else. If you can't, or if you've never tried, what you call "style" might be the shape of your cage. Some "styles" dissolve the moment you learn the thing you were avoiding. You thought you preferred short sentences until you learned to write long ones and discovered you still preferred them. Now it's a choice. Or you learn to write long ones and realize you only wrote short ones because you couldn't sustain a thought. The technique didn't change your style. It revealed it.
 
-<!-- Section 8: The Close — PENDING -->
+None of this is about earning permission to create. You don't need credentials, approval, or mastery before you're allowed to make things. Create now, with whatever you have. But know the difference between freedom and accident. Between choosing simplicity and being stuck with it. Between a style you've developed and a limitation you've rationalized.
+
+Your authentic voice might be waiting on the other side of technique. Or it might be what you discover you'd choose anyway, once you actually have the choice. Either way, you won't know until you expand what's possible. Style is the residue of choices. Make sure you have some.
