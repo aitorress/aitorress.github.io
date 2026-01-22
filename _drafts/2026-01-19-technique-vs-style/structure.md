@@ -1,7 +1,7 @@
-# Proposed Structure: Technique vs Style
+# Proposed Structure: Style Is the Residue of Choices
 
 **Date:** 2026-01-22
-**Status:** Awaiting approval
+**Status:** Approved
 
 ## Core Argument
 Style is the residue of choices—and choice requires capability. Without technique, what looks like style is just the shape of your limitations.
@@ -89,7 +89,7 @@ Style is the residue of choices—and choice requires capability. Without techni
 |----------|-------------------|
 | Prodigies flame out | Tangent—doesn't advance core argument |
 | Beginner's luck problem | Tangent |
-| AI art angle | Interesting but dilutes focus; save for another piece |
+| AI art angle | Author decision: don't include. Save for another piece |
 | Minimalism's dirty secret | Good observation but the piece is already long |
 | Dreyfus model, wabi-sabi, Ericsson | Adjacent ideas overload—pick jazz inside/outside only if needed |
 | Most "Questions Worth Exploring" | Draft scaffolding, not article content |
