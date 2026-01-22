@@ -13,7 +13,13 @@ This distinction matters more than we like to admit. Style is the residue of cho
 
 Think of it this way: technique is vocabulary, and style is what you choose to say. If you only know fifty words, you're not making a stylistic choice to write simply. You just don't know any others. The writer with a ten-thousand-word vocabulary who writes in plain language is doing something different from the writer who never learned the bigger words. Same output, different act.
 
-<!-- Section 2: The Logic — PENDING -->
+Follow the chain. Style requires choice. Choice requires options. Options require capability. And capability requires technique.
+
+This isn't abstract philosophy. You can trace it in specific artists. Picasso could render photorealistic portraits before he started dismantling the human form. His cubist faces weren't the result of not knowing how to draw. They were a deliberate departure from mastery he'd already demonstrated. The Ramones knew how to play their instruments. They chose three chords and two minutes because that's what the music demanded, not because they couldn't do anything else. Hemingway's spare prose came after years of journalism and revision. He learned to write complex sentences before he decided to strip them down.
+
+The pattern holds across domains. The chef who serves a "simple" dish of three ingredients isn't hiding behind simplicity. They're making a choice that only works if each ingredient is perfect and the technique is invisible. The comedian who tells a one-liner in ten words cut it down from fifty. Brevity looks easy. It isn't.
+
+The strongest version of this argument: technique creates the space for style to emerge. Without it, what you call "style" is just the shape of your current constraints. It's like calling a cage a room because you've never walked outside.
 
 <!-- Section 3: "My Style Is All I Can Do" — PENDING -->
 
