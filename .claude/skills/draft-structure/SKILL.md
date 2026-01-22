@@ -139,7 +139,10 @@ Flag when you're reproducing these patterns and suggest alternatives.
 
 ## Saving the Structure
 
-After the author approves the structure, save it to the draft's working folder.
+Save the structure proposal to the draft's working folder **immediately** (before approval), so the author can:
+- Reference it while working locally
+- Return to it in future sessions
+- Annotate or edit it directly
 
 For a draft at `_drafts/2026-01-21-the-foundation-paradox.md`, save to:
 
@@ -147,7 +150,12 @@ For a draft at `_drafts/2026-01-21-the-foundation-paradox.md`, save to:
 _drafts/2026-01-21-the-foundation-paradox/structure.md
 ```
 
-The saved structure becomes the blueprint for `/draft-expand`. Include the full proposed outline with section purposes and content sources.
+Include:
+- **Status:** "Awaiting approval" or "Approved"
+- **Date** at the top
+- Full proposed outline with section purposes and content sources
+
+When the author approves, update the status to "Approved" and the file becomes the blueprint for `/draft-expand`.
 
 ### Update STATUS.md
 
