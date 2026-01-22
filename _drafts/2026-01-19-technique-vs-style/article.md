@@ -31,7 +31,13 @@ But here's where the argument gets uncomfortable. Some of the most important art
 
 This looks like a fatal counterexample. If technique enables style, how do you explain artists who had style without any formal technique at all?
 
-<!-- Section 5: The Flip: Outsider Art Proves the Point — PENDING -->
+Look closer. Dubuffet wasn't arguing that technique doesn't matter. He was arguing that *institutional* technique corrupts authentic expression. That's a different claim. He opposed the academic cooking process: art schools, galleries, museums. He didn't oppose capability itself.
+
+And the famous outsider artists? They had technique. Just not academic technique. Henry Darger spent decades developing systematic methods: tracing, collage, modified enlargements. Adolf Wölfli produced 25,000 densely worked pages over 35 years, with "careful gradations of color and intricate pattern." These artists had style *because* they built capability through obsessive practice. They just built it outside institutions.
+
+The distinction isn't trained versus untrained. It's capable of choice versus stuck. The question isn't "who certified you?" It's "can you do something other than what you're doing?"
+
+<!-- Section 6: The Gatekeeping Question — PENDING -->
 
 <!-- Section 6: The Gatekeeping Question — PENDING -->
 
