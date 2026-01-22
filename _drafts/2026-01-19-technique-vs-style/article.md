@@ -37,9 +37,11 @@ And the famous outsider artists? They had technique. Just not academic technique
 
 The distinction isn't trained versus untrained. It's capable of choice versus stuck. The question isn't "who certified you?" It's "can you do something other than what you're doing?"
 
-<!-- Section 6: The Gatekeeping Question — PENDING -->
+This argument has an uncomfortable implication. If technique enables style, and you need technique before you can make real choices, then who decides what counts as technique? The institutions. The academies. The people with credentials and certifications. "You need to master the fundamentals before you're allowed to break them" is exactly what gatekeepers say to protect their monopoly on legitimacy.
 
-<!-- Section 6: The Gatekeeping Question — PENDING -->
+But here's the distinction that matters: credentials gatekeep, not capability. A degree from an art school doesn't prove you can make choices. A portfolio does. The question isn't "who certified you?" or "where did you study?" It's "can you do something other than what you're doing?" Institutions don't get to define what counts as technique. They just happen to be one place where people develop it. Portfolio over pedigree. Always.
+
+<!-- Section 7: The Test (How Do You Know?) — PENDING -->
 
 <!-- Section 7: The Test (How Do You Know?) — PENDING -->
 

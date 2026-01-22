@@ -1,7 +1,7 @@
 # Style Is the Residue of Choices — Status
 
 ## Current Phase
-Expansion (Section 5 of 8)
+Expansion (Section 6 of 8)
 
 ## Completed
 - [x] Analysis (2026-01-22)
@@ -13,12 +13,12 @@ Expansion (Section 5 of 8)
 - [x] Section 2: The Logic (2026-01-22)
 - [x] Section 3: "My Style Is All I Can Do" (2026-01-22)
 - [x] Section 4: The Counterargument (2026-01-22)
+- [x] Section 5: The Flip (2026-01-22)
 
 ## In Progress
-- [ ] Section 5: The Flip: Outsider Art Proves the Point
+- [ ] Section 6: The Gatekeeping Question
 
 ## Still Needed
-- [ ] Section 6: The Gatekeeping Question
 - [ ] Section 7: The Test (How Do You Know?)
 - [ ] Section 8: The Close
 - [ ] Polish
@@ -33,4 +33,4 @@ Expansion (Section 5 of 8)
 - **Purpose:** Push people to not hide behind "that's my style"
 
 ## Notes
-Section 4 approved. No em-dashes. Continuing expansion.
+Section 5 approved. No em-dashes. Continuing expansion.
