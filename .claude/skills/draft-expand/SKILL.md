@@ -120,6 +120,29 @@ If mid-expansion you realize the structure has problems, say so:
 - "Section 3 and 4 feel like they're making the same point. Merge?"
 - "There's no good transition from X to Y. Consider adding a bridge section?"
 
+## Building the Article Artifact
+
+Create and maintain `article.md` in the working folder as the evolving draft:
+
+```
+_drafts/2026-01-21-the-foundation-paradox/article.md
+```
+
+### On First Expansion
+- Create `article.md` with frontmatter (title, date, status: draft, tags)
+- Add the first expanded section
+- Include HTML comments marking pending sections: `<!-- Section 2: [Title] — PENDING -->`
+
+### On Each Subsequent Section
+- Replace the PENDING comment with the approved expanded content
+- The article grows incrementally as sections are approved
+
+### Why This Matters
+- The author can see the article taking shape in a real file
+- They can edit it locally between sessions
+- Progress is preserved if they return later
+- Single artifact to iterate on, not scattered pieces
+
 ## Updating STATUS.md
 
 After each section is approved:
