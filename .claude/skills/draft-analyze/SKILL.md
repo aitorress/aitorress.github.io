@@ -96,10 +96,20 @@ For a draft at `_drafts/2026-01-21-the-foundation-paradox.md`, create:
 _drafts/
   2026-01-21-the-foundation-paradox/
     STATUS.md
+    analysis.md      (save the full analysis here)
     research/        (empty, will hold research findings)
     author-input.md  (empty, will hold author perspectives)
     structure.md     (empty, will hold approved outline)
 ```
+
+### Save the Analysis
+
+Save the full analysis output to `analysis.md` so the author can:
+- Reference it while working locally
+- Return to it in future sessions
+- Annotate or edit it directly
+
+Include the date at the top of the analysis file.
 
 ### STATUS.md Template
 
