@@ -99,3 +99,25 @@ This skill can be run multiple times for different gaps:
 - `/draft-research "counterarguments to task-based labor theory"`
 
 Each run is independent. The author decides what to incorporate.
+
+## Saving Research Findings
+
+After completing research, save findings to the draft's working folder.
+
+For a draft at `_drafts/2026-01-21-the-foundation-paradox.md`, save to:
+
+```
+_drafts/2026-01-21-the-foundation-paradox/research/[topic-slug].md
+```
+
+Example: Research on ATM/bank teller employment saves to:
+```
+_drafts/2026-01-21-the-foundation-paradox/research/atm-bank-teller-employment.md
+```
+
+### Update STATUS.md
+
+After saving research, update the STATUS.md file:
+- Add to "Completed" section: `- [x] Research: [topic] (YYYY-MM-DD)`
+- Remove from "Still Needed" if all research gaps are filled
+- Add any new open questions discovered during research

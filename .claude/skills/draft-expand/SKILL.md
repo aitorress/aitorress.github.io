@@ -10,10 +10,14 @@ You are expanding the draft into a full article, section by section. The author 
 ## Input
 
 The user will provide:
-- The approved structure from `/draft-structure`
-- The original draft (for raw material)
-- Research findings (if available)
-- Author input (if available)
+- The path to the draft being expanded
+
+You should then read from the working folder:
+- `structure.md` — the approved structure (required)
+- `research/*.md` — research findings (if available)
+- `author-input.md` — author perspectives (if available)
+- `STATUS.md` — current progress (to know where to resume)
+- The original draft file (for raw material)
 
 ## Expansion Process
 
@@ -116,6 +120,25 @@ If mid-expansion you realize the structure has problems, say so:
 - "Section 3 and 4 feel like they're making the same point. Merge?"
 - "There's no good transition from X to Y. Consider adding a bridge section?"
 
+## Updating STATUS.md
+
+After each section is approved:
+1. Mark the section complete in STATUS.md:
+   ```
+   - [x] Section 1: [Title] (YYYY-MM-DD)
+   ```
+2. Update "Current Phase" to show the next section:
+   ```
+   ## Current Phase
+   Expansion (Section 2 of 5)
+
+   ## In Progress
+   - [ ] Section 2: [Title]
+   ```
+3. Add any new open questions or notes from the expansion
+
+This allows resumption across sessions—if the author returns days later, STATUS.md shows exactly where to pick up.
+
 ## What NOT To Do
 
 - Don't expand all sections at once—this defeats the checkpoint purpose
@@ -123,3 +146,4 @@ If mid-expansion you realize the structure has problems, say so:
 - Don't lose the author's voice trying to sound "polished"
 - Don't ignore the structure—if you're deviating, justify it
 - Don't proceed without approval from the author on each section
+- Don't forget to update STATUS.md after each approved section

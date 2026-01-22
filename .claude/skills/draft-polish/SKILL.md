@@ -152,11 +152,35 @@ Cut 15% of the word count. Every piece has fat.
 - Don't fix things that aren't broken
 - Don't publish without author's final approval
 
+## Updating STATUS.md
+
+After polish is complete, update STATUS.md:
+
+```markdown
+## Current Phase
+Complete — Ready for Review
+
+## Completed
+- [x] Analysis (YYYY-MM-DD)
+- [x] Research: [topics] (YYYY-MM-DD)
+- [x] Author input gathered (YYYY-MM-DD)
+- [x] Structure approved (YYYY-MM-DD)
+- [x] All sections expanded (YYYY-MM-DD)
+- [x] Polish pass (YYYY-MM-DD)
+
+## Remaining Concerns
+[Any issues flagged during polish that the author should consider]
+```
+
 ## After Polish
 
 The output is a publish-ready article. The author can:
 - Approve and publish
 - Request specific revisions
 - Run `/draft-polish` again on the revised version
+
+When the author publishes:
+1. Move the article from `_drafts/` to `_posts/`
+2. The working folder can be kept as archive or deleted
 
 The goal is an article that sounds like the author at their best—not a sanitized version of their voice.

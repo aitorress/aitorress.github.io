@@ -86,9 +86,55 @@ Not everything in the draft earns its place. Note sections or ideas that:
 [Should the author run /draft-research first, /draft-input, or go straight to /draft-structure?]
 ```
 
+## Working Folder Setup
+
+When analyzing a draft, create a working folder to persist artifacts across sessions.
+
+For a draft at `_drafts/2026-01-21-the-foundation-paradox.md`, create:
+
+```
+_drafts/
+  2026-01-21-the-foundation-paradox/
+    STATUS.md
+    research/        (empty, will hold research findings)
+    author-input.md  (empty, will hold author perspectives)
+    structure.md     (empty, will hold approved outline)
+```
+
+### STATUS.md Template
+
+```markdown
+# [Draft Title] — Status
+
+## Current Phase
+Analysis
+
+## Completed
+- [x] Analysis (YYYY-MM-DD)
+
+## In Progress
+[None yet]
+
+## Still Needed
+- [ ] Research (if gaps identified)
+- [ ] Author input (if gaps identified)
+- [ ] Structure proposal
+- [ ] Expansion
+- [ ] Polish
+
+## Open Questions
+[From analysis — what needs to be resolved]
+
+## Notes
+[Freeform notes]
+```
+
+Update STATUS.md with analysis results and recommended next steps.
+
 ## What NOT To Do
 
 - Don't rewrite anything yet—this is analysis only
 - Don't be vague ("needs more detail")—be specific about what's missing
 - Don't assume every section of the draft template needs to survive into the final piece
 - Don't treat the draft as sacred—it's a starting point, not a constraint
+- Don't skip creating the working folder—it enables persistence across sessions

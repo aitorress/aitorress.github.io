@@ -104,6 +104,33 @@ After gathering input, summarize:
 - "What's the one thing you want readers to remember from this piece?"
 - "If this piece had a 'hot take' version, what would it be?"
 
+## Saving Author Input
+
+After gathering input, save to the draft's working folder.
+
+For a draft at `_drafts/2026-01-21-the-foundation-paradox.md`, save to:
+
+```
+_drafts/2026-01-21-the-foundation-paradox/author-input.md
+```
+
+If author input is gathered across multiple sessions, append to the existing file with a date header:
+
+```markdown
+---
+
+## Session: YYYY-MM-DD
+
+[New input from this session]
+```
+
+### Update STATUS.md
+
+After saving author input, update the STATUS.md file:
+- Add to "Completed" section: `- [x] Author input gathered (YYYY-MM-DD)`
+- Update "Open Questions" with anything still unresolved
+- Add relevant notes about author's preferences or direction
+
 ## What NOT To Do
 
 - Don't ask questions the author could Google
@@ -111,3 +138,4 @@ After gathering input, summarize:
 - Don't overwhelm with 10+ questions—prioritize
 - Don't treat the author's first answer as final—follow up if something's interesting
 - Don't skip this step because you think you can infer what they'd say
+- Don't lose author input to conversation history—always save to author-input.md

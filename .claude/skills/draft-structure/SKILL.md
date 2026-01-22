@@ -137,6 +137,30 @@ From voice analysis, the author sometimes falls into:
 
 Flag when you're reproducing these patterns and suggest alternatives.
 
+## Saving the Structure
+
+After the author approves the structure, save it to the draft's working folder.
+
+For a draft at `_drafts/2026-01-21-the-foundation-paradox.md`, save to:
+
+```
+_drafts/2026-01-21-the-foundation-paradox/structure.md
+```
+
+The saved structure becomes the blueprint for `/draft-expand`. Include the full proposed outline with section purposes and content sources.
+
+### Update STATUS.md
+
+After saving the approved structure, update STATUS.md:
+- Add to "Completed" section: `- [x] Structure approved (YYYY-MM-DD)`
+- Update "Still Needed" to list each section for expansion:
+  ```
+  - [ ] Section 1: [Title]
+  - [ ] Section 2: [Title]
+  ...
+  ```
+- Update "Current Phase" to `Expansion`
+
 ## What NOT To Do
 
 - Don't preserve draft structure out of inertia
@@ -144,3 +168,4 @@ Flag when you're reproducing these patterns and suggest alternatives.
 - Don't propose a structure you can't justify
 - Don't skip the "What's Not Included" section—transparency about cuts matters
 - Don't proceed to expansion without author approval
+- Don't save until the author explicitly approves the structure
