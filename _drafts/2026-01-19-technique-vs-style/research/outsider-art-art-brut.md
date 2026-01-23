@@ -50,13 +50,19 @@ This is crucial: famous outsider artists weren't technique-less. They developed 
 - Produced 25,000 densely worked pages and 3,300 drawings over 35 years
 - "Highly complex" works with "careful gradations of color and intricate pattern"
 - Combined illustration, poetry, storytelling, and musical composition
+- "Horror vacui": every empty space filled with systematic "two small holes" he called "birds"
+- "Meticulously numbered, dated and organized in handmade books"
+- André Breton called his work "one of the three or four most important oeuvres of the twentieth century"
 - Output "dwarfed that of Picasso or Matisse"
 
 **Henry Darger (1892-1973):**
 - Developed systematic techniques: tracing, modifying photographic enlargements, collaging paper dolls
+- Had drugstores create photographic enlargements of source images, "resized per his instruction," which he traced using carbon paper
+- Kept all source materials, enabling scholars to trace elements to specific works
 - "Inventive techniques and meticulous craftsmanship"
 - "Exceptional color and compositional quality"
 - 15-volume, thousands-of-pages opus
+- Source: [American Folk Art Museum - Darger Papers](https://folkartmuseum.libraryhost.com/resources/henry_darger_papers), [Intuit - Methods and Manipulations](https://art.org/exhibitions/henry-darger-methods-and-manipulations)
 
 - **Source:** [Andrew Edlin Gallery: Wölfli & Darger](https://www.edlingallery.com/exhibitions/realms-of-creation-wolfli-darger-side-by-side2), [Wikipedia: Adolf Wölfli](https://en.wikipedia.org/wiki/Adolf_W%C3%B6lfli)
 - **Credibility:** High (established gallery, Wikipedia with citations)
