@@ -27,6 +27,8 @@ None
 - Recent (2024): "50% chance we'll get AI smarter than us in 5-20 years"
 
 ### Tool-Human Coevolution (Extended Mind)
+- **Homo habilis = "handy man"** — tool use is literally definitional to our genus
+- Each Homo species is defined by its tool-relationship (habilis → erectus → sapiens)
 - Human brains and tools have coevolved for 2.6 million years
 - Andy Clark's "extended mind" thesis: tools aren't separate from cognition, they're part of it
 - Language and tool use share neural circuits (Broca's area)

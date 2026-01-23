@@ -10,6 +10,27 @@ Human brains and tools have been coevolving for 2.6 million years. The "extended
 
 ## Key Findings
 
+### The Homo Genus Is Defined by Tool Use
+
+The very name of our genus encodes our relationship with tools. **Homo habilis** (literally "handy man" or "skillful man") was named by Louis Leakey in 1964 specifically because of its association with stone tools. Tool use isn't incidental to being human; it's definitional.
+
+The progression of the Homo genus tracks a progression of tool-relationships:
+
+| Species | Tool Milestone |
+|---------|----------------|
+| **Homo habilis** (~2.5 mya) | First stone tools (Oldowan) |
+| **Homo erectus** (~1.9 mya) | Fire, refined tools (Acheulean), cooperative hunting |
+| **Homo sapiens** (~300 kya) | Language, art, agriculture, writing, computers |
+| **Homo sapiens + AI** (now) | ? |
+
+Each transition didn't replace the previous Homo; it *was* the next Homo. The species is defined by its tool-relationship.
+
+**Key insight for the piece:** If AI represents the next major tool-relationship, "passing phase" might just mean passing into the next version of what Homo has always done: merge with our tools. We're not being replaced. We're becoming *Homo habilis* again, in a new key.
+
+- **Source:** Standard paleoanthropology (Homo habilis naming)
+- **Credibility:** High (established science)
+- **How to use:** This reframes "passing phase" entirely. Each Homo was a "passing phase" into the next. That's not extinction; that's evolution.
+
 ### 2.6 Million Years of Brain-Tool Coevolution
 
 Human brains and technology have been coevolving since the first intentionally modified stone tools appeared 2.6 million years ago. During this period:
@@ -95,6 +116,8 @@ He argues that "this double whammy of plastic brains and increasingly responsive
 - Would benefit from research on cases where coevolution went badly (e.g., technology that degraded rather than enhanced cognition)
 
 ## Raw Quotes
+
+> "Homo habilis" = "handy man" — tool use is literally in our genus's name
 
 > "It's still a kind of ongoing cyborgification that we're living through." — Andy Clark
 
