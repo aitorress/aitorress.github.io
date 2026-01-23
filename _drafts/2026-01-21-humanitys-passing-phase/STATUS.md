@@ -1,45 +1,49 @@
 # The Baton We Didn't Know We Were Carrying — Status
 
 ## Current Phase
-Analysis complete. Ready for author input.
+Author input gathered. Ready for research or structure.
 
 ## Completed
 - [x] Idea expansion (2026-01-21)
 - [x] Analysis (2026-01-23)
+- [x] Author input (2026-01-23)
 
 ## In Progress
 None
 
 ## Still Needed
-- [ ] Author input (recommended next)
-- [ ] Research (Hinton source, consciousness debate, AI trajectory data)
+- [ ] Research (Hinton source, possibly consciousness debate)
 - [ ] Structure proposal
 - [ ] Expansion
 - [ ] Polish
 
+## Key Direction from Author Input
+
+**Major reframe:** The author's position is more optimistic than the draft suggests. They see "passing phase" as evolution, not extinction. The piece should land on merger/continuity rather than replacement.
+
+**Emotional register:** Curiosity over dread. Exploratory, not anxious.
+
+**Practitioner angle:** Author uses these tools daily. The tool-wielder framing ("orders of magnitude improvement when I wield the tool") could ground the piece in experience rather than abstraction.
+
 ## Open Questions
 
-From analysis — must be resolved before structure:
+1. **Does the piece need the Hinton source?** The author's interpretation diverges from an apocalyptic reading anyway. Might be worth confirming context, but less critical now.
 
-1. **What's the author's actual stance?** The draft surveys the territory but doesn't commit to a position. Does the author find "passing phase" terrifying, liberating, both?
+2. **How much consciousness debate?** Author resolves this simply: merger means the question matters less. Might not need deep research here.
 
-2. **Who is the audience?** AI insiders? General readers grappling with AI anxiety? This determines tone and how much to explain.
+3. **New title?** "The Baton We Didn't Know We Were Carrying" still works but might need revisiting given the evolution-not-replacement frame.
 
-3. **Where should the piece land?** The "how should we live?" question is raised but unanswered. The piece needs a destination.
+## Research Gaps (Revised Priority)
 
-4. **How to handle the consciousness objection?** It's the strongest counterargument and currently underdeveloped. Needs either a real response or acknowledgment that it might defeat the thesis.
-
-## Research Gaps Identified
-
-- Hinton's actual quote/context (source needed)
-- Consciousness and AI: what philosophers actually say
-- Historical examples of "dominant form" transitions
-- Moravec's specific predictions in "Mind Children"
+- Hinton quote context (lower priority now—author's interpretation stands on its own)
+- Historical examples of tool-human coevolution (might be more relevant than "species transitions")
+- Consciousness debate (low priority—author sidesteps it via merger framing)
 
 ## Notes
 
-**Piece type:** Tension-driven. The Hinton quote is a provocation; the piece should feel like a response that takes the reader somewhere.
+The draft as written leans into existential weight. Author's actual take is lighter, more curious. Structure should reflect this shift.
 
-**Strengths to preserve:** Steel man argument, mitochondria metaphor, "most important / last that matters" paradox, best raw material lines.
-
-**Watch out for:** Scope creep (Fermi Paradox, etc.), grandiosity ("democratization of godhood"), bibliography-dumping in Adjacent Ideas.
+Strong raw material from author:
+- "Who's to say it's not humanity's next evolution rather than something else?"
+- "The tool is a tool, and as a tool it needs someone who wields it."
+- "Push the boundaries of the tool and thus myself."
