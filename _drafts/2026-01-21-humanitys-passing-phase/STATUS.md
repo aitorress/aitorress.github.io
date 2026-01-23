@@ -1,7 +1,7 @@
-# The Baton We Didn't Know We Were Carrying — Status
+# Still Handy — Status
 
 ## Current Phase
-Research complete. Ready for structure.
+Expansion
 
 ## Completed
 - [x] Idea expansion (2026-01-21)
@@ -10,14 +10,29 @@ Research complete. Ready for structure.
 - [x] Research: Hinton quote context (2026-01-23)
 - [x] Research: Tool-human coevolution (2026-01-23)
 - [x] Research: Jagged frontier / Mollick (2026-01-23)
+- [x] Structure approved (2026-01-23)
 
 ## In Progress
 None
 
-## Still Needed
-- [ ] Structure proposal
-- [ ] Expansion
+## Still Needed — Sections to Expand
+- [ ] Section 1: The Quote That Sounds Like Doom
+- [ ] Section 2: What Most People Hear
+- [ ] Section 3: The Word That Changes Everything
+- [ ] Section 4: Passing Into What?
+- [ ] Section 5: The Genus Defined by Tools
+- [ ] Section 6: We've Always Been Cyborgs
+- [ ] Section 7: Navigating the Jagged Frontier
+- [ ] Section 8: The Road, Not the Destination
 - [ ] Polish
+
+## Key Decisions
+
+| Decision | Choice |
+|----------|--------|
+| Title | "Still Handy" |
+| Section 7 | Expanded with jagged frontier + practitioner experience |
+| Hinton 2024 | Skip — focus on reframe, not timelines |
 
 ## Key Research Findings
 
@@ -25,45 +40,24 @@ None
 - Quote was a response to "worst-case scenario" question at EmTech Digital 2023
 - Framed as "conceivable," not inevitable
 - Fuller explanation: "You need biological intelligence to evolve so that it can create digital intelligence" — implies necessity, not just replacement
-- Recent (2024): "50% chance we'll get AI smarter than us in 5-20 years"
 
 ### Tool-Human Coevolution (Extended Mind)
 - **Homo habilis = "handy man"** — tool use is literally definitional to our genus
 - Each Homo species is defined by its tool-relationship (habilis → erectus → sapiens)
 - Human brains and tools have coevolved for 2.6 million years
 - Andy Clark's "extended mind" thesis: tools aren't separate from cognition, they're part of it
-- Language and tool use share neural circuits (Broca's area)
 - Clark: "It's still a kind of ongoing cyborgification that we're living through"
-- Supports author's framing: merger is natural, not alien
 
 ### Jagged Frontier (Ethan Mollick)
 - AI capabilities are uneven: superhuman at some tasks, failing at others
 - BCG study: 40% quality improvement, 25% faster — but 19% worse on tasks outside the frontier
 - "Unless you use AI a lot, you won't know which is which"
-- Centaurs (divide labor) vs Cyborgs (fully integrated) — both outperform human-alone or AI-alone
-- Grounds author's "tool needs a wielder" in research: the wielder navigates the jaggedness
-
-## Key Direction
-
-**Author's position + research alignment:**
-- Author sees "passing phase" as evolution, not extinction
-- Research on extended mind supports this: we've always been tool-augmented beings
-- Hinton's own elaboration ("you need biological intelligence") supports "bridge" framing
-- The piece can position AI as the latest chapter in 2.6 million years of human-tool coevolution
-
-## Open Questions
-
-1. **New title?** Current title still works but might want something that signals evolution rather than succession.
-
-2. **How much Hinton?** The piece could use him as a jumping-off point and then diverge (since author's reading differs from apocalyptic interpretations).
-
-3. **Andy Clark as counterweight?** Clark's extended mind thesis could balance Hinton's warning with a "this is natural" perspective.
+- Grounds author's "tool needs a wielder" in research
 
 ## Notes
 
-Research strengthens the author's instinct. "Passing phase" doesn't have to mean replacement. The extended mind literature suggests humanity-with-AI is just the next form of humanity-with-tools.
+**Core argument:** "Passing phase" doesn't mean extinction—it means evolution. Humanity has always been defined by its tool-relationships, and AI is just the latest chapter.
 
-Strong material for the piece:
-- "You need biological intelligence to evolve so that it can create digital intelligence" (Hinton)
-- "It's still a kind of ongoing cyborgification" (Clark)
-- "Human brains and technology have been coevolving for 2.6 million years"
+**Estimated length:** ~900-1100 words (8 sections)
+
+**Tone:** Curiosity over dread. Exploratory, not anxious.

@@ -1,7 +1,7 @@
-# Proposed Structure: The Baton We Didn't Know We Were Carrying
+# Approved Structure: Still Handy
 
 **Date:** 2026-01-23
-**Status:** Awaiting approval
+**Status:** Approved
 
 ---
 
@@ -13,7 +13,7 @@
 
 **Tension-driven** — but the tension resolves toward curiosity and evolution, not dread. The piece challenges the apocalyptic reading of Hinton's quote and offers a reframe grounded in paleoanthropology and the extended mind thesis.
 
-## Proposed Outline
+## Approved Outline
 
 ### 1. The Quote That Sounds Like Doom
 **Purpose:** Hook. Establish the provocation that the piece will respond to.
@@ -60,11 +60,17 @@
 
 ---
 
-### 7. The Tool Needs a Wielder
-**Purpose:** Ground in author's practitioner experience. Make it concrete.
-**Content:** Author's perspective: "The tool is a tool, and as a tool it needs someone who wields it." Orders of magnitude improvement when wielding AI vs. not. Not every domain, not yet. But the practice is about pushing boundaries—of the tool and yourself. The frontier keeps moving.
-**Estimated length:** Medium paragraph
-**Source:** Author input
+### 7. Navigating the Jagged Frontier
+**Purpose:** Ground in author's practitioner experience + Mollick's research. Make it concrete.
+**Content:**
+- Author's practitioner perspective: "The tool is a tool, and as a tool it needs someone who wields it."
+- Orders of magnitude improvement when wielding AI vs. not
+- But the frontier is jagged (Mollick): AI is superhuman at some tasks, fails at others. "Unless you use AI a lot, you won't know which is which."
+- The practice is learning where the edges are—pushing boundaries of the tool and yourself
+- BCG study: 40% quality improvement inside the frontier, but 19% worse outside it
+- This is what tool-mastery has always looked like: learning where the tool works and where it doesn't
+**Estimated length:** Medium-long paragraph (expanded)
+**Source:** Author input + Jagged frontier research (Mollick)
 
 ---
 
@@ -76,44 +82,31 @@
 
 ---
 
+## Decisions Made
+
+| Question | Decision |
+|----------|----------|
+| Title | "Still Handy" — punchy callback to Homo habilis |
+| Section 7 depth | Expanded with jagged frontier research + practitioner experience |
+| Hinton 2024 Nobel interview | Skip — keep focus on reframe, not timelines |
+
 ## What's Not Included
 
 | From Draft | Reason for Cutting |
 |------------|-------------------|
 | Fermi Paradox section | Tangential—doesn't serve the core argument about identity/evolution |
 | "Democratization of godhood" | Too grandiose for the piece's grounded tone |
-| Most of "Adjacent Ideas" list | Bibliography-dump feel; keeping only what's integrated (Clark, Hinton) |
+| Most of "Adjacent Ideas" list | Bibliography-dump feel; keeping only what's integrated (Clark, Hinton, Mollick) |
 | Detailed first/second-order effects | The piece isn't about consequences; it's about reframing identity |
 | Buddhist non-attachment, Kuhn, Stewart Brand | Name-drops that don't earn their place |
 | The consciousness counterargument | Author sidesteps via merger framing; doesn't need resolution |
 | "How should we live?" urgency | Author doesn't feel urgency; piece lands on curiosity, not prescription |
-
-## Open Questions
-
-1. **Title:** "The Baton We Didn't Know We Were Carrying" still works (evolution/succession framing). But alternatives:
-   - "Passing Into"
-   - "What Homo Does"
-   - "The Next Tool"
-   - Keep current title?
-
-2. **How personal?** Section 7 brings in author's practitioner experience. Should this be expanded with more specific examples, or keep it brief?
-
-3. **Hinton's recent statements?** Include the Nobel Prize interview (2024) about "50% chance in 5-20 years," or keep focus on the original quote?
-
-## Alternative Structures Considered
-
-**Option B: Lead with Homo habilis**
-Open with "We named ourselves after tools" and work backward to Hinton. Rejected because Hinton's quote is the more compelling hook—it's what the audience has likely encountered.
-
-**Option C: More personal throughout**
-Weave author's AI usage experience into multiple sections. Rejected because it might dilute the historical/philosophical argument. Better to concentrate personal experience in one section.
-
----
+| Hinton 2024 Nobel interview | Not needed; original quote + context is sufficient |
 
 ## Estimated Total Length
 
-~800-1000 words (8 sections, varying lengths). Tight and focused.
+~900-1100 words (8 sections, with Section 7 expanded). Tight and focused.
 
 ## Next Step
 
-Awaiting author approval. Once approved, proceed to `/draft-expand` section by section.
+Proceed to `/draft-expand` section by section.
