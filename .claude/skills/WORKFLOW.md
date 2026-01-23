@@ -221,6 +221,12 @@ The workflow has 7 skills organized into 4 phases:
 - Removes throat-clearing, redundancy, padding
 - Sharpens vague language
 
+**Pass 4 - Source Links:**
+- Cross-references article against research files
+- Adds links for key references (people, studies, concepts)
+- Links sparingly—only substantive references, not every mention
+- Verifies URLs are correct and accessible
+
 **Output:**
 - Polish report with analysis and changes
 - Final polished article
