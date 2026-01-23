@@ -27,7 +27,9 @@ Look at our ancestors. The earliest humans scientists could identify as "us" the
 
 So when I hear "humanity is a passing phase," I don't hear extinction. I hear the same pattern that's been running for 2.6 million years. We pick up a new tool. We change. We become something we couldn't have imagined before.
 
-<!-- Section 6: We've Always Been Cyborgs — PENDING -->
+The philosopher Andy Clark calls it "ongoing cyborgification"—the way we've always extended ourselves through our tools. A notebook becomes part of your memory. A calculator becomes part of your reasoning. The boundary between "you" and "your tools" has never been as clean as we pretend. We've been cyborgs since the first human picked up a rock and realized it could do what fingernails couldn't.
+
+AI extends... what, exactly? Maybe everything. Maybe that's what makes it feel different. But different in degree isn't different in kind.
 
 <!-- Section 7: Navigating the Jagged Frontier — PENDING -->
 
