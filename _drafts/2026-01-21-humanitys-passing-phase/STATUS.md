@@ -9,6 +9,7 @@ Research complete. Ready for structure.
 - [x] Author input (2026-01-23)
 - [x] Research: Hinton quote context (2026-01-23)
 - [x] Research: Tool-human coevolution (2026-01-23)
+- [x] Research: Jagged frontier / Mollick (2026-01-23)
 
 ## In Progress
 None
@@ -34,6 +35,13 @@ None
 - Language and tool use share neural circuits (Broca's area)
 - Clark: "It's still a kind of ongoing cyborgification that we're living through"
 - Supports author's framing: merger is natural, not alien
+
+### Jagged Frontier (Ethan Mollick)
+- AI capabilities are uneven: superhuman at some tasks, failing at others
+- BCG study: 40% quality improvement, 25% faster — but 19% worse on tasks outside the frontier
+- "Unless you use AI a lot, you won't know which is which"
+- Centaurs (divide labor) vs Cyborgs (fully integrated) — both outperform human-alone or AI-alone
+- Grounds author's "tool needs a wielder" in research: the wielder navigates the jaggedness
 
 ## Key Direction
 
