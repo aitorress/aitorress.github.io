@@ -47,6 +47,27 @@ The draft's sections (Steel Man, Devil's Advocate, etc.) were for thinking. The 
 - Honest acknowledgment of uncertainty
 - Where you've landed (even if tentative)
 
+### Decide on Headings
+
+Not every piece needs section headings, but longer pieces usually benefit from them.
+
+**When to use headings:**
+- Pieces over 800 words generally need them for navigation
+- Complex arguments with distinct phases benefit from signposting
+- How-to or explainer content almost always needs them
+
+**When to skip headings:**
+- Short pieces (under 500 words) often flow better without them
+- Personal essays or narrative pieces may feel more intimate without
+- When the argument is a single continuous thread
+
+**If using headings:**
+- Decide whether to use working section titles or write punchier ones
+- Consider which sections might combine under one heading
+- Headings should orient the reader, not just label content
+
+Include a "Headings: Yes/No" decision with brief rationale in the structure proposal.
+
 ### The Author's Voice Shapes Structure
 Based on analysis of published posts, the author's typical arc:
 1. Casual opening that signals the problem
@@ -95,6 +116,9 @@ Present the structure as a proposal. The author approves, modifies, or rejects b
 
 ### Piece Type
 [Type from analysis]
+
+### Headings
+[Yes/No] — [Brief rationale: length, complexity, piece type]
 
 ### Proposed Outline
 
