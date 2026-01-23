@@ -34,6 +34,7 @@ Read the full draft checking for voice alignment with the author's established s
 - Sections that sound generic or "AI-written"
 - Places where the voice shifts awkwardly
 - Formulaic patterns creeping in (same opener style, same closer style)
+- Em-dashes — a major tell that AI wrote the text. Replace with periods, commas, colons, or parentheses. Rewrite sentences to avoid needing them.
 
 ### Pass 2: Self-Critique
 
