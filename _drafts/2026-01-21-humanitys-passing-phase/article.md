@@ -21,7 +21,7 @@ Look at the word he used: *conceivable*. Not inevitable. Not likely. Not even pr
 
 We're not the thing being replaced. We're the origin. The necessary precondition. The quote that sounds like a death sentence is actually a birth announcement—we're the species that creates what comes next.
 
-<!-- Section 4: Passing Into What? — PENDING -->
+But here's what really caught me: "passing phase" assumes we know what comes after. The phrase implies we stop existing—that there's a clean break between us and whatever follows. But evolution doesn't work by replacement. It works by becoming. What if we're not passing *out* of existence, but passing *into* something?
 
 <!-- Section 5: The Genus Defined by Tools — PENDING -->
 
