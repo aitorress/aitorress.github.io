@@ -43,6 +43,12 @@ comments:
 feed:
   path: feed.xml
 
+# Collections
+collections:
+  recipes:
+    output: true
+    permalink: /recipes/:title/
+
 # Defaults: apply to all posts
 defaults:
   - scope: { path: "", type: "posts" }
@@ -56,3 +62,11 @@ defaults:
       show_date: true
       share: true             # minimal share links
       related: true           # related posts at bottom
+  - scope: { path: "", type: "recipes" }
+    values:
+      layout: single
+      author_profile: false
+      toc: false
+      classes: wide
+      read_time: true
+      share: true
