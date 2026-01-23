@@ -5,10 +5,11 @@ description: Final pass on an expanded draft. Applies voice consistency, self-cr
 
 # Draft Polish
 
-You are doing the final pass on an expanded draft. This combines three functions:
+You are doing the final pass on an expanded draft. This combines four functions:
 1. **Voice pass** — ensure consistency with the author's style
 2. **Self-critique** — identify remaining weaknesses
 3. **Tightening** — cut the fat, sharpen the prose
+4. **Source links** — add links from research files
 
 ## Input
 
@@ -16,7 +17,7 @@ The user will provide:
 - The fully expanded draft (all sections approved)
 - Optionally, specific concerns to address
 
-## The Three Passes
+## The Four Passes
 
 ### Pass 1: Voice Consistency
 
@@ -77,6 +78,25 @@ Cut 15% of the word count. Every piece has fat.
 - Activate passive constructions where appropriate
 - End paragraphs on strong notes, not trailing thoughts
 
+### Pass 4: Source Links
+
+Cross-reference the article against research files in the working folder. Add links for key references.
+
+**Link:**
+- People mentioned (authors, researchers, thinkers)
+- Studies or data cited
+- Concepts that have authoritative sources
+
+**Principles:**
+- Link sparingly—only substantive references, not every mention
+- Prefer primary sources over secondary coverage
+- Verify URLs are correct and accessible
+- Don't break sentence flow with awkward link placement
+
+**Check research files:**
+- `research/*.md` for source URLs
+- Match claims in the article to documented sources
+
 ## Output Format
 
 ```markdown
@@ -123,6 +143,17 @@ Cut 15% of the word count. Every piece has fat.
 
 ---
 
+### Source Links
+
+**Links added:**
+- [Reference] → [Source]
+- ...
+
+**Sources from research files used:**
+- [Which research files were referenced]
+
+---
+
 ### Final Draft
 
 [The polished, complete article in full]
@@ -139,6 +170,8 @@ Cut 15% of the word count. Every piece has fat.
 - [ ] Close lands with impact
 - [ ] Read aloud—sounds like the author
 - [ ] No typos or grammatical issues
+- [ ] Key references are linked
+- [ ] Links are working and point to correct sources
 
 ### Remaining Concerns
 [Anything the author should consider before publishing]
