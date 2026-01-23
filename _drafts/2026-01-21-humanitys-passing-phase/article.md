@@ -13,7 +13,9 @@ Geoffrey Hinton, one of the architects of deep learning, said something a few ye
 
 The quote circulates in AI discourse like a warning label. Most people read it as doom. I'm not sure that's right.
 
-<!-- Section 2: What Most People Hear — PENDING -->
+When this quote makes the rounds—on Twitter threads, in tech podcasts, at dinner parties where someone's had too much wine—the interpretation is always the same. AI replaces us. We become obsolete. Skynet, but with better marketing. The story writes itself: superintelligence arrives, decides we're either a threat or an inconvenience, and that's that. Humanity had a good run.
+
+It's a clean narrative. Terrifying, but clean. And it's not what Hinton actually said.
 
 <!-- Section 3: The Word That Changes Everything — PENDING -->
 
