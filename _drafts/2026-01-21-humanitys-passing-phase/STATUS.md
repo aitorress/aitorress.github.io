@@ -13,10 +13,10 @@ Expansion
 - [x] Structure approved (2026-01-23)
 
 ## In Progress
-None
+- [ ] Section 2: What Most People Hear
 
 ## Still Needed — Sections to Expand
-- [ ] Section 1: The Quote That Sounds Like Doom
+- [x] Section 1: The Quote That Sounds Like Doom (2026-01-23)
 - [ ] Section 2: What Most People Hear
 - [ ] Section 3: The Word That Changes Everything
 - [ ] Section 4: Passing Into What?

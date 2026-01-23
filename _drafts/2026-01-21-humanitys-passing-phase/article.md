@@ -7,9 +7,11 @@ tags: [ai, evolution, intelligence, hinton, tools]
 
 # Still Handy
 
-Geoffrey Hinton, one of the architects of deep learning, said something that stopped me: "I think it's quite conceivable that humanity is just a passing phase in the evolution of intelligence."
+Geoffrey Hinton, one of the architects of deep learning, said something a few years ago that I keep coming back to: "I think it's quite conceivable that humanity is just a passing phase in the evolution of intelligence."
 
-Read it again. *Passing phase.* Not the culmination. Not the point. A phase. Like adolescence, but for the entire species.
+*Passing phase.*
+
+The quote circulates in AI discourse like a warning label. Most people read it as doom. I'm not sure that's right.
 
 <!-- Section 2: What Most People Hear — PENDING -->
 
