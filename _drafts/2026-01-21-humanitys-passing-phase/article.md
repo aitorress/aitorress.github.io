@@ -15,7 +15,7 @@ The quote circulates in AI discourse like a warning label. Most people read it a
 
 When this quote makes the rounds—on Twitter threads, in tech podcasts, at dinner parties where someone's had too much wine—the interpretation is always the same. AI replaces us. We become obsolete. Skynet, but with better marketing. The story writes itself: superintelligence arrives, decides we're either a threat or an inconvenience, and that's that. Humanity had a good run.
 
-It's a clean narrative. Terrifying, but clean. And it's not what Hinton actually said.
+It's a clean narrative. Terrifying, but clean. And it's not how I took it.
 
 <!-- Section 3: The Word That Changes Everything — PENDING -->
 
