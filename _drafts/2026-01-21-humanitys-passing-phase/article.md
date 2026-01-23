@@ -7,7 +7,7 @@ tags: [ai, evolution, intelligence, hinton, tools]
 
 # Still Handy
 
-Geoffrey Hinton, one of the architects of deep learning, said something a few years ago that I keep coming back to: "I think it's quite conceivable that humanity is just a passing phase in the evolution of intelligence."
+[Geoffrey Hinton](https://www.technologyreview.com/2023/05/03/1072589/video-geoffrey-hinton-google-ai-risk-ethics/), one of the architects of deep learning, said something a few years ago that I keep coming back to: "I think it's quite conceivable that humanity is just a passing phase in the evolution of intelligence."
 
 *Passing phase.*
 
@@ -27,13 +27,13 @@ Look at our ancestors. Scientists named the earliest recognizable humans *Homo h
 
 So when I hear "humanity is a passing phase," I don't hear extinction. I hear the same pattern that's been running for 2.6 million years. We pick up a new tool. We change. We become something we couldn't have imagined before.
 
-The philosopher Andy Clark calls it "ongoing cyborgification"—the way we've always extended ourselves through our tools. A notebook becomes part of your memory. A calculator becomes part of your reasoning. The boundary between "you" and "your tools" has never been as clean as we pretend. We've been cyborgs since the first human picked up a rock and realized it could do what fingernails couldn't.
+The philosopher Andy Clark [calls it](https://blog.dropbox.com/topics/work-culture/the-mind-at-work--andy-clark-on-our-brain-s-endless-entanglement) "ongoing cyborgification"—the way we've always extended ourselves through our tools. A notebook becomes part of your memory. A calculator becomes part of your reasoning. The boundary between "you" and "your tools" has never been as clean as we pretend. We've been cyborgs since the first human picked up a rock and realized it could do what fingernails couldn't.
 
 AI extends... what, exactly? Maybe everything. Maybe that's what makes it feel different. But different in degree isn't different in kind.
 
 I use these tools every day. The difference between wielding AI and not wielding it is orders of magnitude—in speed, in reach, in what I can even attempt. But here's the thing: the tool isn't magic. It's a tool. And tools need someone who knows where they work and where they don't.
 
-Ethan Mollick calls this the "jagged frontier." AI capabilities aren't a smooth line where hard tasks are out of reach and easy ones are handled. The frontier is jagged: AI crushes some complex tasks while failing at seemingly simple ones. A study with Boston Consulting Group consultants found 40% quality improvement on tasks inside the frontier—but 19% *worse* performance on tasks outside it. The skill isn't just using the tool. It's knowing which side of the line you're on.
+Ethan Mollick calls this the "[jagged frontier](https://www.oneusefulthing.org/p/centaurs-and-cyborgs-on-the-jagged)." AI capabilities aren't a smooth line where hard tasks are out of reach and easy ones are handled. The frontier is jagged: AI crushes some complex tasks while failing at seemingly simple ones. [A study](https://www.hbs.edu/faculty/Pages/item.aspx?num=64700) with Boston Consulting Group consultants found 40% quality improvement on tasks inside the frontier—but 19% *worse* performance on tasks outside it. The skill isn't just using the tool. It's knowing which side of the line you're on.
 
 This is what tool-mastery has always looked like. Every human ancestor who picked up a new tool had to learn its edges. Where does the stone cut? Where does it shatter? Where does fire cook, and where does it consume? The practice is the same now: I'm learning where AI extends me and where it misleads me. Pushing the boundaries of the tool, and pushing my own.
 
