@@ -1,7 +1,7 @@
 # Still Handy — Status
 
 ## Current Phase
-Polish
+Complete — Ready for Review
 
 ## Completed
 - [x] Idea expansion (2026-01-21)
@@ -11,20 +11,23 @@ Polish
 - [x] Research: Tool-human coevolution (2026-01-23)
 - [x] Research: Jagged frontier / Mollick (2026-01-23)
 - [x] Structure approved (2026-01-23)
+- [x] All sections expanded (2026-01-23)
+- [x] Polish pass (2026-01-23)
 
-## In Progress
-- [ ] Polish
+## Sections
+- [x] Section 1: The Quote That Sounds Like Doom
+- [x] Section 2: What Most People Hear
+- [x] Section 3: The Word That Changes Everything
+- [x] Section 4: Passing Into What?
+- [x] Section 5: The Genus Defined by Tools
+- [x] Section 6: We've Always Been Cyborgs
+- [x] Section 7: Navigating the Jagged Frontier
+- [x] Section 8: The Road, Not the Destination
 
-## Still Needed — Sections to Expand
-- [x] Section 1: The Quote That Sounds Like Doom (2026-01-23)
-- [x] Section 2: What Most People Hear (2026-01-23)
-- [x] Section 3: The Word That Changes Everything (2026-01-23)
-- [x] Section 4: Passing Into What? (2026-01-23)
-- [x] Section 5: The Genus Defined by Tools (2026-01-23)
-- [x] Section 6: We've Always Been Cyborgs (2026-01-23)
-- [x] Section 7: Navigating the Jagged Frontier (2026-01-23)
-- [x] Section 8: The Road, Not the Destination (2026-01-23)
-- [ ] Polish
+## Final Stats
+- **Word count:** ~755 words (target was 900-1100; piece is tight and complete)
+- **Tone:** Curiosity over dread ✓
+- **Core argument delivered:** "Passing phase" = evolution, not extinction ✓
 
 ## Key Decisions
 

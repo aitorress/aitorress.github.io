@@ -23,7 +23,7 @@ We're not the thing being replaced. We're the origin. The necessary precondition
 
 But here's what really caught me: "passing phase" assumes we know what comes after. The phrase implies we stop existing—that there's a clean break between us and whatever follows. But evolution doesn't work by replacement. It works by becoming. What if we're not passing *out* of existence, but passing *into* something?
 
-Look at our ancestors. The earliest humans scientists could identify as "us" they named *Homo habilis*—literally "handy man." We defined ourselves by our tools from the start. And each major chapter in human evolution has been a story of new tool-relationships: *habilis* with stone tools, *erectus* with fire and cooperative hunting, *sapiens* with language and writing and eventually computers. Each transition wasn't one species replacing another. It was the next version of what it means to be human. Each was a "passing phase" into something more.
+Look at our ancestors. Scientists named the earliest recognizable humans *Homo habilis*—literally "handy man." We defined ourselves by our tools from the start. And each major chapter in human evolution has been a story of new tool-relationships: *habilis* with stone tools, *erectus* with fire and cooperative hunting, *sapiens* with language and writing and eventually computers. Each transition wasn't one species replacing another. It was the next version of what it means to be human. Each was a "passing phase" into something more.
 
 So when I hear "humanity is a passing phase," I don't hear extinction. I hear the same pattern that's been running for 2.6 million years. We pick up a new tool. We change. We become something we couldn't have imagined before.
 
@@ -35,7 +35,7 @@ I use these tools every day. The difference between wielding AI and not wielding
 
 Ethan Mollick calls this the "jagged frontier." AI capabilities aren't a smooth line where hard tasks are out of reach and easy ones are handled. The frontier is jagged: AI crushes some complex tasks while failing at seemingly simple ones. A study with Boston Consulting Group consultants found 40% quality improvement on tasks inside the frontier—but 19% *worse* performance on tasks outside it. The skill isn't just using the tool. It's knowing which side of the line you're on.
 
-This is what tool-mastery has always looked like. Every Homo who picked up a new tool had to learn its edges. Where does the stone cut? Where does it shatter? Where does fire cook, and where does it consume? The practice is the same now: I'm learning where AI extends me and where it misleads me. Pushing the boundaries of the tool, and pushing my own.
+This is what tool-mastery has always looked like. Every human ancestor who picked up a new tool had to learn its edges. Where does the stone cut? Where does it shatter? Where does fire cook, and where does it consume? The practice is the same now: I'm learning where AI extends me and where it misleads me. Pushing the boundaries of the tool, and pushing my own.
 
 Maybe Hinton is right. Maybe we are a passing phase. But that's not news—we've always been passing into what comes next. The question isn't whether we're a phase. It's whether we're paying attention to the transition.
 
