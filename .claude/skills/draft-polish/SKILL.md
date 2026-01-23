@@ -34,6 +34,8 @@ Read the full draft checking for voice alignment with the author's established s
 - Sections that sound generic or "AI-written"
 - Places where the voice shifts awkwardly
 - Formulaic patterns creeping in (same opener style, same closer style)
+- Em-dashes — a major tell that AI wrote the text. Replace with periods, commas, colons, or parentheses. Rewrite sentences to avoid needing them.
+- "Not X. It's Y." / "Isn't X. It's Y." constructions — another AI tell when overused. One or two can work; three or more is a pattern. Vary the structure or combine into single sentences.
 
 ### Pass 2: Self-Critique
 
