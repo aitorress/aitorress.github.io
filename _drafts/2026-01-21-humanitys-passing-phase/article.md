@@ -31,6 +31,10 @@ The philosopher Andy Clark calls it "ongoing cyborgification"—the way we've al
 
 AI extends... what, exactly? Maybe everything. Maybe that's what makes it feel different. But different in degree isn't different in kind.
 
-<!-- Section 7: Navigating the Jagged Frontier — PENDING -->
+I use these tools every day. The difference between wielding AI and not wielding it is orders of magnitude—in speed, in reach, in what I can even attempt. But here's the thing: the tool isn't magic. It's a tool. And tools need someone who knows where they work and where they don't.
+
+Ethan Mollick calls this the "jagged frontier." AI capabilities aren't a smooth line where hard tasks are out of reach and easy ones are handled. The frontier is jagged: AI crushes some complex tasks while failing at seemingly simple ones. A study with Boston Consulting Group consultants found 40% quality improvement on tasks inside the frontier—but 19% *worse* performance on tasks outside it. The skill isn't just using the tool. It's knowing which side of the line you're on.
+
+This is what tool-mastery has always looked like. Every Homo who picked up a new tool had to learn its edges. Where does the stone cut? Where does it shatter? Where does fire cook, and where does it consume? The practice is the same now: I'm learning where AI extends me and where it misleads me. Pushing the boundaries of the tool, and pushing my own.
 
 <!-- Section 8: The Road, Not the Destination — PENDING -->

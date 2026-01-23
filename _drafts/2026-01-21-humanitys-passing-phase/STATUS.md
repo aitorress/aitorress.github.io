@@ -13,7 +13,7 @@ Expansion
 - [x] Structure approved (2026-01-23)
 
 ## In Progress
-- [ ] Section 7: Navigating the Jagged Frontier
+- [ ] Section 8: The Road, Not the Destination
 
 ## Still Needed — Sections to Expand
 - [x] Section 1: The Quote That Sounds Like Doom (2026-01-23)
@@ -22,7 +22,7 @@ Expansion
 - [x] Section 4: Passing Into What? (2026-01-23)
 - [x] Section 5: The Genus Defined by Tools (2026-01-23)
 - [x] Section 6: We've Always Been Cyborgs (2026-01-23)
-- [ ] Section 7: Navigating the Jagged Frontier
+- [x] Section 7: Navigating the Jagged Frontier (2026-01-23)
 - [ ] Section 8: The Road, Not the Destination
 - [ ] Polish
 
