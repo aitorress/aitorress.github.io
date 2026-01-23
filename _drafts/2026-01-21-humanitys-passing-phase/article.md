@@ -37,4 +37,6 @@ Ethan Mollick calls this the "jagged frontier." AI capabilities aren't a smooth 
 
 This is what tool-mastery has always looked like. Every Homo who picked up a new tool had to learn its edges. Where does the stone cut? Where does it shatter? Where does fire cook, and where does it consume? The practice is the same now: I'm learning where AI extends me and where it misleads me. Pushing the boundaries of the tool, and pushing my own.
 
-<!-- Section 8: The Road, Not the Destination — PENDING -->
+Maybe Hinton is right. Maybe we are a passing phase. But that's not news—we've always been passing into what comes next. The question isn't whether we're a phase. It's whether we're paying attention to the transition.
+
+"Passing phase" sounds like an ending. It might just be what Homo has always done: pick up a new tool and become something more. We're still handy. We're still becoming.
