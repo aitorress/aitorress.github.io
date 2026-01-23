@@ -23,7 +23,9 @@ We're not the thing being replaced. We're the origin. The necessary precondition
 
 But here's what really caught me: "passing phase" assumes we know what comes after. The phrase implies we stop existing—that there's a clean break between us and whatever follows. But evolution doesn't work by replacement. It works by becoming. What if we're not passing *out* of existence, but passing *into* something?
 
-<!-- Section 5: The Genus Defined by Tools — PENDING -->
+Consider our genus. The first member we named *Homo habilis*—literally "handy man." We defined ourselves by our tools from the start. And each major chapter in human evolution has been a story of new tool-relationships: *habilis* with stone tools, *erectus* with fire and cooperative hunting, *sapiens* with language and writing and eventually computers. Each transition wasn't one species replacing another. It was the next version of what it means to be Homo. Each was a "passing phase" into something more.
+
+So when I hear "humanity is a passing phase," I don't hear extinction. I hear the same pattern that's been running for 2.6 million years. We pick up a new tool. We change. We become something we couldn't have imagined before.
 
 <!-- Section 6: We've Always Been Cyborgs — PENDING -->
 

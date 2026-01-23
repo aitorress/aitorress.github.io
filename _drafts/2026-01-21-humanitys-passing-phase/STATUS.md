@@ -13,14 +13,14 @@ Expansion
 - [x] Structure approved (2026-01-23)
 
 ## In Progress
-- [ ] Section 5: The Genus Defined by Tools
+- [ ] Section 6: We've Always Been Cyborgs
 
 ## Still Needed — Sections to Expand
 - [x] Section 1: The Quote That Sounds Like Doom (2026-01-23)
 - [x] Section 2: What Most People Hear (2026-01-23)
 - [x] Section 3: The Word That Changes Everything (2026-01-23)
 - [x] Section 4: Passing Into What? (2026-01-23)
-- [ ] Section 5: The Genus Defined by Tools
+- [x] Section 5: The Genus Defined by Tools (2026-01-23)
 - [ ] Section 6: We've Always Been Cyborgs
 - [ ] Section 7: Navigating the Jagged Frontier
 - [ ] Section 8: The Road, Not the Destination
