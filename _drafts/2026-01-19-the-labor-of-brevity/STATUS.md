@@ -1,35 +1,40 @@
 # The Labor of Brevity — Status
 
 ## Current Phase
-Ready for polish
+Complete — Ready for Review
 
 ## Completed
 - [x] Analysis (2026-01-24)
 - [x] Author input gathered (2026-01-24)
 - [x] Research: AI verbosity techniques (2026-01-24)
 - [x] Structure approved (2026-01-24)
-- [x] Section 1: The Paradox (2026-01-24)
-- [x] Section 2: The Sigh (2026-01-24)
-- [x] Section 3: Why Compression Is Work (2026-01-24)
-- [x] Section 4: The Transfer of Labor (2026-01-24)
-- [x] Section 5: The Flood (2026-01-24)
-- [x] Section 6: The AI Aside (2026-01-24)
-- [x] Section 7: The Landing (2026-01-24)
-
-## In Progress
-[None]
-
-## Still Needed
-- [ ] Polish
+- [x] All sections expanded (2026-01-24)
+- [x] Polish pass (2026-01-24)
 
 ## Article Stats
-- Word count: ~750 words
-- Reading time: ~3-4 minutes
-- Sections: 7 (including skippable AI aside)
+- **Original word count:** ~750
+- **Polished word count:** ~680 (9% reduction)
+- **Reading time:** ~3 minutes
 
-## Notes
-- Full draft saved to `article.md`
-- AI section has playful skip prompt as discussed
-- Incorporated author's raw quotes: "if everything is important, nothing is", "sigh", "word-meaning ratio"
-- Dr. GRPO/DAPO research woven into AI aside
-- Recommended: Run /draft-polish next
+## Polish Summary
+
+### Voice Adjustments
+- Fixed "isn't X. It's Y." pattern (varied structure in two places)
+- Cut throat-clearing phrases ("Here's the core of it:", "Think about that.", "This reframes the whole thing.")
+- Tightened redundant phrasing throughout
+
+### Tightening
+- Removed ~70 words of padding
+- Combined sentences where flow improved
+- Cut "the labor is real" from landing (echoed earlier "This is labor")
+
+### Links Added
+- [reward hacking](https://www.emergentmind.com/topics/verbosity-compensation-behavior)
+- [Dr. GRPO](https://www.emergentmind.com/topics/dr-grpo)
+
+## Remaining Concerns
+- None significant. Piece is tight and lands on its thesis.
+
+## Next Steps
+- Author review
+- If approved: move from `_drafts/` to `_posts/`, update status to "published"
