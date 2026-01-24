@@ -1,20 +1,17 @@
 # The Case for Being Kind to Machines — Status
 
 ## Current Phase
-Research Complete — Awaiting Author Input
+Shelved
 
 ## Completed
 - [x] Analysis (2026-01-24)
 - [x] Research: behavioral transfer, AI ethics, and philosophical grounding (2026-01-24)
 
-## In Progress
-[None]
-
-## Still Needed
-- [ ] Author input (personal trigger, actual practice, line-drawing, audience)
-- [ ] Structure proposal
-- [ ] Expansion
-- [ ] Polish
+## Shelved
+- [ ] ~~Author input~~
+- [ ] ~~Structure proposal~~
+- [ ] ~~Expansion~~
+- [ ] ~~Polish~~
 
 ## Open Questions
 
@@ -50,4 +47,16 @@ The Kantian self-cultivation argument is now the strongest anchor: "We always ou
 
 The piece should acknowledge the transfer hypothesis is plausible but unproven, then pivot to the self-cultivation framing which doesn't require empirical validation.
 
-Recommended next step: `/draft-input` for author's personal stake and key decisions.
+## Why Shelved (2026-01-24)
+
+The author's primary interest was the "training" argument—that interactions with AI directly shape future model behavior. Research revealed this is weaker than hoped: Constitutional AI means user conversations don't directly train models like Claude. The remaining arguments (Kantian self-cultivation, moral circle expansion) are defensible but weren't the hook that made this piece interesting to the author.
+
+**Salvageable material:**
+- Research on behavioral transfer and Media Equation
+- Kant's indirect duty argument (empirically validated)
+- Moral circle expansion history
+
+**Could revisit if:**
+- Training mechanisms change to incorporate more direct user feedback
+- A different angle becomes compelling
+- Another piece needs this research
