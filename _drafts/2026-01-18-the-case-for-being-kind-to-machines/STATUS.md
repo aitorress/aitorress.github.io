@@ -1,16 +1,16 @@
 # The Case for Being Kind to Machines — Status
 
 ## Current Phase
-Analysis
+Research Complete — Awaiting Author Input
 
 ## Completed
 - [x] Analysis (2026-01-24)
+- [x] Research: behavioral transfer, AI ethics, and philosophical grounding (2026-01-24)
 
 ## In Progress
 [None]
 
 ## Still Needed
-- [ ] Research (behavioral transfer studies, RLHF reality check, animal welfare history)
 - [ ] Author input (personal trigger, actual practice, line-drawing, audience)
 - [ ] Structure proposal
 - [ ] Expansion
@@ -18,20 +18,36 @@ Analysis
 
 ## Open Questions
 
-**From analysis — must resolve before expansion:**
+**Resolved by research:**
+1. ~~Is there empirical support for behavioral transfer?~~ → Partial. The Media Equation establishes we treat tech socially. Kant's indirect duty argument is empirically validated (animal cruelty predicts violence). But direct AI→human rudeness transfer is understudied. Researchers call for longitudinal studies.
 
-1. Is there empirical support for the behavioral transfer claim (rudeness to AI → rudeness to humans)?
+**Still need author input:**
 2. What's the author's personal stake? What triggered this piece?
-3. Is the piece advocating for "kindness" or just "not cruelty"? These have different bars.
+3. Is the piece advocating for "kindness" or just "not cruelty"?
 4. Who is the intended audience?
-5. Should the piece commit to positions where it currently hedges (labor frame, line-drawing)?
+5. Should the piece commit to positions where it currently hedges?
+
+**New from research:**
+6. Should the "training" argument be dropped or softened? Constitutional AI means user interactions don't directly train Claude.
+7. How to handle Singer's sentience criterion? His moral circle expansion requires capacity to suffer—unclear if AI qualifies.
+
+## Research Summary
+
+**Strong support found for:**
+- Mirror argument (Kant's indirect duty + criminology data on animal cruelty → violence)
+- Cultural argument (moral circle expansion history)
+- Media Equation: humans automatically treat computers as social actors
+
+**Weakened by research:**
+- Training argument: Constitutional AI reduces reliance on direct user feedback. Reframe to "aggregate norms matter" rather than "you're training the next model"
+
+**Complication discovered:**
+- MIT longitudinal study: heavy chatbot users show worse outcomes (less human socialization). The "kindness is costless" framing may need nuance.
 
 ## Notes
 
-The piece's core insight is strong: moral behavior shapes the actor regardless of whether the recipient "counts." This reframing from "does AI deserve kindness?" to "does practicing kindness make you better?" is the defensible, interesting claim.
+The Kantian self-cultivation argument is now the strongest anchor: "We always ought to keep ourselves in good moral condition no matter what." This doesn't require proving AI can suffer or that cruelty transfers—it's about the agent's moral character.
 
-The four-argument structure (training, Pascal's Wager, mirror, cultural) is solid. Devil's Advocate is genuinely robust.
+The piece should acknowledge the transfer hypothesis is plausible but unproven, then pivot to the self-cultivation framing which doesn't require empirical validation.
 
-Main risk: the behavioral transfer claim is currently unsupported. If research doesn't back it, the piece needs to reframe as philosophical speculation rather than practical ethics.
-
-Recommended next step: `/draft-research` to ground the empirical claims.
+Recommended next step: `/draft-input` for author's personal stake and key decisions.
