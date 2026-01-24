@@ -45,7 +45,11 @@ But brevity isn't about word count. It's about right-sizing for your reader.
 
 If you compress so much that the reader lacks context, you've just shifted the burden differently. Now they have to guess what you mean, fill in gaps, or send follow-up questions. You saved yourself editing time and cost them thinking time. That's not brevity. That's laziness wearing brevity's clothes.
 
-The goal is compression that *lands*. A message trimmed to exactly what this reader needs to understand, no more, no less. That's harder than just "writing less."
+This means writing is as much about the reader as the writer. If you don't know your audience, you don't know what context they're missing. You're guessing what to include and what to cut. That's not compression. That's hope.
+
+And if you're writing for multiple audiences, the problem compounds. What's obvious to one reader needs explanation for another. A word that lands precisely for an expert is noise to a beginner. The same sentence has different information density depending on who's reading it. A piece optimized for everyone is optimized for no one.
+
+The goal is compression that *lands*. A message trimmed to exactly what this reader needs to understand, no more, no less. The best writing picks a reader and writes to them. Everyone else is eavesdropping.
 
 ## The Flood
 
