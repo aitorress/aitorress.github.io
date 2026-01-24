@@ -5,10 +5,10 @@ This document describes the recommended workflow for creating articles using the
 ## Overview
 
 ```
-idea-expansion → draft-analyze → [research + input] → draft-structure → draft-expand → draft-polish → publish
+idea-expansion → draft-analyze → [research + input] → draft-structure → draft-expand → draft-polish → [draft-enrich] → publish
 ```
 
-The workflow has 7 skills organized into 4 phases:
+The workflow has 8 skills organized into 5 phases:
 
 | Phase | Skills | Purpose |
 |-------|--------|---------|
@@ -16,6 +16,7 @@ The workflow has 7 skills organized into 4 phases:
 | 2. Analysis | `draft-analyze` | Identify gaps and plan next steps |
 | 3. Gathering | `draft-research`, `draft-input` | Fill gaps with external data and author perspective |
 | 4. Writing | `draft-structure`, `draft-expand`, `draft-polish` | Build and refine the article |
+| 5. Enrichment | `draft-enrich` | Add depth and curves to a solid foundation (optional) |
 
 ---
 
@@ -237,7 +238,53 @@ The workflow has 7 skills organized into 4 phases:
 "Polish the foundation paradox article"
 ```
 
-**Next step:** Review the polished article, then publish by moving from `_drafts/` to `_posts/`.
+**Next step:** Review the polished article. If it feels too lean, run `draft-enrich`. Otherwise, publish.
+
+---
+
+## Phase 5: Enrichment (Optional)
+
+### Skill: `draft-enrich`
+
+**When to use:** The article is polished and solid, but feels too lean. It makes its point and leaves, but could benefit from more depth, tangents, or "curves" that make it richer and more interesting.
+
+**Key insight:** It's easier to add richness to a strong foundation than to build depth into a messy draft. That's why this step comes *after* polish, not before.
+
+**What it does:**
+- Reviews the original draft for interesting threads that were cut for leanness
+- Identifies opportunities to add:
+  - **Parallel examples** (e.g., the meeting version of a writing insight)
+  - **Psychological angles** (why we behave this way)
+  - **Structural explanations** (what systems/incentives cause this)
+  - **Important nuances** (caveats that prevent oversimplification)
+  - **Expert references** (authorities who reinforce the point)
+- Proposes specific additions with placement recommendations
+- Keeps the core argument intact while adding texture
+
+**Output:**
+- List of proposed additions with rationale
+- Updated article with new sections woven in
+- Re-run of polish pass on new content
+
+**Example usage:**
+```
+"The article feels too lean. What curves could we add?"
+"Review the original draft for threads we could bring back"
+```
+
+**Process:**
+1. Review original draft for cut material
+2. Identify 3-5 potential additions
+3. Discuss with author which feel right
+4. Write new sections
+5. Re-run polish pass on expanded article
+
+**When NOT to use:**
+- The article already has good depth
+- The leanness is intentional (short-form piece)
+- Adding more would dilute the core message
+
+**Next step:** After enrichment, run `draft-polish` again on the new content, then publish.
 
 ---
 
@@ -334,3 +381,4 @@ When the polished article is ready:
 | `draft-structure` | All gathered material | `structure.md` | What's the argument arc? |
 | `draft-expand` | Approved structure | `article.md` (incremental) | Does each section earn its place? |
 | `draft-polish` | Complete draft | Polished article | Is this ready to publish? |
+| `draft-enrich` | Polished but lean article | Richer article with curves | What depth is missing? |
