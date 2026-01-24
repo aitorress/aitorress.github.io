@@ -1,11 +1,11 @@
 ---
 name: header-image
-description: Generate a header image for the article using Gemini's Nano Banana image generation API. Run this just before publishing.
+description: Generate a header image for the article using the gemini-image-generator skill. Run this just before publishing.
 ---
 
 # Header Image Generation
 
-You are generating a header image for a blog article using Google's Gemini image generation API (Nano Banana). This skill runs after `draft-polish` and before publishing.
+Generate a header image for a blog article using the `gemini-image-generator` skill. This skill runs after `draft-polish` and before publishing.
 
 ## Input
 
@@ -21,90 +21,100 @@ Read the article and identify:
 - **Core theme**: What is the central idea or tension?
 - **Emotional tone**: Contemplative, provocative, hopeful, critical?
 - **Key metaphors**: Any visual imagery already in the text?
-- **Domain**: AI, writing, philosophy, business, etc.
+- **Philosophical undercurrent**: What deeper truth is the piece reaching for?
 
-### Step 2: Design the Image Concept
+### Step 2: Conceptualize the Image
 
-Create an image concept that:
-- **Captures the essence** of the article without being literal
-- **Avoids clichés**: No generic "AI brain" imagery, no handshake stock photos
-- **Embraces abstraction**: Geometric forms, textures, light play, or surreal compositions work better than literal depictions
-- **Matches the blog's aesthetic**: Clean, intellectual, minimal
+**This is the most important step.** Don't illustrate the article literally. Instead, think like an art director creating a piece that *comments on* the philosophy.
 
-**Good image concepts:**
+Ask yourself:
+- What visual metaphor would make someone pause and think?
+- What image would reward a second look after reading the article?
+- What would hang in a gallery next to this essay?
+
+**High-brow thinking examples:**
+
+| Article Theme | Literal (Bad) | Conceptual (Good) |
+|---------------|---------------|-------------------|
+| AI replacing jobs | Robot at a desk | Empty chair in a sunlit room, dust motes suspended |
+| Value of brevity | Short vs long text | Single perfect brushstroke on vast white canvas |
+| Human judgment in AI age | Human + robot handshake | Prism splitting light into organic and geometric patterns |
+| Scarcity of attention | Clock or hourglass | Lone figure at edge of infinite library, back turned |
+
+**Good image directions:**
 - Abstract representations of tension or duality
-- Minimalist compositions with strong geometric elements
-- Atmospheric landscapes that evoke a mood
-- Surreal juxtapositions that provoke thought
+- Minimalist compositions with strong negative space
+- Atmospheric scenes that evoke mood over meaning
+- Surreal juxtapositions that reward contemplation
+- Art photography with conceptual depth
 
 **Avoid:**
-- Literal illustrations of the topic (no robots for AI articles)
+- Literal illustrations (no robots for AI articles)
+- Stock photo aesthetics (handshakes, lightbulbs, gears)
 - Busy, cluttered compositions
-- Corporate stock photo aesthetics
-- Text in the image (Gemini can render it, but it often looks awkward)
+- Anything that could be a LinkedIn post thumbnail
+- Text in the image
 
 ### Step 3: Craft the Prompt
 
-Write a detailed prompt for Gemini's image generation. Structure it as:
+Write a detailed, narrative prompt. Describe the scene, don't list keywords.
 
+**Prompt structure:**
 ```
-[Style/medium] of [subject/composition], [mood/atmosphere], [color palette], [lighting]. [Additional details].
+[Medium/style] of [subject with specific details], [mood/atmosphere], [color palette], [lighting setup]. [Composition notes]. [Additional sensory details].
 ```
 
-**Example prompts:**
+**Example prompts by article type:**
 
-For an article about AI and human judgment:
-> Abstract digital painting of a prism refracting light into organic and geometric patterns, contemplative mood, muted blues and warm amber accents, soft diffused lighting. Minimalist composition with negative space.
+**For philosophical/abstract pieces:**
+> A fine art photograph of a single origami crane suspended by an invisible thread in a vast, empty white gallery space. The crane casts a long, dramatic shadow. Soft, diffused natural light from an unseen window. The composition emphasizes negative space and solitude. Contemplative, museum-quality stillness.
 
-For an article about the value of brevity:
-> Minimalist photograph of a single drop of water about to fall from a leaf, captured in high contrast black and white, dramatic side lighting creating deep shadows. The moment of potential energy before release.
+**For pieces about human nature:**
+> An intimate, Vermeer-inspired photograph of weathered hands holding a small, imperfect ceramic bowl. Warm, golden hour light streaming through a window illuminates dust particles in the air. Shallow depth of field. The mood is reverent, unhurried. Shot on medium format film with natural grain.
 
-For an article about scarcity in the age of AI:
-> Surreal landscape where an endless library fades into mist, one illuminated book floating in the foreground, dreamlike atmosphere, cool grays with a single warm spotlight, soft volumetric lighting.
+**For pieces about technology/change:**
+> Abstract architectural photograph looking up through a spiral staircase that seems to extend infinitely. The stairs transition from warm wood at the bottom to cold steel at the top. Dramatic contrast between light and shadow. Vertigo-inducing composition. The feeling of standing at a threshold.
+
+**For pieces about craft/mastery:**
+> A macro photograph of ink spreading through water, captured at the precise moment of controlled chaos. Deep indigo tendrils against cream-colored paper fibers visible beneath. High contrast, dramatic side lighting. The tension between intention and accident frozen in time.
 
 ### Step 4: Generate the Image
 
-Use the Gemini API to generate the image. Call the API with:
+Use the `gemini-image-generator` skill to create the image.
 
+**Find the skill directory:**
 ```bash
-curl -s -X POST \
-  "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp-image-generation:generateContent" \
-  -H "x-goog-api-key: $GEMINI_API_KEY" \
-  -H "Content-Type: application/json" \
-  -d '{
-    "contents": [{
-      "parts": [
-        {"text": "Generate an image: [YOUR PROMPT HERE]. Aspect ratio 16:9, high quality, suitable for a blog header."}
-      ]
-    }],
-    "generationConfig": {
-      "responseModalities": ["TEXT", "IMAGE"]
-    }
-  }' | jq -r '.candidates[0].content.parts[] | select(.inlineData) | .inlineData.data' | base64 -d > /tmp/header-image.png
+SKILL_DIR="${HOME}/.claude/skills/gemini-image-generator"
+# or check project-local: ./.claude/skills/gemini-image-generator
 ```
 
-**Important API notes:**
-- Model: `gemini-2.0-flash-exp-image-generation` (or `gemini-2.5-flash-image` for newer access)
-- Must include both TEXT and IMAGE in responseModalities
-- Response contains base64-encoded image in `inlineData.data`
-- Requires `GEMINI_API_KEY` environment variable
+**Generate the header image:**
+```bash
+# Create output directory
+mkdir -p assets/images/posts/[article-slug]
 
-### Step 5: Save the Image
-
-Save the generated image to the assets directory:
-
-```
-assets/images/posts/[article-slug]/header.png
-```
-
-For example, for `2026-01-19-the-labor-of-brevity.md`:
-```
-assets/images/posts/the-labor-of-brevity/header.png
+# Generate with 16:9 aspect ratio for headers
+npx tsx "${SKILL_DIR}/generate-image.ts" \
+  "[YOUR DETAILED PROMPT]" \
+  -n header.png \
+  -a 16:9 \
+  -o assets/images/posts/[article-slug]
 ```
 
-### Step 6: Update the Article Frontmatter
+**Example:**
+```bash
+mkdir -p assets/images/posts/the-labor-of-brevity
 
-Add the header image to the article's frontmatter:
+npx tsx "${SKILL_DIR}/generate-image.ts" \
+  "A fine art photograph of a single drop of ink falling toward a pristine white page, frozen in the moment before impact. The drop is perfectly spherical, containing within it a swirling galaxy of deep blue-black pigment. Dramatic side lighting creates a long shadow anticipating the splash. Macro lens, shallow depth of field. The tension of potential energy, the weight of a single word. Museum-quality stillness." \
+  -n header.png \
+  -a 16:9 \
+  -o assets/images/posts/the-labor-of-brevity
+```
+
+### Step 5: Update the Article Frontmatter
+
+Add the header image to the article's YAML frontmatter:
 
 ```yaml
 ---
@@ -114,15 +124,28 @@ status: published
 tags: [writing, thinking, communication, craft]
 header:
   image: /assets/images/posts/the-labor-of-brevity/header.png
-  overlay_filter: 0.3
 ---
 ```
 
 **Frontmatter options for Minimal Mistakes theme:**
-- `header.image`: Path to the header image (displayed above content)
-- `header.overlay_image`: Path for overlay style (image behind title)
-- `header.overlay_filter`: Darken overlay (0.0-1.0, useful for readability)
-- `header.caption`: Optional image credit/caption
+- `header.image`: Full-width image above content
+- `header.overlay_image`: Image behind title (use with overlay_filter)
+- `header.overlay_filter`: Darken overlay for readability (0.0-1.0)
+- `header.caption`: Image credit or caption
+
+### Step 6: Evaluate and Iterate
+
+View the generated image. Ask:
+- Does it reward a second look?
+- Would it feel at home in a gallery?
+- Does it comment on the article's philosophy without illustrating it?
+- Is there anything that screams "AI generated"? (uncanny faces, melted text, impossible geometry)
+
+If not satisfied:
+1. Identify what's wrong (too literal, wrong mood, poor composition, AI artifacts)
+2. Refine the prompt
+3. Regenerate (up to 3 attempts)
+4. If still not working, consider whether this article needs an image at all
 
 ## Output Format
 
@@ -130,49 +153,33 @@ header:
 ## Header Image: [Article Title]
 
 ### Concept
-[1-2 sentences describing the visual concept and why it fits the article]
+[2-3 sentences on the visual philosophy—why this image, what it says about the article's themes]
 
-### Prompt Used
-> [The exact prompt sent to Gemini]
+### Prompt
+> [The exact prompt used]
 
-### Image Location
+### Location
 `assets/images/posts/[slug]/header.png`
 
-### Frontmatter Addition
+### Frontmatter
 ```yaml
 header:
   image: /assets/images/posts/[slug]/header.png
 ```
 
-### Generation Notes
-- [Any issues encountered]
-- [Number of attempts if regeneration was needed]
+### Notes
+- [Generation attempts and refinements]
 - [Why this version was selected]
+- [Any concerns for author review]
 ```
-
-## Regeneration
-
-If the first image doesn't fit:
-1. Analyze why it didn't work (too literal, wrong mood, poor composition)
-2. Adjust the prompt accordingly
-3. Generate again (up to 3 attempts)
-4. If still not satisfactory, note the issue and let the author decide
-
-## What NOT To Do
-
-- Don't generate images with text/typography (unreliable rendering)
-- Don't use overly complex prompts (simpler often works better)
-- Don't force an image if the article doesn't need one
-- Don't use the image without author approval
-- Don't commit images that are clearly AI-generated looking (uncanny faces, mangled hands)
 
 ## Updating STATUS.md
 
-After generating the header image, update STATUS.md:
+After generating the header image:
 
 ```markdown
 ## Current Phase
-Complete - Ready for Publishing
+Complete — Ready for Publishing
 
 ## Completed
 - [x] Analysis (YYYY-MM-DD)
@@ -192,31 +199,31 @@ Complete - Ready for Publishing
 Skip header image generation if:
 - The author explicitly prefers text-only posts
 - The article is very short (< 500 words)
-- No good visual concept emerges after analysis
+- No compelling visual concept emerges after genuine reflection
 - The author has provided their own image
+- Every concept feels like it would cheapen rather than elevate the piece
 
-## API Troubleshooting
+## Troubleshooting
 
-**No GEMINI_API_KEY:**
-- Inform the user they need to set the environment variable
-- Provide instructions: `export GEMINI_API_KEY="your-key-here"`
-- API keys available at: https://aistudio.google.com/apikey
+**GOOGLE_API_KEY not found:**
+- Create `.env` file in the skill directory with `GOOGLE_API_KEY=your-key`
+- Or set environment variable: `export GOOGLE_API_KEY="your-key"`
+- Get a key at: https://aistudio.google.com/apikey
 
-**Rate limits:**
-- Free tier: ~500 images/day
-- If rate limited, wait and retry or proceed without image
+**Skill directory not found:**
+- Check `~/.claude/skills/gemini-image-generator/` (global)
+- Check `./.claude/skills/gemini-image-generator/` (project-local)
+- Ensure dependencies installed: `npm install` in skill directory
 
-**Content filtering:**
+**Content filtered:**
 - Gemini may refuse certain prompts
-- Rephrase to be more abstract if blocked
-- Avoid anything that could be interpreted as depicting real people
+- Rephrase more abstractly
+- Avoid anything depicting recognizable people
 
-## Integration with Workflow
-
-This skill fits into the publishing workflow as:
+## Workflow Integration
 
 ```
-draft-polish → header-image → publish
+draft-polish → [draft-enrich] → header-image → publish
 ```
 
-The header image is optional but recommended for most articles. It should be the last step before moving the article from `_drafts/` to `_posts/`.
+The header image is the final creative step before moving from `_drafts/` to `_posts/`.
