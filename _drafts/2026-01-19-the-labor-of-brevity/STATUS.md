@@ -6,6 +6,7 @@ Author input gathered — ready for structure
 ## Completed
 - [x] Analysis (2026-01-24)
 - [x] Author input gathered (2026-01-24)
+- [x] Research: AI verbosity techniques (2026-01-24)
 
 ## In Progress
 [None]
@@ -29,5 +30,7 @@ Author input gathered — ready for structure
 - Draft is intellectually well-developed with strong Steel Man and Devil's Advocate sections
 - The hook ("Sorry for my long response...") is excellent
 - Author provided strong raw quotes ready for use
-- New material: GRPO technique, "word-meaning ratio" concept, information flood framing
+- New material: "word-meaning ratio" concept, information flood framing
+- **AI angle corrected:** GRPO is not about verbosity. The real story: RLHF *causes* verbosity (reward hacking), techniques like R-DPO and SimPO explicitly penalize it
+- Research saved to `research/ai-verbosity.md`
 - Recommended: Run /draft-structure next
