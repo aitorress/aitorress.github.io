@@ -5,10 +5,10 @@ This document describes the recommended workflow for creating articles using the
 ## Overview
 
 ```
-idea-expansion → draft-analyze → [research + input] → draft-structure → draft-expand → draft-polish → [draft-enrich] → publish
+idea-expansion → draft-analyze → [research + input] → draft-structure → draft-expand → draft-polish → [draft-enrich] → header-image → publish
 ```
 
-The workflow has 8 skills organized into 5 phases:
+The workflow has 9 skills organized into 6 phases:
 
 | Phase | Skills | Purpose |
 |-------|--------|---------|
@@ -17,6 +17,7 @@ The workflow has 8 skills organized into 5 phases:
 | 3. Gathering | `draft-research`, `draft-input` | Fill gaps with external data and author perspective |
 | 4. Writing | `draft-structure`, `draft-expand`, `draft-polish` | Build and refine the article |
 | 5. Enrichment | `draft-enrich` | Add depth and curves to a solid foundation (optional) |
+| 6. Visual | `header-image` | Generate header image using Gemini API (optional) |
 
 ---
 
@@ -284,7 +285,51 @@ The workflow has 8 skills organized into 5 phases:
 - The leanness is intentional (short-form piece)
 - Adding more would dilute the core message
 
-**Next step:** After enrichment, run `draft-polish` again on the new content, then publish.
+**Next step:** After enrichment, run `draft-polish` again on the new content, then run `header-image` before publishing.
+
+---
+
+## Phase 6: Visual (Optional)
+
+### Skill: `header-image`
+
+**When to use:** The article is polished and ready to publish. You want to add a header image to enhance visual appeal.
+
+**What it does:**
+- Analyzes the article's core theme, emotional tone, and key metaphors
+- Designs an abstract visual concept that captures the essence without being literal
+- Generates an image using Google's Gemini API (Nano Banana)
+- Saves the image to `assets/images/posts/[slug]/header.png`
+- Updates the article frontmatter with the image reference
+
+**Output:**
+- Generated header image in `assets/images/posts/[slug]/`
+- Updated article frontmatter with `header.image` field
+- Generation notes documenting the concept and prompt used
+
+**Example usage:**
+```
+"Generate a header image for the labor of brevity article"
+"Create a visual for the human edge post"
+```
+
+**Requirements:**
+- `GEMINI_API_KEY` environment variable must be set
+- Get an API key at: https://aistudio.google.com/apikey
+
+**Image style guidelines:**
+- Abstract over literal (no robots for AI articles)
+- Minimalist, clean compositions
+- Evocative mood over explicit depiction
+- No text in images (unreliable rendering)
+
+**When NOT to use:**
+- Author prefers text-only posts
+- Very short articles (< 500 words)
+- No compelling visual concept emerges
+- Author is providing their own image
+
+**Next step:** After the header image is generated and approved, publish the article.
 
 ---
 
@@ -365,8 +410,9 @@ Any step can be re-run:
 When the polished article is ready:
 
 1. Review the publishing checklist from `draft-polish`
-2. Move the article from `_drafts/[folder]/article.md` to `_posts/YYYY-MM-DD-[slug].md`
-3. The working folder can be kept as an archive or deleted
+2. Optionally run `header-image` to generate a header image
+3. Move the article from `_drafts/[folder]/article.md` to `_posts/YYYY-MM-DD-[slug].md`
+4. The working folder can be kept as an archive or deleted
 
 ---
 
@@ -382,3 +428,4 @@ When the polished article is ready:
 | `draft-expand` | Approved structure | `article.md` (incremental) | Does each section earn its place? |
 | `draft-polish` | Complete draft | Polished article | Is this ready to publish? |
 | `draft-enrich` | Polished but lean article | Richer article with curves | What depth is missing? |
+| `header-image` | Polished article | Header image + updated frontmatter | What visual captures this? |
