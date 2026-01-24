@@ -1,37 +1,35 @@
 # The Labor of Brevity — Status
 
 ## Current Phase
-Expansion
+Ready for polish
 
 ## Completed
 - [x] Analysis (2026-01-24)
 - [x] Author input gathered (2026-01-24)
 - [x] Research: AI verbosity techniques (2026-01-24)
 - [x] Structure approved (2026-01-24)
+- [x] Section 1: The Paradox (2026-01-24)
+- [x] Section 2: The Sigh (2026-01-24)
+- [x] Section 3: Why Compression Is Work (2026-01-24)
+- [x] Section 4: The Transfer of Labor (2026-01-24)
+- [x] Section 5: The Flood (2026-01-24)
+- [x] Section 6: The AI Aside (2026-01-24)
+- [x] Section 7: The Landing (2026-01-24)
 
 ## In Progress
 [None]
 
 ## Still Needed
-- [ ] Section 1: The Paradox (Hook)
-- [ ] Section 2: The Sigh
-- [ ] Section 3: Why Compression Is Work
-- [ ] Section 4: The Transfer of Labor
-- [ ] Section 5: The Flood
-- [ ] Section 6: The AI Aside (Skippable)
-- [ ] Section 7: The Landing
 - [ ] Polish
 
-## Resolved Questions
-1. **Audience**: Writers — people who produce long content and need to stop
-2. **AI angle**: Keep as skippable aside in middle (section 6), with playful disclaimer
-3. **Core position**: Brevity is a virtue, full stop
-4. **Personal angle**: "If everything is important then nothing is" — the visceral sigh at a long email
-5. **AI placement**: Middle, before landing — serves as evidence for AI readers, skippable for others
+## Article Stats
+- Word count: ~750 words
+- Reading time: ~3-4 minutes
+- Sections: 7 (including skippable AI aside)
 
 ## Notes
-- Structure approved with 7 sections, ~800-1000 words target
-- AI section is optional/skippable with playful transition
-- Article completes without AI section (sections 5→7 flow naturally)
-- See `structure.md` for full outline with section purposes and sources
-- Recommended: Run /draft-expand next
+- Full draft saved to `article.md`
+- AI section has playful skip prompt as discussed
+- Incorporated author's raw quotes: "if everything is important, nothing is", "sigh", "word-meaning ratio"
+- Dr. GRPO/DAPO research woven into AI aside
+- Recommended: Run /draft-polish next
