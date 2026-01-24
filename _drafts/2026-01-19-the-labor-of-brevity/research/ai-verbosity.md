@@ -37,9 +37,22 @@ Studies show 13-74% of responses exhibit "verbosity compensation" across model f
 - **Adaptive Length Penalty (ALP)** — scales penalties with difficulty, cuts tokens 50%
 - **NVIDIA ProRL v2** — scheduled cosine length penalties
 
-## What GRPO Actually Is
+## GRPO and Its Variants
 
-GRPO (Group Relative Policy Optimization) is DeepSeek's efficient RL algorithm that eliminates the value network. It does NOT specifically target verbosity — it's about compute efficiency (cuts RLHF compute roughly in half).
+**GRPO** (Group Relative Policy Optimization) is DeepSeek's efficient RL algorithm that eliminates the value network. It cuts RLHF compute roughly in half. However, standard GRPO has a **length bias problem**: it divides advantage by response length, which means longer incorrect answers get smaller penalties → model learns to generate longer bad answers.
+
+### Dr. GRPO (Sea AI Lab, COLM 2025)
+- **Paper:** "Understanding R1-Zero-Like Training: A Critical Perspective"
+- **The fix:** Removes per-response length normalization, uses group-level scaling instead
+- **Result:** Reduces average incorrect response length by **38%**
+- **Key insight:** "The unbiased optimizer effectively prevents the model from generating progressively longer incorrect responses"
+- Achieved 43.3% on AIME 2024, outperforming other methods
+
+### DAPO (ByteDance)
+- Uses **token-level normalization** instead of sample-level
+- Adds **soft length penalty** starting at ~75% of max context (e.g., 12k tokens for 16k context), increasing linearly to hard cap
+- Prevents long chain-of-thought responses from being under-penalized
+- Also includes "Clip-higher" to encourage exploration
 
 ## The Irony (For the Essay)
 
@@ -49,6 +62,8 @@ We train AI on human text → humans are verbose → AI becomes verbose → we b
 
 > "AI models trained with standard RLHF become verbose because reward models inherit our bias toward length. Researchers have responded with techniques like R-DPO and SimPO that explicitly penalize verbosity — essentially teaching models to fight the very preference they learned from us."
 
+> "Standard GRPO has a length bias that accidentally encourages longer wrong answers. Techniques like Dr. GRPO and DAPO fix this — Dr. GRPO alone reduces verbose incorrect responses by 38%. We're literally debugging our training algorithms to stop AI from rambling."
+
 ## Sources
 
 - [A Long Way to Go: Investigating Length Correlations in RLHF](https://openreview.net/forum?id=G8LaO1P0xv)
@@ -56,3 +71,5 @@ We train AI on human text → humans are verbose → AI becomes verbose → we b
 - [ArmoRM: Multi-Objective Reward Modeling](https://rlhflow.github.io/posts/2024-05-29-multi-objective-reward-modeling/)
 - [Verbosity Compensation Behavior](https://www.emergentmind.com/topics/verbosity-compensation-behavior)
 - [GRPO Explained](https://cameronrwolfe.substack.com/p/grpo)
+- [Dr. GRPO: Correcting Token Aggregation Bias](https://www.emergentmind.com/topics/dr-grpo) — Sea AI Lab, COLM 2025
+- [The Evolution of Policy Optimization: GRPO, DAPO, and Dr. GRPO](https://medium.com/@jenwei0312/the-evolution-of-policy-optimization-understanding-grpo-dapo-and-dr-3e758c54b2c6)

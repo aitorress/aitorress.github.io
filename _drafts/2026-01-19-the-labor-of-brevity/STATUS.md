@@ -31,6 +31,6 @@ Author input gathered — ready for structure
 - The hook ("Sorry for my long response...") is excellent
 - Author provided strong raw quotes ready for use
 - New material: "word-meaning ratio" concept, information flood framing
-- **AI angle corrected:** GRPO is not about verbosity. The real story: RLHF *causes* verbosity (reward hacking), techniques like R-DPO and SimPO explicitly penalize it
+- **AI angle corrected:** Standard GRPO has length bias (longer wrong answers penalized less). Dr. GRPO and DAPO fix this — Dr. GRPO reduces verbose incorrect responses by 38%. Also: RLHF causes verbosity via reward hacking, R-DPO/SimPO address this
 - Research saved to `research/ai-verbosity.md`
 - Recommended: Run /draft-structure next
