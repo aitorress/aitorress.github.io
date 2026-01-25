@@ -4,6 +4,8 @@ date: 2025-09-10
 categories: [thought-leadership, ai, future-of-work]
 tags: [scarcity, curation, trust, relevance, human-edge]
 excerpt: "In an age of abundant intelligence, what remains valuable is human judgment, taste, and trust."
+header:
+  image: /assets/images/human-edge-header.png
 ---
 
 # Scarcity as a Currency
