@@ -1,10 +1,11 @@
 # The Infinite Backlog Paradox — Status
 
 ## Current Phase
-Analysis
+Research
 
 ## Completed
 - [x] Analysis (2026-01-26)
+- [x] Author input (2026-01-26)
 
 ## In Progress
 None
@@ -13,21 +14,24 @@ None
 - [ ] Research: Historical employment data post-productivity-tools
 - [ ] Research: Jevons Paradox specifics
 - [ ] Research: AI productivity distribution (BCG, Mollick)
-- [ ] Author input: Position on thesis, personal experience, audience
 - [ ] Structure proposal
 - [ ] Expansion
 - [ ] Polish
 
 ## Open Questions
 1. Does historical data actually support "infinite demand"? (Research will answer)
-2. What's the author's actual position—genuinely uncertain or leaning one way?
-3. Who is the target audience for this piece?
-4. How to handle the short-term vs. long-term timeframe distinction?
+2. The "missing rung" problem (juniors displaced → where do seniors come from?) — author doesn't have a firm view, will acknowledge openly
+
+## Key Decisions Made
+- **Thesis:** AI transforms jobs, doesn't reduce them. Clear stance, not both-sides.
+- **Fresh angle:** "Ownership over output" — the bottleneck isn't building, it's *caring*. People pay for others to own finite parts of work.
+- **Hot take:** "AI won't reduce the number of jobs!"
 
 ## Key Decisions Pending
-- **Thesis commitment:** Present both sides equally, or argue for one?
 - **Scope:** Focus on engineers specifically, or broaden to knowledge work?
-- **Political economy:** Include or save for another piece?
+- **Structure:** How to integrate the ownership/care angle with the existing product-vs-infrastructure framing?
 
 ## Notes
-Core framing ("product vs. infrastructure") is strong. Steel man and devil's advocate are both well-developed. Main gap is empirical grounding—need historical data to make the argument land. Author input needed on stance and personal experience.
+**New insight from author input:** The infinite backlog is technically possible but misses the point. Care gets diluted as scope grows. The scarce resource is ownership, not engineering capacity. This reframes the whole piece: it's not "infinite vs. finite demand"—it's "building vs. owning."
+
+Also surfaced: there's tension between "finite scope is good" (you don't want swiss army knife) and "finite scope threatens jobs." Worth exploring.

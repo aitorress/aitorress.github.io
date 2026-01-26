@@ -1,59 +1,44 @@
 # Author Input: The Infinite Backlog Paradox
 
-*Questions for the author to inform the article's direction.*
+## Session: 2026-01-26
 
----
+### Author's Position
 
-## Questions
+**Core stance:** AI will transform jobs, not reduce them. The "infinite backlog" framing is technically true but misses the real constraint.
 
-### 1. Where do you actually land?
+**The key insight:** The bottleneck isn't building—it's *caring*. Even if you could technically have an infinite backlog, care gets diluted as scope expands. People will pay for others to **own** specific, **finite** parts of the work. Ownership is the scarce resource, not engineering capacity.
 
-The draft presents both sides well—"AI reduces jobs" vs. "infinite demand absorbs productivity gains." Do you have a position, or is genuine uncertainty the point?
+**Hot take:** "AI won't reduce the number of jobs!"
 
-**Your answer:**
+### Personal Experience
 
----
+No single defining story, but a recurring pattern: You deliberately don't want to build a swiss army knife. The work is intentionally finite. But because it's finite, you start questioning whether all the teams, scrum masters, engineers, and product owners are justified—and what happens to them once it's harder to justify more work on the project.
 
-### 2. Personal experience with backlogs
+The tension: work *should* be finite (you don't want scope creep), but finite work makes people nervous about their roles.
 
-The argument that most backlog items are "political theater" is compelling but abstract. Do you have a specific story where:
-- A backlog was revealed as fake once resources freed up?
-- OR demand genuinely expanded to absorb new capacity?
+### Open Questions
 
-**Your answer:**
+**The "missing rung" problem:** Author honestly doesn't know. This remains an open question—worth acknowledging in the piece rather than forcing a take.
 
----
+### What to Emphasize
 
-### 3. The "missing rung" problem
+- **Ownership over output.** The fresh angle: as AI makes building cheaper, the valuable thing becomes *caring about* and *owning* a piece of work. This is what people will pay for.
+- **Finite is good.** The infinite backlog isn't desirable. Well-scoped, finite work is the goal. The question is what happens to people when the finite work is done.
+- **Transformation, not elimination.** Jobs shift; they don't disappear.
 
-If AI handles junior-level tasks, where do future senior engineers come from? Do you have a view on this? It's raised as a question but feels like it deserves a take.
+### Raw Quotes (paraphrased from author)
 
-**Your answer:**
+- "The infinite backlog doesn't exist. At some point, if the backlog keeps increasing, the people owning the work care less and less about it."
+- "People will start paying for people to care and own specific and FINITE parts of the work."
+- "You definitely don't want to build a swiss army knife—you know the work is finite."
+- "AI won't reduce the number of jobs!"
 
----
+### Implications for the Piece
 
-### 4. Who's the audience?
+1. **Reframe the paradox:** It's not "infinite demand vs. finite demand." It's "building vs. owning." AI makes building cheap; ownership stays expensive.
 
-Is this piece for:
-- Engineers worried about their jobs?
-- Managers/execs making headcount decisions?
-- Investors/observers trying to understand the sector?
-- General tech-curious readers?
+2. **The "care" angle is new:** This isn't in the current draft and could be the differentiating thesis. The backlog isn't constrained by engineering capacity—it's constrained by how much anyone can genuinely care about.
 
-The framing might shift based on this.
+3. **Acknowledge the junior engineer question honestly:** Don't force a take. "I don't know" is a valid position if framed well.
 
-**Your answer:**
-
----
-
-### 5. Timeframe
-
-"Infinite demand" might be true over 20 years but cold comfort over 2 years. Do you want to address the short-term vs. long-term distinction, or keep the piece focused on the structural question?
-
-**Your answer:**
-
----
-
-## Space for Additional Thoughts
-
-*Anything else you want to add about this piece—instincts, angles, things you definitely want to include or avoid:*
+4. **The finite-work anxiety:** There's a real tension between "scope should be finite" and "finite scope threatens jobs." This is worth exploring.
