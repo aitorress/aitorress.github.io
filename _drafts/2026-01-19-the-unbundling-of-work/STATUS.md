@@ -20,7 +20,7 @@ Expansion
 - [x] Section 3: We've Seen This Before (2026-01-27)
 - [x] Section 4: But Some Jobs Really Are Just Tasks (2026-01-27)
 - [x] Section 5: What I've Seen: The Software Engineering Sandwich (2026-01-27)
-- [ ] Section 6: Two Reasons for Optimism (That Aren't Cope)
+- [x] Section 6: Two Reasons for Optimism (That Aren't Cope) (2026-01-27)
 - [ ] Section 7: Map Your Own Frontier
 - [ ] Section 8: Close (no heading)
 - [ ] Polish
