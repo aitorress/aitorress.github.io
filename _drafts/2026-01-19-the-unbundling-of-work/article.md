@@ -15,7 +15,7 @@ The magic trick gets less fun after that.
 
 ## Your Job Is a Label, Not a Unit
 
-That second thought lingers. You start noticing things. The task AI just handled? You've done it hundreds of times. It's part of your job, but it's not the whole thing. There's also the part where you figure out *what* needs doing. The part where you explain the results to someone who doesn't get it. The part where you make the call when the data isn't clear.
+That second thought lingers. You start noticing things. The task AI just handled? You've done it hundreds of times. It's part of your job but, to be honest (and you know this), it's not the whole thing. There's so much that goes around that task that it's merely a cog in a larger machine. There's the part where you figure out *what* needs doing. The part where you explain the results to someone who doesn't get it. The part where you make the call when the data isn't clear.
 
 Your job isn't one thing. It's a bundle of things wearing a single title. "Software engineer" means something different at every company. "Financial analyst" can be 80% spreadsheets at one firm and 80% client calls at another. The title is a convenient fiction. The work is what actually fills your days.
 
