@@ -1,7 +1,11 @@
-# Structure: The Infinite Backlog Paradox
+# Structure: Care Doesn't Scale
 
 **Date:** 2026-01-26
-**Status:** Awaiting approval
+**Status:** Approved
+
+**Title:** Care Doesn't Scale
+**Include historical numbers:** Yes (400K clerks, 600K accountants)
+**Junior uncertainty:** Acknowledge honestly
 
 ---
 

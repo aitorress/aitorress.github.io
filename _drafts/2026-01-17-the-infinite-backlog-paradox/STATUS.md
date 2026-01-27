@@ -1,7 +1,7 @@
-# The Infinite Backlog Paradox — Status
+# Care Doesn't Scale — Status
 
 ## Current Phase
-Structure
+Expansion
 
 ## Completed
 - [x] Analysis (2026-01-26)
@@ -9,28 +9,30 @@ Structure
 - [x] Research: Historical employment (ATMs, spreadsheets) (2026-01-26)
 - [x] Research: Jevons Paradox (2026-01-26)
 - [x] Research: AI productivity studies (BCG/Harvard, Mollick) (2026-01-26)
+- [x] Structure approved (2026-01-27) — Title: "Care Doesn't Scale"
 
 ## In Progress
 None
 
 ## Still Needed
-- [ ] Structure proposal
-- [ ] Expansion
+- [ ] Section 1: Setup (no heading)
+- [ ] Section 2: "Care Doesn't Scale" (the twist)
+- [ ] Section 3: "The Real Bottleneck" (the reframe)
+- [ ] Section 4: Close (no heading)
 - [ ] Polish
 
 ## Open Questions
-1. ~~Does historical data actually support "infinite demand"?~~ **ANSWERED:** Yes, with nuance. ATMs/spreadsheets show job *transformation* not elimination. But delayed effects are real (teller jobs declining now, 40 years later).
-2. The "missing rung" problem — research found AI is a "skill leveler" (helps weak performers more). Unclear if this helps or hurts junior development.
-3. **New:** Homogenization risk — AI outputs are higher quality but less varied. Does this commoditize work?
+1. ~~Does historical data actually support "infinite demand"?~~ **ANSWERED:** Yes, with nuance.
+2. The "missing rung" problem — will acknowledge honestly in close ("I don't know")
+3. ~~Homogenization risk~~ — cut from this piece, could be separate article
 
 ## Key Decisions Made
 - **Thesis:** AI transforms jobs, doesn't reduce them. Clear stance, not both-sides.
-- **Fresh angle:** "Ownership over output" — the bottleneck isn't building, it's *caring*. People pay for others to own finite parts of work.
+- **Fresh angle:** "Ownership over output" — the bottleneck isn't building, it's *caring*.
 - **Hot take:** "AI won't reduce the number of jobs!"
-
-## Key Decisions Pending
-- **Scope:** Focus on engineers specifically, or broaden to knowledge work?
-- **Structure:** How to integrate the ownership/care angle with the existing product-vs-infrastructure framing?
+- **Title:** "Care Doesn't Scale"
+- **Include historical numbers:** Yes (400K clerks → 600K accountants)
+- **Junior uncertainty:** Acknowledge honestly
 
 ## Notes
 **New insight from author input:** The infinite backlog is technically possible but misses the point. Care gets diluted as scope grows. The scarce resource is ownership, not engineering capacity. This reframes the whole piece: it's not "infinite vs. finite demand"—it's "building vs. owning."
