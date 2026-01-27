@@ -65,12 +65,12 @@ These aren't permanent shields. The frontier moves. Trust builds over time. But 
 
 ## Map Your Own Frontier
 
-Here's the thing about the jagged frontier: it's not a fixed line on a map. It moves. And the only way to know where it is for *your* work is to use the tools yourself.
+The thing about the jagged frontier is that it's not a fixed line on a map. It moves. And the only way to know where it is for *your* work is to use the tools yourself.
 
 People who avoid AI because "it can't do my job" are missing the point. They're not protecting themselves. They're staying ignorant of their own vulnerabilities. The frontier will move whether you're watching or not. The question is whether you'll be surprised when it reaches you.
 
 Think of it like golf clubs. An iron, a driver, a wood: they're all great, but not at the same tasks. Mastery isn't about having one club. It's about knowing which one fits which shot. The same is true for AI. You need to know what it does well, what it does badly, and where you add value that it can't.
 
-So here's a practical suggestion: audit your own task bundle. Spend a week tracking what you actually do. Categorize each task: "AI could do this now," "AI could probably do this in two years," "this probably still needs me." Be honest. The percentage breakdown will either reassure you or alarm you. But at least you'll know. And knowing is how you stop being the person who gets surprised.
+So here's a practical suggestion: audit your own task bundle. Spend a week tracking what you actually do. Categorize each task: "AI could do this now," "AI could probably do this in two years," "this probably still needs me." Be honest. The percentage breakdown will either reassure you or alarm you, but either way you'll have a clearer picture of where you actually stand.
 
 <!-- Section 8: Close — PENDING -->
