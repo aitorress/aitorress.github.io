@@ -19,6 +19,8 @@ Complete — Ready for Review
 - [x] Section 7: Map Your Own Frontier (2026-01-27)
 - [x] Section 8: Close (no heading) (2026-01-27)
 - [x] Polish pass (2026-01-27)
+- [x] Enrichment pass (2026-01-27): job merging angle, optimist/pessimist pivot, Dr. Strangelove title
+- [x] Re-polish after enrichment (2026-01-27)
 
 ## In Progress
 [None]
