@@ -15,7 +15,7 @@ Expansion
 [None]
 
 ## Still Needed
-- [ ] Section 1: Hook (no heading)
+- [x] Section 1: Hook (no heading) (2026-01-27)
 - [ ] Section 2: Your Job Is a Label, Not a Unit
 - [ ] Section 3: We've Seen This Before
 - [ ] Section 4: But Some Jobs Really Are Just Tasks

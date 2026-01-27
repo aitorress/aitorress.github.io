@@ -54,6 +54,24 @@ Based on analysis of the author's published work:
 - Direct address ("you") creates immediacy
 - First-person ("I") for personal experience and honest uncertainty
 
+### Add Color and Lived-In Details
+
+Prose should feel human, not clinical. Add small moments that make scenes real:
+
+**Instead of:**
+> "You decided to try AI on a task. It worked well. You realized this was concerning."
+
+**Write:**
+> "You're kind of dreading it, if you're honest. It's the kind of work that needs doing but doesn't spark joy... You stretch, victorious, already planning what to do with your reclaimed afternoon."
+
+**What makes this work:**
+- "kind of dreading it" (honest inner state)
+- "doesn't spark joy" (specific, relatable feeling)
+- "stretch, victorious" (physical detail that shows emotion)
+- "reclaimed afternoon" (the small pleasure before the gut punch)
+
+Don't overdo it. One or two human moments per section is enough. But without them, the writing feels like a report instead of a person thinking out loud.
+
 ### Rhetorical Devices
 - Questions to guide reader reasoning (but don't overdo)
 - Single metaphor extended through the piece (not five competing metaphors)

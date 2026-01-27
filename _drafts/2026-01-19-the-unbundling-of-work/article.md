@@ -5,7 +5,13 @@ status: draft
 tags: [ai, work, automation, economics, labor]
 ---
 
-You've probably had that moment. You ask an AI to do something you thought was *yours*, some task you've built a career around, and it just... does it. Not perfectly, maybe. But well enough that you feel something shift. That's not paranoia. That's pattern recognition.
+You blocked three hours for the task. Deep work, no meetings. You're kind of dreading it, if you're honest. It's the kind of work that needs doing but doesn't spark joy. On a whim, you decide to see if AI can help. You write a prompt, hit enter, watch it think.
+
+It finishes in minutes. The output is good. Really good. You stretch, victorious, already planning what to do with your reclaimed afternoon.
+
+Then the second thought arrives: *that's what they pay me for.*
+
+The magic trick gets less fun after that.
 
 <!-- Section 2: Your Job Is a Label, Not a Unit — PENDING -->
 
