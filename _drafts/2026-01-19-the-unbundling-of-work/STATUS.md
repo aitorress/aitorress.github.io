@@ -1,19 +1,19 @@
 # The Unbundling of Work — Status
 
 ## Current Phase
-Research Complete — Ready for Structure
+Ready for Structure
 
 ## Completed
 - [x] Analysis (2026-01-27)
 - [x] Research: Historical automation evidence — ATM/tellers, telephone operators (2026-01-27)
 - [x] Research: AI task unbundling 2024-2025 — radiology, middle management, knowledge work (2026-01-27)
 - [x] Author input: Initial perspectives on job titles, simplistic tasks, job transformation (2026-01-27)
+- [x] Author input: Deep input — core position, personal experience, hot take, audience (2026-01-27)
 
 ## In Progress
 [None]
 
 ## Still Needed
-- [ ] Author input (remaining questions — personal stakes, meaningful work, position on core question)
 - [ ] Structure proposal
 - [ ] Expansion
 - [ ] Polish
@@ -38,16 +38,20 @@ Research Complete — Ready for Structure
 
 ## Open Questions
 
-1. Does the author have personal experience with task unbundling to ground the abstract argument?
-2. Where does the author actually land on "Am I more than the sum of my tasks?" — needs commitment
+1. ~~Does the author have personal experience with task unbundling?~~ ✓ Yes — software engineering "sandwich"
+2. ~~Where does the author land on the core question?~~ ✓ Optimistic but not naive
 3. Is the transition speed problem worth developing, or should it be a separate piece?
-4. Who captures the productivity gains? (Job survives ≠ workers are fine)
+4. Who captures the productivity gains? (Job survives ≠ workers are fine) — partially addressed by accountability framing
 
 ## Author Input Received
 
 - Agrees jobs are labels for task bundles — explains variance in job titles across companies
 - Notes simplistic-task jobs will be impacted most (not inherently good or bad)
 - Believes jobs will merge and transform to fill vacuums left by automation
+- **Position:** Optimistic but grounded — jagged frontier + trust/accountability gap = durable human value
+- **Personal experience:** Software engineering transformed from "implement code" to "sandwich" of requirements + testing
+- **Hot take:** Jobs transform, don't reduce (long-term); short-term cuts are ROI theater
+- **Audience:** People anxious about their jobs
 
 ## Notes
 
