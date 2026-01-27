@@ -39,6 +39,8 @@ The carpenter analogy is comforting. Power tools didn't kill carpenters; they ma
 
 Middle management is already finding out. Job postings for middle management roles have dropped over 40% since 2022. Amazon, Salesforce, and others are making explicit cuts, citing AI tools that handle coordination, reporting, and information flow. A lot of middle management turned out to be the human API layer between people who make decisions and people who execute them. AI is a very efficient API.
 
+You know this layer. You've worked with people whose value was orchestration: routing messages, summarizing for leadership, translating between teams, acting as the bottleneck that forces coordination. That's not a criticism of those people. They were doing real work. But the work existed because humans were the only technology available for it. In an organization where AI can summarize, route, translate, and coordinate, that layer starts to look expensive for what it delivers.
+
 And speed matters. The telephone operators had 86 years to adapt. If AI compresses that same transformation into five or ten years, the "jobs transform" story might be technically true but socially catastrophic. People can't retrain that fast. Institutions can't adapt that fast. The pattern holds, but the timeline breaks everything.
 
 <!-- Section 5: What I've Seen: The Software Engineering Sandwich — PENDING -->
