@@ -1,0 +1,22 @@
+---
+layout: single
+---
+
+<div class="recipe-meta">
+  {% if page.source_url %}
+  <p class="recipe-source">
+    <strong>Inspo:</strong> <a href="{{ page.source_url }}" target="_blank" rel="noopener">{{ page.source_name | default: "Source" }}</a>
+  </p>
+  {% endif %}
+
+  {% if page.tags.size > 0 %}
+  <p class="recipe-tags">
+    <strong>Tags:</strong>
+    {% for tag in page.tags %}
+      <span class="tag">{{ tag }}</span>{% unless forloop.last %}, {% endunless %}
+    {% endfor %}
+  </p>
+  {% endif %}
+</div>
+
+{{ content }}

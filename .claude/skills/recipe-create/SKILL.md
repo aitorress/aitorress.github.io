@@ -152,7 +152,7 @@ category: "Italian"
 tags: [pasta, quick, vegetarian]
 ---
 
-Finally figured out why my cacio e pepe always turned out grainy—the pasta water trick is everything.
+Finally figured out why my cacio e pepe always turned out grainy. The pasta water trick is everything.
 
 ## Ingredients
 
@@ -177,6 +177,17 @@ Finally figured out why my cacio e pepe always turned out grainy—the pasta wat
 - Don't make the intro longer or more formal than the original
 - Don't add SEO-style descriptions
 - Don't include "Notes" sections unless the user specifically mentioned tips
-- Don't ask clarifying questions unless the recipe is genuinely unclear—make reasonable assumptions
-- **Don't invent precise measurements, times, or temperatures**—if the user was vague, stay vague
-- **Don't over-polish into generic recipe-speak**—if the author said "destroy them a little bit" or "send those to a pan," keep that energy. Efficiency isn't the goal; personality is.
+- Don't ask clarifying questions unless the recipe is genuinely unclear, make reasonable assumptions
+- **Don't invent precise measurements, times, or temperatures**, if the user was vague, stay vague
+- **Don't over-polish into generic recipe-speak**, if the author said "destroy them a little bit" or "send those to a pan," keep that energy. Efficiency isn't the goal; personality is.
+
+## Avoid AI Tells
+
+Write like a person, not a language model. Specifically:
+
+- **No em-dashes.** Use periods, commas, or parentheses instead. "You're not grinding them fine, just smashing" not "You're not grinding them fine—just smashing"
+- **No "elevate," "delve," "straightforward," "vibrant," or "rich tapestry"**
+- **No hedging with "certainly," "definitely," "absolutely"**
+- **Avoid "perfect balance," "harmony of flavors," "culinary journey"**
+- Contractions are good. "It's" not "It is." "Don't" not "Do not."
+- Short sentences are fine. Not everything needs a conjunction.

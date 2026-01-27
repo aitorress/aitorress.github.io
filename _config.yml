@@ -64,7 +64,7 @@ defaults:
       related: true           # related posts at bottom
   - scope: { path: "", type: "recipes" }
     values:
-      layout: single
+      layout: recipe
       author_profile: false
       toc: false
       classes: wide
