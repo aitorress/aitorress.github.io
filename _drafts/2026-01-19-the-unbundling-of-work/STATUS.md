@@ -1,7 +1,7 @@
 # The Unbundling of Work — Status
 
 ## Current Phase
-Expansion
+Complete — Ready for Review
 
 ## Completed
 - [x] Analysis (2026-01-27)
@@ -10,11 +10,6 @@ Expansion
 - [x] Author input: Initial perspectives on job titles, simplistic tasks, job transformation (2026-01-27)
 - [x] Author input: Deep input — core position, personal experience, hot take, audience (2026-01-27)
 - [x] Structure approved (2026-01-27)
-
-## In Progress
-[None]
-
-## Still Needed
 - [x] Section 1: Hook (no heading) (2026-01-27)
 - [x] Section 2: Your Job Is a Label, Not a Unit (2026-01-27)
 - [x] Section 3: We've Seen This Before (2026-01-27)
@@ -22,8 +17,14 @@ Expansion
 - [x] Section 5: What I've Seen: The Software Engineering Sandwich (2026-01-27)
 - [x] Section 6: Two Reasons for Optimism (That Aren't Cope) (2026-01-27)
 - [x] Section 7: Map Your Own Frontier (2026-01-27)
-- [ ] Section 8: Close (no heading)
-- [ ] Polish
+- [x] Section 8: Close (no heading) (2026-01-27)
+- [x] Polish pass (2026-01-27)
+
+## In Progress
+[None]
+
+## Still Needed
+[None]
 
 ## Key Research Findings
 
