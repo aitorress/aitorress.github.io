@@ -66,6 +66,27 @@ Not every piece needs section headings, but longer pieces usually benefit from t
 - Consider which sections might combine under one heading
 - Headings should orient the reader, not just label content
 
+### Write Headings That Invite, Not Label
+
+Headings should have color and personality, not read like an outline. They should make someone want to read the section.
+
+**Avoid functional labels:**
+- ~~"The Anxiety Hook"~~ (describes function)
+- ~~"Historical Evidence"~~ (category label)
+- ~~"The Honest Counterpoint"~~ (structural marker)
+- ~~"The Close"~~ (position in piece)
+
+**Write headings that hint at substance:**
+- "Your Job Is a Label, Not a Unit" (makes a claim)
+- "We've Seen This Before" (creates intrigue)
+- "But Some Jobs Really Are Just Tasks" (poses tension)
+- "Two Reasons for Optimism (That Aren't Cope)" (has voice)
+- "Map Your Own Frontier" (implies action)
+
+**The test:** Would this heading work as a section title in the final published piece, or does it sound like a note to yourself? If the latter, rewrite it.
+
+**Hook and close often need no heading** — just dive in and land it. Headings work best for the substantive middle sections where readers might skim.
+
 Include a "Headings: Yes/No" decision with brief rationale in the structure proposal.
 
 ### The Author's Voice Shapes Structure
