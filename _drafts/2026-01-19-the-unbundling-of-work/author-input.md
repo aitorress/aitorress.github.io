@@ -74,6 +74,16 @@ Short-term caveat: Companies need to show operational gains and ROI, so they mig
 
 **People anxious about their jobs.** The piece should speak to that anxiety directly.
 
+### The Jagged Frontier as a Tool, Not Just a Limit
+
+The uncertainty about which tasks are inside vs. outside the jagged frontier isn't a reason to avoid AI—it's a reason to *use* it. You map the frontier by experimenting.
+
+**The preparation argument:** To prepare for the world that's coming (or already here), we need to use these tools in many ways, shapes, and forms. The frontier isn't a limitation—it's a useful tool for understanding your own work.
+
+**The golf club analogy:** As with any tool, we need to master it and understand what works in every situation. An iron, driver, or wood are all great—but not at the same tasks. Mastery means knowing which tool fits which shot.
+
+**Implication:** People who avoid AI because "it can't do my job" are missing the point. The ones who thrive will be those who've mapped their own jagged frontier—who know exactly which of their tasks AI handles well and which still need them.
+
 ---
 
 ## Synthesis for Draft Expansion
@@ -91,9 +101,12 @@ The "jagged frontier" creates safety, but also uncertainty. You don't know which
 - The accountability/trust gap as a durable source of human value
 - Transformation, not elimination (long-term view)
 - The anxiety is real, but the pattern from history + the author's experience suggests adaptation
+- **Mapping your frontier is the new skill** — avoiding AI means staying ignorant of your own vulnerabilities
 
 ### Potential Raw Quotes
 - "A lot of human labor is basically automated tasks that are going to be washed out by AI."
 - "It's the best of both worlds" (on AI + human review)
 - "This doesn't necessarily mean I'm less of an engineer"
 - "Jobs don't get reduced—they get transformed"
+- "The frontier isn't a limitation—it's a useful tool"
+- "An iron, driver, or wood are all great—but not at the same tasks" (golf club analogy)
