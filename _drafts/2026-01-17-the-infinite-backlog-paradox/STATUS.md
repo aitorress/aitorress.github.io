@@ -1,7 +1,7 @@
 # Care Doesn't Scale — Status
 
 ## Current Phase
-Expansion
+Polish
 
 ## Completed
 - [x] Analysis (2026-01-26)
@@ -10,21 +10,16 @@ Expansion
 - [x] Research: Jevons Paradox (2026-01-26)
 - [x] Research: AI productivity studies (BCG/Harvard, Mollick) (2026-01-26)
 - [x] Structure approved (2026-01-27) — Title: "Care Doesn't Scale"
+- [x] Expansion complete (2026-01-27) — All 4 sections written
 
 ## In Progress
 None
 
 ## Still Needed
-- [ ] Section 1: Setup (no heading)
-- [ ] Section 2: "Care Doesn't Scale" (the twist)
-- [ ] Section 3: "The Real Bottleneck" (the reframe)
-- [ ] Section 4: Close (no heading)
-- [ ] Polish
+- [ ] Polish / author review
 
 ## Open Questions
-1. ~~Does historical data actually support "infinite demand"?~~ **ANSWERED:** Yes, with nuance.
-2. The "missing rung" problem — will acknowledge honestly in close ("I don't know")
-3. ~~Homogenization risk~~ — cut from this piece, could be separate article
+All resolved.
 
 ## Key Decisions Made
 - **Thesis:** AI transforms jobs, doesn't reduce them. Clear stance, not both-sides.
