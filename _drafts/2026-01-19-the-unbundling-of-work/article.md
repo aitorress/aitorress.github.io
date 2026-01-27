@@ -13,7 +13,13 @@ Then the second thought arrives: *that's what they pay me for.*
 
 The magic trick gets less fun after that.
 
-<!-- Section 2: Your Job Is a Label, Not a Unit — PENDING -->
+## Your Job Is a Label, Not a Unit
+
+That second thought lingers. You start noticing things. The task AI just handled? You've done it hundreds of times. It's part of your job, but it's not the whole thing. There's also the part where you figure out *what* needs doing. The part where you explain the results to someone who doesn't get it. The part where you make the call when the data isn't clear.
+
+Your job isn't one thing. It's a bundle of things wearing a single title. "Software engineer" means something different at every company. "Financial analyst" can be 80% spreadsheets at one firm and 80% client calls at another. The title is a convenient fiction. The work is what actually fills your days.
+
+And AI doesn't automate jobs. It automates tasks. Once you see your work as a bundle rather than a monolith, the question changes. It's not "Will AI take my job?" It's "Which tasks in my bundle can it do, and what's left when they're gone?"
 
 <!-- Section 3: We've Seen This Before — PENDING -->
 
