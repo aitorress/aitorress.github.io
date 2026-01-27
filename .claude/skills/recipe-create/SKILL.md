@@ -55,6 +55,12 @@ tags: [tag1, tag2, tag3]
 3. ...
 ```
 
+## Philosophy
+
+Cooking is about tasting, smelling, and looking—not measuring cups and timers. Recipes here are intentionally vague with measurements and times because precision often doesn't matter, and relying on your senses is both more fun and makes you a better cook. Every chef brings something of themselves when they trust their instincts over a number.
+
+**Only be precise when the author explicitly provides precise values.** If they say "a handful of cheese" or "until it smells right," keep it that way. If they give you "200g flour" or "375°F for 25 minutes," use those. Mirror the specificity you're given.
+
 ## Guidelines
 
 ### Title
@@ -69,10 +75,9 @@ tags: [tag1, tag2, tag3]
 - Preserve any humor or personal observations
 
 ### Time Estimates
-- Be realistic based on the steps
-- Prep = gathering and preparing ingredients
-- Cook = active cooking time
-- When uncertain, round up slightly
+- Use vague estimates like "15-20 min" or "about half an hour"—precision isn't the point
+- Only use exact times if the author provided them
+- These are rough guides, not promises
 
 ### Tags
 Choose relevant tags from common categories:
@@ -90,14 +95,16 @@ Use broad cuisine categories:
 
 ### Ingredients
 - One ingredient per line
-- Include quantities
+- Use vague quantities ("a good handful," "enough to coat," "some") unless the author gave precise amounts
+- Don't invent measurements—if the author just said "garlic," write "garlic," not "3 cloves garlic"
 - List in order of use when possible
 - Group by section if recipe is complex (e.g., "For the sauce:", "For the topping:")
 
 ### Steps
 - Number each step
 - One action per step when possible
-- Include temps and times where relevant
+- **Favor sensory cues over times:** "until golden," "when it smells fragrant," "until the onions are soft"
+- Only include specific temps/times if the author provided them
 - Keep instructions clear and concise
 
 ## Filename
@@ -147,17 +154,17 @@ Finally figured out why my cacio e pepe always turned out grainy—the pasta wat
 
 ## Ingredients
 
-- 200g spaghetti
-- 100g Pecorino Romano, finely grated
-- 1 tsp freshly ground black pepper
-- Reserved pasta water
+- Spaghetti
+- Pecorino Romano, finely grated
+- Black pepper
+- Pasta water
 
 ## Steps
 
 1. Boil pasta in well-salted water until just shy of al dente.
 2. Toast black pepper in a dry skillet until fragrant.
 3. Make a paste with the grated Pecorino and a splash of pasta water.
-4. Toss hot pasta with the cheese paste, adding more pasta water as needed.
+4. Toss hot pasta with the cheese paste, adding more pasta water as needed until it's glossy and coats the noodles.
 5. Serve immediately with extra pepper on top.
 ```
 
@@ -169,3 +176,4 @@ Finally figured out why my cacio e pepe always turned out grainy—the pasta wat
 - Don't add SEO-style descriptions
 - Don't include "Notes" sections unless the user specifically mentioned tips
 - Don't ask clarifying questions unless the recipe is genuinely unclear—make reasonable assumptions
+- **Don't invent precise measurements, times, or temperatures**—if the user was vague, stay vague
