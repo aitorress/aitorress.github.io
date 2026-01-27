@@ -12,4 +12,11 @@
 
 ## Author Responses
 
-*[To be filled in during /draft-input]*
+### On job titles as labels (2026-01-27)
+Agrees that jobs are labels for many tasks — this explains why job titles have different expectations across companies and teams. The same title can mean very different task bundles depending on context.
+
+### On simplistic-task jobs
+Notes the obvious case where people's jobs are mainly simplistic tasks. Not inherently good or bad, but these are the ones that will be impacted the most by AI automation.
+
+### On job transformation
+Jobs will merge and transform to fill vacuums left by automated tasks. The labor market will reorganize around what remains.
