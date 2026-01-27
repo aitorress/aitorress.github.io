@@ -1,5 +1,5 @@
 ---
-title: "The Unbundling of Work: Why AI Won't Kill Your Job, Just Reorganize It"
+title: "The Unbundling of Work or: How I Learned to Stop Worrying and Let AI Take My Tasks"
 date: 2026-01-19
 status: draft
 tags: [ai, work, automation, economics, labor]
@@ -53,9 +53,13 @@ This doesn't mean I'm less of an engineer. It means I focus on different parts: 
 
 I see the same pattern elsewhere. Financial analysts spending less time building models and more time interpreting them for clients. Lawyers using AI for discovery and focusing on strategy. Software engineering is just the easiest to see because the tools are so visible. But the sandwich is everywhere: the human parts on either end, the automated parts in the middle.
 
+Here's what's stranger: jobs don't just shrink. They also merge. The developer who used to need a designer can now design. The designer who used to need a developer can now ship. The financial analyst who used to need a data science team can now train and run their own models. AI bridges skill gaps that used to require collaboration. Work that took two people can now be done by one person with AI. That's fewer jobs in one sense, but richer, more complete roles for the people who remain.
+
+The optimist says: I'll do the interesting parts and AI will handle the boring parts. The pessimist asks: what if someone else's interesting parts were your entire job?
+
 ## Two Reasons for Optimism (That Aren't Cope)
 
-So far this sounds grim. Some jobs are just tasks. The timeline might be brutal. Middle management is already getting squeezed. But I'm actually optimistic, and not in a "don't worry, it'll be fine" way. There are two real reasons to think the story ends better than the anxiety suggests.
+That pessimist's question is real. Some jobs are just tasks. The timeline might be brutal. Middle management is already getting squeezed. But I'm actually optimistic, and not in a "don't worry, it'll be fine" way. There are two real reasons to think the story ends better than the anxiety suggests.
 
 **The jagged frontier.** AI isn't uniformly good at everything. It's shockingly capable at some tasks and weirdly bad at others, and the boundary between them is jagged, not smooth. Your job survives if enough of your tasks fall on the human side of that frontier. The more judgment, context, and ambiguity involved, the more likely you're safe. For now.
 
