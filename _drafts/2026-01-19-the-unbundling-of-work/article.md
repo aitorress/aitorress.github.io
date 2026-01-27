@@ -73,4 +73,10 @@ Think of it like golf clubs. An iron, a driver, a wood: they're all great, but n
 
 So here's a practical suggestion: audit your own task bundle. Spend a week tracking what you actually do. Categorize each task: "AI could do this now," "AI could probably do this in two years," "this probably still needs me." Be honest. The percentage breakdown will either reassure you or alarm you, but either way you'll have a clearer picture of where you actually stand.
 
-<!-- Section 8: Close — PENDING -->
+---
+
+So: are you more than the sum of your tasks?
+
+The honest answer is that you won't know until you test the boundary. Some of what you do will turn out to be automatable. Some of it won't. The ratio matters, and so does what you do with what's left.
+
+Jobs don't get eliminated in the long run. They get transformed. But transformation isn't something that happens to you. It's something you participate in, or don't. The people who thrive will be the ones who mapped their frontier early, figured out where they actually add value, and leaned into that. The ones who get caught off guard will be the ones who never looked.
