@@ -61,6 +61,8 @@ Cooking is about tasting, smelling, and looking—not measuring cups and timers.
 
 **Only be precise when the author explicitly provides precise values.** If they say "a handful of cheese" or "until it smells right," keep it that way. If they give you "200g flour" or "375°F for 25 minutes," use those. Mirror the specificity you're given.
 
+**Keep the color.** These recipes should read like a friend explaining how to make something, not a sterile instruction manual. If the author gives you asides ("here's where you need to be careful"), encouragement ("do what feels right"), or opinions ("try something else, be creative")—keep them. That's the whole point of a personal recipe collection. Otherwise they'd just google it.
+
 ## Guidelines
 
 ### Title
@@ -105,7 +107,7 @@ Use broad cuisine categories:
 - One action per step when possible
 - **Favor sensory cues over times:** "until golden," "when it smells fragrant," "until the onions are soft"
 - Only include specific temps/times if the author provided them
-- Keep instructions clear and concise
+- **Keep the conversational asides**—warnings, tips, encouragement, opinions. Don't strip them out for "efficiency."
 
 ## Filename
 
@@ -177,3 +179,4 @@ Finally figured out why my cacio e pepe always turned out grainy—the pasta wat
 - Don't include "Notes" sections unless the user specifically mentioned tips
 - Don't ask clarifying questions unless the recipe is genuinely unclear—make reasonable assumptions
 - **Don't invent precise measurements, times, or temperatures**—if the user was vague, stay vague
+- **Don't over-polish into generic recipe-speak**—if the author said "destroy them a little bit" or "send those to a pan," keep that energy. Efficiency isn't the goal; personality is.
