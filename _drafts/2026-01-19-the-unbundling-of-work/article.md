@@ -43,7 +43,15 @@ You know this layer. Let me explain what I mean. You've worked with people whose
 
 And speed matters. The telephone operators had 86 years to adapt. If AI compresses that same transformation into five or ten years, the "jobs transform" story might be technically true but socially catastrophic. People can't retrain that fast. Institutions can't adapt that fast. The pattern holds, but the timeline breaks everything.
 
-<!-- Section 5: What I've Seen: The Software Engineering Sandwich — PENDING -->
+## What I've Seen: The Software Engineering Sandwich
+
+I'm a software engineer, so I've watched this happen to my own work in real time.
+
+The old loop was simple: gather clean requirements, implement code, test. That middle part, the implementation, was where most of the time went. It was the job. Now? The first and last phases have grown while the middle has shrunk. Requirements and testing sandwich the implementation. It's becoming more important to state what you want clearly and verify that you got it than to actually write the code yourself.
+
+This doesn't mean I'm less of an engineer. It means I focus on different parts. Architecture decisions. Organizing workflows. Weighing tradeoffs when the answer isn't obvious. Making the judgment calls that require context AI doesn't have. The tasks shifted; the job survived. If anything, I spend more time on the parts I actually care about.
+
+I see the same pattern in other professions. Financial analysts spending less time building models and more time interpreting them for clients. Lawyers using AI for discovery and focusing on strategy. Software engineering is just the easiest to see because the tools are so visible. But the sandwich is everywhere: the human parts on either end, the automated parts in the middle.
 
 <!-- Section 6: Two Reasons for Optimism (That Aren't Cope) — PENDING -->
 
