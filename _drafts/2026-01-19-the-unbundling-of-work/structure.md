@@ -1,6 +1,6 @@
 # Proposed Structure: The Unbundling of Work
 
-**Status:** Awaiting approval
+**Status:** Approved
 **Date:** 2026-01-27
 
 ---
@@ -15,13 +15,13 @@ AI won't take your job wholesale—it'll take tasks from it, and your job will r
 
 ## Headings
 
-**Yes** — The piece is 1500+ words, has distinct phases (reframe → evidence → counterpoint → personal story → framework → action), and readers anxious about their jobs will want to skim for the parts most relevant to them.
+**Yes, but selective** — No heading for the hook or close. Headings for the substantive sections to help anxious readers navigate.
 
 ---
 
 ## Proposed Outline
 
-### 1. The Anxiety Hook
+### 1. [No heading — just dive in]
 **Purpose:** Meet the reader where they are. Acknowledge the fear without dismissing it.
 **Content:** Open with the feeling of seeing AI do something you thought was *your* thing. Don't start with "AI is transforming work"—start with the gut punch of watching it happen.
 **Tone:** Personal, immediate. Not academic.
@@ -29,7 +29,7 @@ AI won't take your job wholesale—it'll take tasks from it, and your job will r
 
 ---
 
-### 2. The Reframe: Your Job Is a Bundle
+### 2. Your Job Is a Label, Not a Unit
 **Purpose:** Introduce the core insight that changes how you think about automation risk.
 **Content:**
 - Jobs aren't indivisible units—they're bundles of tasks wearing a label
@@ -41,7 +41,7 @@ AI won't take your job wholesale—it'll take tasks from it, and your job will r
 
 ---
 
-### 3. This Isn't Wishful Thinking: Historical Evidence
+### 3. We've Seen This Before
 **Purpose:** Show this pattern has played out before, with data.
 **Content:**
 - **ATM-teller paradox:** Tellers per branch dropped 20→13, but branches grew 43%, so employment grew. The job shifted from cash handling to relationship banking.
@@ -53,7 +53,7 @@ AI won't take your job wholesale—it'll take tasks from it, and your job will r
 
 ---
 
-### 4. The Honest Counterpoint
+### 4. But Some Jobs Really Are Just Tasks
 **Purpose:** Don't let the reader think this is pure optimism. Acknowledge the real risks.
 **Content:**
 - Some jobs really *are* mostly automatable tasks. If the "kernel of irreducible humanness" is too small, the job deflates or disappears.
@@ -89,7 +89,7 @@ AI won't take your job wholesale—it'll take tasks from it, and your job will r
 
 ---
 
-### 7. The Call to Action: Map Your Own Frontier
+### 7. Map Your Own Frontier
 **Purpose:** Turn the analysis into something the reader can do.
 **Content:**
 - The frontier isn't a static limit—it's something you map by using the tools
@@ -101,7 +101,7 @@ AI won't take your job wholesale—it'll take tasks from it, and your job will r
 
 ---
 
-### 8. The Close
+### 8. [No heading — just land it]
 **Purpose:** Land the piece. Not a summary—a final thought that stays with them.
 **Content:**
 - Return to the core tension: "Am I more than the sum of my tasks?"

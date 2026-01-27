@@ -1,7 +1,7 @@
 # The Unbundling of Work — Status
 
 ## Current Phase
-Ready for Structure
+Expansion
 
 ## Completed
 - [x] Analysis (2026-01-27)
@@ -9,13 +9,20 @@ Ready for Structure
 - [x] Research: AI task unbundling 2024-2025 — radiology, middle management, knowledge work (2026-01-27)
 - [x] Author input: Initial perspectives on job titles, simplistic tasks, job transformation (2026-01-27)
 - [x] Author input: Deep input — core position, personal experience, hot take, audience (2026-01-27)
+- [x] Structure approved (2026-01-27)
 
 ## In Progress
 [None]
 
 ## Still Needed
-- [ ] Structure proposal
-- [ ] Expansion
+- [ ] Section 1: Hook (no heading)
+- [ ] Section 2: Your Job Is a Label, Not a Unit
+- [ ] Section 3: We've Seen This Before
+- [ ] Section 4: But Some Jobs Really Are Just Tasks
+- [ ] Section 5: What I've Seen: The Software Engineering Sandwich
+- [ ] Section 6: Two Reasons for Optimism (That Aren't Cope)
+- [ ] Section 7: Map Your Own Frontier
+- [ ] Section 8: Close (no heading)
 - [ ] Polish
 
 ## Key Research Findings
