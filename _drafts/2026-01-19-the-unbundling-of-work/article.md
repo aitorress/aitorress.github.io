@@ -53,7 +53,15 @@ This doesn't mean I'm less of an engineer. It means I focus on different parts. 
 
 I see the same pattern in other professions. Financial analysts spending less time building models and more time interpreting them for clients. Lawyers using AI for discovery and focusing on strategy. Software engineering is just the easiest to see because the tools are so visible. But the sandwich is everywhere: the human parts on either end, the automated parts in the middle.
 
-<!-- Section 6: Two Reasons for Optimism (That Aren't Cope) — PENDING -->
+## Two Reasons for Optimism (That Aren't Cope)
+
+So far this sounds grim. Some jobs are just tasks. The timeline might be brutal. Middle management is already getting squeezed. But I'm actually optimistic, and not in a "don't worry, it'll be fine" way. There are two real reasons to think the story ends better than the anxiety suggests.
+
+**The jagged frontier.** AI isn't uniformly good at everything. It's shockingly capable at some tasks and weirdly bad at others, and the boundary between them is jagged, not smooth. Your job survives if enough of your tasks fall on the human side of that frontier. The more judgment, context, and ambiguity involved, the more likely you're safe. For now.
+
+**The accountability gap.** Even when AI *can* do something, people often still want a human involved. I can get my lab results analyzed by a very smart AI. But I also want a doctor to look at them, to weigh in, to be the one I can ask questions. It's not that AI is wrong. It's that someone needs to be accountable. Someone needs to own the decision. For high-stakes work, that's durable demand for humans.
+
+These aren't permanent shields. The frontier moves. Trust builds over time. But "for now" might be a long time, especially for work that involves risk, relationships, or responsibility. The question is whether you're paying attention to where the frontier is today and where it's heading.
 
 <!-- Section 7: Map Your Own Frontier — PENDING -->
 
