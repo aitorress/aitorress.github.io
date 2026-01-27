@@ -9,11 +9,11 @@ category: "French"
 tags: [sauce, beef, quick, classic]
 ---
 
-Classic French bistro vibes. Incredibly simple, high reward, low risk. It pairs with any steak that's beefy enough to contrast with the richness of the sauce. And it's not as peppery as people think—tell them to chill.
+This sauce is a killer. Super Frenchy bistro, incredibly simple, high reward, low risk. It goes with any steak that's beefy enough—you want that contrast between the meat, the fat, and the sauce. A lot of people love this one. And look, it's not as peppery as people think, so tell them to chill.
 
 ## Ingredients
 
-- A good handful of peppercorns (skip the plain black—try green peppercorns, a melange with red, coriander, whatever looks interesting)
+- A good handful of peppercorns—this is what gives your sauce its particular kick, so be creative. Black peppercorns are the most common, so try something else: green peppercorns are great, or grab one of those peppercorn melanges from the supermarket with green, red, coriander, a little black. That works great too.
 - One shallot, finely chopped
 - Butter
 - One or two cloves of garlic, finely chopped
@@ -25,11 +25,18 @@ Classic French bistro vibes. Incredibly simple, high reward, low risk. It pairs 
 
 ## Steps
 
-1. Smash the peppercorns with a mortar and pestle—not finely ground, just broken up into varying sizes depending on the texture you want.
-2. Toast the crushed peppercorns in a dry pan over medium-high heat until you get that pungent peppercorn fragrance, about one to two minutes.
-3. Add the butter, shallot, and garlic to the pan. Let the butter melt and stir until everything starts to combine and smells nice.
-4. Carefully pour in the brandy (watch out if you're working with an open flame). Let the alcohol evaporate and reduce a bit.
-5. Pour in the heavy cream and stir for one to two minutes.
-6. Add the beef stock—about twice the amount of cream—and let it simmer, stirring for a few minutes until it reduces to the consistency you want. More cream if you want it richer, more stock if you want it lighter.
+1. Grab your peppercorns and use a mortar and pestle to destroy them a little bit. You're not grinding them fine—just smashing, getting them into different sizes. The texture of your finished sauce depends on this, so do what feels right.
+
+2. Send those peppercorns to a dry pan on medium-high heat. One to two minutes, but really what you're looking for is the smell—when you get that pungent peppercorn fragrance hitting you, they're ready.
+
+3. Now add the shallot, butter, and garlic. Let the butter melt, start stirring, let everything combine. When it smells nice, you're good.
+
+4. Here's where you need to be careful if you're working with an open flame. (Electric stove? Nothing to worry about.) Pour in your brandy—just a nice pour, maybe a quarter cup—and let the alcohol evaporate and reduce a little.
+
+5. Pour in the heavy cream, stir for a minute or two.
+
+6. Now add the beef stock—about twice as much as the cream. This is my preferred ratio, but you can tweak it however you want. Want it creamier? More cream. Different flavor profile? More stock. Stir for a few minutes until it reduces to the consistency you're after.
+
 7. Finish with a knob of cold butter stirred in.
-8. Top with parsley or chives and serve over your steak.
+
+8. Top with parsley or chives and pour it over your steak.
