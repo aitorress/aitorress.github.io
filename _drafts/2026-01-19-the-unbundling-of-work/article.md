@@ -31,7 +31,15 @@ Then there are the telephone operators. At peak, 350,000 of them, almost all wom
 
 The lesson isn't "automation kills jobs" or "automation saves jobs." It's that automation affects tasks first, employment later. The question is always: how much later? The telephone operators had decades. We might have years.
 
-<!-- Section 4: But Some Jobs Really Are Just Tasks — PENDING -->
+## But Some Jobs Really Are Just Tasks
+
+Here's where I have to be honest with you: some jobs really are mostly automatable tasks stacked on top of each other. If the "kernel of irreducible humanness" in your role is too small, the job doesn't transform. It deflates. Or it disappears entirely.
+
+The carpenter analogy is comforting. Power tools didn't kill carpenters; they made them more efficient. But that story has survivor bias baked into it. Carpentry survived. Telephone operators didn't. The question isn't whether *some* jobs survive automation. It's whether *yours* is more like the carpenter or more like the switchboard operator.
+
+Middle management is already finding out. Job postings for middle management roles have dropped over 40% since 2022. Amazon, Salesforce, and others are making explicit cuts, citing AI tools that handle coordination, reporting, and information flow. A lot of middle management turned out to be the human API layer between people who make decisions and people who execute them. AI is a very efficient API.
+
+And speed matters. The telephone operators had 86 years to adapt. If AI compresses that same transformation into five or ten years, the "jobs transform" story might be technically true but socially catastrophic. People can't retrain that fast. Institutions can't adapt that fast. The pattern holds, but the timeline breaks everything.
 
 <!-- Section 5: What I've Seen: The Software Engineering Sandwich — PENDING -->
 
