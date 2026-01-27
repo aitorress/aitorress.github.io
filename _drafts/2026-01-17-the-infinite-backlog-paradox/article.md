@@ -1,7 +1,7 @@
 ---
 title: "Care Doesn't Scale"
 date: 2026-01-27
-status: draft
+status: shelved
 tags: [ai, engineering, economics, labor, productivity]
 ---
 

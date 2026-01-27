@@ -1,7 +1,10 @@
 # Care Doesn't Scale — Status
 
 ## Current Phase
-Polish
+**SHELVED** (2026-01-27)
+
+## Why Shelved
+The "care doesn't scale" angle is interesting but doesn't land strongly enough on its own. May work better as part of a larger argument later, potentially combined with other drafts exploring AI and work.
 
 ## Completed
 - [x] Analysis (2026-01-26)
@@ -12,14 +15,17 @@ Polish
 - [x] Structure approved (2026-01-27) — Title: "Care Doesn't Scale"
 - [x] Expansion complete (2026-01-27) — All 4 sections written
 
-## In Progress
-None
+## Salvageable Material
+- Historical employment data (ATMs, spreadsheets) — well-researched, reusable
+- BCG/Harvard "jagged frontier" findings — strong empirical anchor
+- "Ownership over output" framing — may be the seed of something stronger
+- The tension: "finite scope is good" vs. "finite scope threatens jobs"
 
-## Still Needed
-- [ ] Polish / author review
-
-## Open Questions
-All resolved.
+## Potential Connections
+Could combine with:
+- The Foundation Paradox (AI makes fundamentals more important)
+- Still Handy themes (tool-mastery, becoming)
+- Other AI/work drafts in the queue
 
 ## Key Decisions Made
 - **Thesis:** AI transforms jobs, doesn't reduce them. Clear stance, not both-sides.
