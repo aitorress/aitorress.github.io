@@ -16,7 +16,7 @@ Expansion
 
 ## Still Needed
 - [x] Section 1: Hook (no heading) (2026-01-27)
-- [ ] Section 2: Your Job Is a Label, Not a Unit
+- [x] Section 2: Your Job Is a Label, Not a Unit (2026-01-27)
 - [ ] Section 3: We've Seen This Before
 - [ ] Section 4: But Some Jobs Really Are Just Tasks
 - [ ] Section 5: What I've Seen: The Software Engineering Sandwich
