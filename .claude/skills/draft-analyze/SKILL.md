@@ -88,19 +88,24 @@ Not everything in the draft earns its place. Note sections or ideas that:
 
 ## Working Folder Setup
 
-When analyzing a draft, create a working folder to persist artifacts across sessions.
+When analyzing a draft, create a working folder to persist artifacts across sessions. Move the original draft into this folder to keep everything in one place.
 
 For a draft at `_drafts/2026-01-21-the-foundation-paradox.md`, create:
 
 ```
 _drafts/
   2026-01-21-the-foundation-paradox/
+    draft.md         (move the original draft here)
     STATUS.md
     analysis.md      (save the full analysis here)
     research/        (empty, will hold research findings)
     author-input.md  (empty, will hold author perspectives)
     structure.md     (empty, will hold approved outline)
 ```
+
+### Move the Draft
+
+Move the original draft file into the working folder and rename it to `draft.md`. This keeps all working materials together and makes it clear which file is the source document.
 
 ### Save the Analysis
 

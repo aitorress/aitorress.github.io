@@ -23,12 +23,24 @@ You should then read from the working folder:
 
 ### Section-by-Section, Not All at Once
 Expand ONE section at a time. After each section:
-1. Present the expanded section
-2. Wait for author approval or feedback
-3. Revise if needed
-4. Only then proceed to the next section
+1. Write the section and update article.md
+2. Commit and push immediately (this tracks all iterations)
+3. Present the section to the author
+4. If revisions needed, make changes, commit again
+5. Once approved, proceed to the next section
 
-This keeps the author in control and catches problems early.
+This keeps the author in control, catches problems early, and preserves the full history of iterations in git.
+
+### Commit as You Go
+Every draft of every section gets committed, even before approval. This way:
+- All work is tracked and recoverable
+- The author can see the evolution of the piece
+- Nothing is lost if the session ends unexpectedly
+- Revisions are visible in the commit history
+
+Commit messages should indicate whether it's a draft or approved version:
+- Draft: "Draft Section 2: Your Job Is a Label, Not a Unit"
+- Approved: "Approve Section 2: Your Job Is a Label, Not a Unit"
 
 ### Drawing from All Sources
 For each section, pull from:
@@ -53,6 +65,24 @@ Based on analysis of the author's published work:
 - Skeptical of hype, not cynical
 - Direct address ("you") creates immediacy
 - First-person ("I") for personal experience and honest uncertainty
+
+### Add Color and Lived-In Details
+
+Prose should feel human, not clinical. Add small moments that make scenes real:
+
+**Instead of:**
+> "You decided to try AI on a task. It worked well. You realized this was concerning."
+
+**Write:**
+> "You're kind of dreading it, if you're honest. It's the kind of work that needs doing but doesn't spark joy... You stretch, victorious, already planning what to do with your reclaimed afternoon."
+
+**What makes this work:**
+- "kind of dreading it" (honest inner state)
+- "doesn't spark joy" (specific, relatable feeling)
+- "stretch, victorious" (physical detail that shows emotion)
+- "reclaimed afternoon" (the small pleasure before the gut punch)
+
+Don't overdo it. One or two human moments per section is enough. But without them, the writing feels like a report instead of a person thinking out loud.
 
 ### Rhetorical Devices
 - Questions to guide reader reasoning (but don't overdo)
