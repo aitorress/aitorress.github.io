@@ -2,8 +2,7 @@
 title: "Still Handy"
 date: 2026-01-23
 tags: [ai, evolution, intelligence, hinton, tools]
-header:
-  image: /assets/images/still-handy-header.png
+header_image: /assets/images/headers/still-handy-header.png
 ---
 
 # Still Handy
