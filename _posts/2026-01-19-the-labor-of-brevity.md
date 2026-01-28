@@ -3,7 +3,8 @@ title: "The Labor of Brevity"
 date: 2026-01-19
 status: published
 tags: [writing, thinking, communication, craft]
-header_image: /assets/images/headers/brevity-header.png
+header:
+  image: /assets/images/headers/brevity-header.png
 ---
 
 # The Labor of Brevity
