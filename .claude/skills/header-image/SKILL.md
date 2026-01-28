@@ -125,9 +125,10 @@ After generating:
 
 1. **Show the image** to the user for approval
 2. **Explain your style choice** briefly (tone + metaphor fit + variety)
-3. **Update the post front matter** with the image path:
+3. **Update the post front matter** with the image path (use minimal-mistakes native format):
    ```yaml
-   header_image: /assets/images/headers/<filename>-header.png
+   header:
+     image: /assets/images/headers/<filename>-header.png
    ```
 4. If the user doesn't like it, offer to:
    - Regenerate with the same style but different concept
