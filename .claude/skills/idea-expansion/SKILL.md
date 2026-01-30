@@ -68,7 +68,7 @@ After generating the expansion, save it to the user's blog repository.
 ### If running in Claude Code (local):
 Save the file directly to:
 
-`__drafts/YYYY-MM-DD-[slug].md`
+`_drafts/YYYY-MM-DD-[slug].md`
 
 Where `[slug]` is a URL-friendly version of the title (lowercase, hyphens, no special characters).
 
@@ -77,7 +77,7 @@ Then tell the user: "Draft saved to `_drafts/[filename]`. Run `git status` to re
 ### If GitHub MCP is available (web/mobile):
 Create the file in the repository `aitorress.github.io` at path:
 
-`__drafts/YYYY-MM-DD-[slug].md`
+`_drafts/YYYY-MM-DD-[slug].md`
 
 Use a commit message like: "Add draft: [title]"
 
