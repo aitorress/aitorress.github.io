@@ -36,14 +36,14 @@ The workflow has 8 skills organized into 5 phases:
 - Connects to adjacent ideas and thinkers
 - Generates raw material (quotable bits, metaphors)
 
-**Output:** A structured draft saved to `__drafts/YYYY-MM-DD-[slug].md`
+**Output:** A structured draft saved to `_drafts/YYYY-MM-DD-[slug].md`
 
 **Example usage:**
 ```
 "Hot take: most people who say they want feedback actually want validation"
 ```
 
-**Next step:** Move the draft from `__drafts/` to `_drafts/` when you're ready to develop it, then run `draft-analyze`.
+**Next step:** Run `draft-analyze` when you're ready to develop the draft further.
 
 ---
 
@@ -374,7 +374,7 @@ When the polished article is ready:
 
 | Skill | Input | Output | Key Question |
 |-------|-------|--------|--------------|
-| `idea-expansion` | Raw thought | Structured draft in `__drafts/` | What's the underlying tension? |
+| `idea-expansion` | Raw thought | Structured draft in `_drafts/` | What's the underlying tension? |
 | `draft-analyze` | Draft file | Analysis + working folder | What's missing? |
 | `draft-research` | Research question | `research/[topic].md` | What does the evidence say? |
 | `draft-input` | Draft context | `author-input.md` | What does the author believe? |
