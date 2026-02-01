@@ -35,7 +35,23 @@ Read the full draft checking for voice alignment with the author's established s
 - Places where the voice shifts awkwardly
 - Formulaic patterns creeping in (same opener style, same closer style)
 - Em-dashes — a major tell that AI wrote the text. Replace with periods, commas, colons, or parentheses. Rewrite sentences to avoid needing them.
-- "Not X. It's Y." / "Isn't X. It's Y." constructions — another AI tell when overused. One or two can work; three or more is a pattern. Vary the structure or combine into single sentences.
+- **Contrastive negation** — a major AI tell. This is the "Not X. It's Y." / "Isn't X. It's Y." / "Less about X, more about Y" pattern. AI loves this structure because it creates apparent insight through opposition. But real writers state what things *are*, not what they're not.
+
+  **Common variations to flag:**
+  - "It's not about X. It's about Y."
+  - "This isn't X. It's Y."
+  - "The point isn't X. The point is Y."
+  - "Less X, more Y."
+  - "Not X, but Y."
+  - "Rather than X, it's Y."
+
+  **Why it's a tell:** Humans naturally assert directly. "The sky is blue." AI hedges through negation first. "The sky isn't red. It's blue." One instance is fine. Two is suspicious. Three or more screams AI.
+
+  **How to fix:**
+  - Just state the positive claim: "It's about Y." (delete the negation entirely)
+  - If the contrast matters, make it a real comparison: "X matters, but Y matters more because..."
+  - Combine into one sentence with actual reasoning: "Y drives this, not X, because [reason]."
+  - Sometimes the negation is the whole point and you can just cut the sentence
 
 ### Pass 2: Self-Critique
 
