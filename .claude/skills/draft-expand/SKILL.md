@@ -95,6 +95,7 @@ Don't overdo it. One or two human moments per section is enough. But without the
 - Self-deprecating hedges that feel like false modesty
 - Constant urgency—vary the emotional register
 - **Em-dashes** — a major tell that AI wrote the text. Use periods, commas, colons, or parentheses instead. Rewrite sentences to avoid needing em-dashes.
+- **Contrastive negation** — "Not X. It's Y." / "This isn't about X. It's about Y." / "Less X, more Y." This is how AI creates the illusion of insight through opposition. Real writers just state what things are. One is fine; three is a pattern that screams AI. Fix by deleting the negation and stating the positive claim directly, or by making the contrast earn its place with actual reasoning.
 
 ## Expansion Quality Standards
 
