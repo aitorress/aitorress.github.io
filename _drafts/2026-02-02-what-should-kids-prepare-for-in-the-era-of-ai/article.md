@@ -5,7 +5,7 @@ status: draft
 tags: [ai, parenting, careers, education, workforce, uncertainty]
 ---
 
-My kids are one and four. They haven't asked me what they should study yet. But I think about it.
+My kids haven't asked me what they should study yet. But I think about it.
 
 When they do ask, I'll probably tell them to study whatever makes them happy. This sounds like good parenting. It's actually a confession. I used to have opinions about career paths. Engineering meant stability and options. Art meant passion projects and crossed fingers. We used to say "engineer" with relief and "artist" with crossed fingers. Now we don't know which way to cross our fingers. "Study STEM" was shorthand for "you'll be fine." Now the old heuristics are scrambled. I'm bullish on coding principles. I'm bullish on creativity. I can't rank them. The honest answer is that I don't know where the world will be in a few years, and "whatever makes you happy" is the best I've got.
 
