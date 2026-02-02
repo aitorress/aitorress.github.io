@@ -225,8 +225,11 @@ Complete — Ready for Review
 
 ## After Polish
 
+**Always offer `/draft-enrich` before publishing.** Ask the author if the article feels too lean or if they want to add depth. The workflow is: polish → enrich (optional) → publish.
+
 The output is a publish-ready article. The author can:
-- Approve and publish
+- Run `/draft-enrich` to add depth, curves, or richness (recommended to offer)
+- Approve and publish as-is
 - Request specific revisions
 - Run `/draft-polish` again on the revised version
 
