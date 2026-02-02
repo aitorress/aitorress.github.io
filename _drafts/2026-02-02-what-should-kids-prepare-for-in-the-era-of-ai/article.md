@@ -63,7 +63,7 @@ But when tasks fell outside AI's capability boundary, novices experienced a 19-p
 
 This is the jagged frontier problem. AI is brilliant at some things and confidently wrong about others. The boundary is invisible. You can't know where the frontier is without expertise to evaluate the output. AI is most useful to the people who need it least.
 
-## The Counterargument
+## But Maybe Fundamentals Are Changing
 
 I should steelman the other side.
 
