@@ -5,9 +5,9 @@ status: draft
 tags: [ai, parenting, careers, education, workforce, uncertainty]
 ---
 
-When my kids ask what they should study, I tell them to study whatever makes them happy.
+My kids are one and four. They haven't asked me what they should study yet. But I think about it.
 
-This sounds like good parenting. It's actually a confession. I used to have opinions about career paths. Engineering meant stability and options. Art meant passion projects and crossed fingers. We used to say "engineer" with relief and "artist" with crossed fingers. Now we don't know which way to cross our fingers. "Study STEM" was shorthand for "you'll be fine." Now the old heuristics are scrambled. I'm bullish on coding principles. I'm bullish on creativity. I can't rank them. The honest answer is that I don't know where the world will be in a few years, and "whatever makes you happy" is the best I've got.
+When they do ask, I'll probably tell them to study whatever makes them happy. This sounds like good parenting. It's actually a confession. I used to have opinions about career paths. Engineering meant stability and options. Art meant passion projects and crossed fingers. We used to say "engineer" with relief and "artist" with crossed fingers. Now we don't know which way to cross our fingers. "Study STEM" was shorthand for "you'll be fine." Now the old heuristics are scrambled. I'm bullish on coding principles. I'm bullish on creativity. I can't rank them. The honest answer is that I don't know where the world will be in a few years, and "whatever makes you happy" is the best I've got.
 
 Here's what I do know: the uncertainty isn't distributed evenly.
 
@@ -89,12 +89,12 @@ Value will be derived by smart people at every step until we reach AGI or ASI or
 
 The people I admire most are both highly creative and deep experts in their domain. The combination. That's always been true, and I don't see why AI changes it.
 
-## What I Tell My Kids
+## What I'll Tell My Kids
 
-So what do I actually say when my kids ask about careers?
+So what will I actually say when my kids ask about careers?
 
-Study whatever makes you happy. I mean it. But also: build something worth multiplying. Develop taste. Go deep somewhere. Learn what good looks like before you let the tools take over.
+Study whatever makes you happy. I'll mean it. But also: build something worth multiplying. Develop taste. Go deep somewhere. Learn what good looks like before you let the tools take over.
 
 The skills that make you resilient to AI disruption are exactly the skills that AI makes easy to skip. That's the paradox. It doesn't resolve neatly.
 
-I'm preparing them for uncertainty itself. That's the only thing I'm certain about.
+I'm trying to skate to where the puck is going. The problem is the puck is moving faster than anyone can track. So I'm preparing them for uncertainty itself. That's the only thing I'm certain about.
