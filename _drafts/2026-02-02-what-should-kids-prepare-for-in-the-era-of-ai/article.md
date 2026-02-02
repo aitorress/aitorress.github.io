@@ -7,7 +7,7 @@ tags: [ai, parenting, careers, education, workforce, uncertainty]
 
 When my kids ask what they should study, I tell them to study whatever makes them happy.
 
-This sounds like good parenting. It's actually a confession. I used to have opinions about career paths. Engineering meant stability and options. Art meant passion projects and crossed fingers. "Study STEM" was shorthand for "you'll be fine." Now the old heuristics are scrambled. I'm bullish on coding principles. I'm bullish on creativity. I can't rank them. The honest answer is that I don't know where the world will be in a few years, and "whatever makes you happy" is the best I've got.
+This sounds like good parenting. It's actually a confession. I used to have opinions about career paths. Engineering meant stability and options. Art meant passion projects and crossed fingers. We used to say "engineer" with relief and "artist" with crossed fingers. Now we don't know which way to cross our fingers. "Study STEM" was shorthand for "you'll be fine." Now the old heuristics are scrambled. I'm bullish on coding principles. I'm bullish on creativity. I can't rank them. The honest answer is that I don't know where the world will be in a few years, and "whatever makes you happy" is the best I've got.
 
 Here's what I do know: the uncertainty isn't distributed evenly.
 
@@ -22,6 +22,8 @@ The real uncertainty burden falls on people entering the workforce. And by exten
 ## AI Is a Multiplier
 
 Here's the mental model I keep coming back to: AI amplifies whatever is already there.
+
+Think of it like a power saw. It makes a master carpenter faster. It makes a novice dangerous. The tool doesn't care which one you are.
 
 If you're smart, disciplined, and curious, AI makes you more so. You move faster. You tackle bigger problems. If you're sloppy and weak at reasoning, AI amplifies that too. You produce more garbage, faster, with higher confidence.
 
@@ -69,7 +71,11 @@ I should steelman the other side.
 
 The "fundamentals first" assumption might be historical rather than necessary. A generation fluent in AI tools from childhood might develop a different kind of judgment, one we can't conceptualize because we're anchored to our own experience. We worried calculators would erode mathematical intuition. Maybe it did. Maybe it didn't matter.
 
+People lost the ability to navigate without GPS. This was fine until it wasn't. Dead zones, failures, moments when you actually need the skill you never built. A small cost for most, catastrophic for a few. The question is whether AI dependency follows the same pattern, or whether the stakes are higher.
+
 And the creative reversal hypothesis (that [creativity becomes more valuable](/2025/09/02/the-human-edge/) as technical execution gets commoditized) has survivorship bias. Top-tier creative work requires depth and taste. But most creative work isn't top-tier. The middle of the creative market is being hollowed out. Stock photography is dying. Generic illustration is dying. Telling kids "be creative" might be accurate at the top of the distribution and catastrophic for the median.
+
+I should also ask: who benefits from the "new entrants are at risk" narrative? Does it serve experienced workers protecting their position? Educators justifying traditional methods? I've thought about this. I don't think it serves anyone in particular. Everyone has a role to fulfill. The experienced workers who might benefit from this narrative are also the ones training the juniors, cleaning up the messes, and worrying about their own kids. There's no cartel here. Just genuine uncertainty.
 
 The honest position is uncertainty.
 
