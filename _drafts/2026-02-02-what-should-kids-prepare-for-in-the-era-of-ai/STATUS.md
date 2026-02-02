@@ -1,49 +1,53 @@
 # What Should Kids Prepare For in the Era of AI? — Status
 
 ## Current Phase
-Expansion Complete → Ready for Polish
+Complete — Ready for Review
 
 ## Completed
 - [x] Idea expansion (2026-02-02)
 - [x] Analysis (2026-02-02)
-- [x] Research: Calculator transition in education (2026-02-02)
-- [x] Research: Harvard/BCG jagged frontier study (2026-02-02)
-- [x] Research: Job polarization data - Autor (2026-02-02)
-- [x] Research: Internal blog connections (2026-02-02)
+- [x] Research: Calculator transition, jagged frontier, job polarization, internal connections (2026-02-02)
 - [x] Author input gathered (2026-02-02)
 - [x] Structure approved (2026-02-02)
-- [x] Section 1: Opening hook (2026-02-02)
-- [x] Section 2: The Burden Falls on the Wrong People (2026-02-02)
-- [x] Section 3: AI Is a Multiplier, Not a Substitute (2026-02-02)
-- [x] Section 4: The Catch-22 for New Entrants (2026-02-02)
-- [x] Section 5: I've Seen This at Work (2026-02-02)
-- [x] Section 6: The Calculator Came After the Multiplication Tables (2026-02-02)
-- [x] Section 7: The Evidence Is Worse Than the Theory (2026-02-02)
-- [x] Section 8: But Maybe Fundamentals Are Changing (2026-02-02)
-- [x] Section 9: The Path Is the Same Regardless (2026-02-02)
-- [x] Section 10: Closing (2026-02-02)
+- [x] All sections expanded (2026-02-02)
+- [x] Polish pass (2026-02-02)
 
-## Still Needed
-- [ ] Polish pass
-- [ ] Final review
-- [ ] Publish
+## Polish Summary
 
-## Article Stats
-- **Word count:** ~1,450 words
-- **Sections:** 10 (8 with headings, 2 without)
-- **Key data:** Jagged frontier study (19% novice drop)
-- **Personal example:** Ticket completion problem
-- **Links included:** Harvard/BCG study
+**Word count:** 1,450 → 1,230 (~15% reduction)
 
-## Key Decisions Made
-- **Title:** "What Should Kids Prepare For in the Era of AI?"
-- **Piece type:** Tension-driven (paradox at center)
-- **Core tension:** "Skills that make you resilient are exactly what AI disrupts your ability to build"
-- **Framing:** Timeline-agnostic preparation
-- **Close:** "Study what makes you happy" + "build something worth multiplying"
+**Voice adjustments:**
+- Shortened heading "AI Is a Multiplier, Not a Substitute" → "AI Is a Multiplier"
+- Changed "But Maybe Fundamentals Are Changing" → "The Counterargument" (cleaner)
+- Tightened bureaucracy list in section 2
+- Removed redundant phrases throughout
 
-## Notes
-- Article is complete in article.md
-- Ready for polish pass (voice consistency, tightening, source links)
-- Consider adding link to "The Unbundling of Work" in section 2
-- Consider adding link to "The Human Edge" in section 9
+**Links added:**
+- "The Unbundling of Work" (adoption lag context)
+- "The Human Edge" (creativity value context)
+- Harvard/BCG study (already present)
+
+**Cuts made:**
+- Redundant "fast" in multiplier section
+- Bureaucracy examples (kept one sentence)
+- "Refusing isn't an option" sentence (implied)
+- "This is why experienced people win" elaboration (tightened)
+- Calculator researcher quote (summarized instead)
+
+## Publishing Checklist
+- [x] Title is clear and searchable
+- [x] Opening hooks within first two sentences
+- [x] Core insight stated by section 4
+- [x] All claims supported (research, personal example)
+- [x] Counterargument addressed (section 7)
+- [x] Close returns to opening frame
+- [x] No em-dashes
+- [x] No contrastive negation patterns
+- [x] Key references linked
+- [ ] Final author review
+
+## To Publish
+1. Author reviews polished article
+2. Move `article.md` to `_posts/2026-02-02-what-should-kids-prepare-for-in-the-era-of-ai.md`
+3. Update status from "draft" to "published"
+4. Working folder can be archived or deleted
