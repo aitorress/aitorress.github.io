@@ -20,7 +20,7 @@ It's a clean narrative. Terrifying, but clean. And it's not how I took it.
 
 Look at the word he used: *conceivable*. Not inevitable. Not likely. Not even probable. Conceivable. He was answering a question about worst-case scenarios at a conference, and his fuller explanation is worth reading: "You need biological intelligence to evolve so that it can create digital intelligence."
 
-We're not the thing being replaced. We're the origin. The necessary precondition. The quote that sounds like a death sentence is actually a birth announcement: we're the species that creates what comes next.
+We're not the thing being replaced. We're the origin. The necessary precondition. The quote that sounds like a death sentence is actually a birth announcement: we're the species that creates what comes next. In four billion years of life on Earth, homo sapiens may be the first species to consciously create its successor.
 
 But here's what really caught me: "passing phase" assumes we know what comes after. The phrase implies we stop existing, that there's a clean break between us and whatever follows. But evolution doesn't work by replacement. It works by becoming. What if we're not passing *out* of existence, but passing *into* something?
 
