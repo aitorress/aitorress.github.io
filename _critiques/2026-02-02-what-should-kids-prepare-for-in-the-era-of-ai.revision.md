@@ -17,7 +17,7 @@ Prioritized revision items, highest ROI first:
 - **Questions to resolve:** Which hook is stronger for your intended audience — the paradox (more conceptual) or the Harvard data (more concrete)? Do you want to lead with fear or with a puzzle?
 
 ## 2. Cut scope — the piece tries to cover too much ground
-**Status:** completed
+**Status:** pending
 
 - **Issue:** Both critics say the same thing differently. Galloway: "The steelman section is too long." Housel: "The piece works too hard to cover every angle... Each idea is interesting. Together, they dilute."
 - **Why it matters:** Reader attention is finite. Every section that isn't building toward your core insight is stealing oxygen from it. The piece currently covers: multipliers, adoption lags, calculator analogy, Harvard study, AGI timelines, workplace spirals, career advice. That's 7 threads.
@@ -41,7 +41,7 @@ Prioritized revision items, highest ROI first:
 - **Questions to resolve:** Do you have a specific incident you can draw from? Can you anonymize sufficiently while keeping the detail? Would a composite be honest enough?
 
 ## 5. Move the Harvard study higher and use it as evidence
-**Status:** completed
+**Status:** pending
 
 - **Issue:** Galloway: "A 19-percentage-point performance DROP... that's not an aside, that's the lede."
 - **Why it matters:** This is your strongest empirical backing. It proves your thesis that AI harms novices. Currently it appears mid-piece where readers might skim past.
