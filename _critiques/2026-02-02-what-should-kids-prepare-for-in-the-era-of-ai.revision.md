@@ -25,7 +25,7 @@ Prioritized revision items, highest ROI first:
 - **Questions to resolve:** Which threads are load-bearing for your argument? What can you delete entirely vs. compress into a single sentence? Is the steelman section earning its length?
 
 ## 3. Replace "study whatever makes you happy" with something concrete
-**Status:** pending
+**Status:** completed
 
 - **Issue:** Both critics reject this framing. Galloway: "That's not advice, that's surrender... What are you ACTUALLY doing with your kids?" Housel: "That's also what everyone says."
 - **Why it matters:** This is your ending. It's what readers remember. Currently it undercuts all the sharp thinking that came before. You've diagnosed a hard problem, then offered a platitude.
@@ -49,7 +49,7 @@ Prioritized revision items, highest ROI first:
 - **Questions to resolve:** Does the study need more context to land? Should you quote the specific numbers or summarize the finding?
 
 ## 6. Strengthen the ending — commit or question, don't shrug
-**Status:** pending
+**Status:** completed
 
 - **Issue:** Galloway: "That's a shrug ending dressed as a Gretzky quote. What's the one thing you'd bet on?" Housel: "The real essay might end with the question, not the answer."
 - **Why it matters:** Endings determine whether readers share, remember, or act. The current ending dissipates energy instead of focusing it.

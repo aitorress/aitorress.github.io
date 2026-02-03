@@ -98,6 +98,10 @@ The people I admire most are both highly creative and deep experts in their doma
 
 So what will I actually say when my kids ask about careers?
 
-Study whatever makes you happy. I'll mean it. But also: build something worth multiplying. Develop taste. Go deep somewhere. Learn what good looks like before you let the tools take over.
+I don't know. But here's what I'm doing now: I'm helping them develop creativity. Helping them think critically around problems. Encouraging them to find novel ways of sorting things out — not the first solution, not the obvious one, but their own.
 
-The paradox I opened with doesn't resolve neatly. I can't tell them to avoid AI, and I can't tell them to embrace it uncritically. So I'm preparing them for uncertainty itself. That's the only honest answer I've got.
+I think these skills will survive. Creativity, critical thinking, the ability to see around corners — these seem durable. They're what AI multiplies when you have them, and what AI can't give you if you don't.
+
+But maybe I'm wrong. Maybe the skills that seem timeless will turn out to be the next thing automated. Maybe the uncertainty is the point.
+
+The paradox I opened with doesn't resolve neatly. I can't tell them to avoid AI, and I can't tell them to embrace it uncritically. So I'm preparing them for uncertainty itself — teaching them to think, to question, to create — and hoping that's enough. It's the only honest answer I've got.
