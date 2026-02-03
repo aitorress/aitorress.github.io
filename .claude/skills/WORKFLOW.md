@@ -8,7 +8,7 @@ This document describes the recommended workflow for creating articles using the
 idea-expansion → draft-analyze → [research + input] → draft-structure → draft-expand → draft-polish → [draft-enrich] → publish
 ```
 
-The workflow has 8 skills organized into 5 phases:
+The workflow has 9 skills organized into 5 phases:
 
 | Phase | Skills | Purpose |
 |-------|--------|---------|
@@ -17,6 +17,8 @@ The workflow has 8 skills organized into 5 phases:
 | 3. Gathering | `draft-research`, `draft-input` | Fill gaps with external data and author perspective |
 | 4. Writing | `draft-structure`, `draft-expand`, `draft-polish` | Build and refine the article |
 | 5. Enrichment | `draft-enrich` | Add depth and curves to a solid foundation (optional) |
+
+**Optional at any phase:** `draft-critique` provides editorial feedback through the lenses of Scott Galloway and Morgan Housel.
 
 ---
 
@@ -288,6 +290,41 @@ The workflow has 8 skills organized into 5 phases:
 
 ---
 
+## Optional: Editorial Critique
+
+### Skill: `draft-critique`
+
+**When to use:** You want editorial feedback through the lenses of writers you admire (Scott Galloway and Morgan Housel). Use at any point when you want an outside perspective on what's working and what isn't.
+
+**What it does:**
+- Provides two distinct critiques from two different editorial perspectives:
+  - **Scott Galloway:** Data-driven, direct, demands stakes and actionable takeaways
+  - **Morgan Housel:** Story-driven, patient, values depth over breadth
+- Identifies genuine strengths (what both critics would praise)
+- Gives specific suggestions, not generic feedback
+- Creates a summary table comparing their perspectives
+
+**Output:** Critique document (saved to `critique.md` if in a working folder)
+
+**Example usage:**
+```
+"Critique this draft"
+"Get Galloway/Housel feedback on the AI article"
+```
+
+**When to run it:**
+- After `draft-analyze` to get perspective before investing in research
+- After `draft-expand` to catch issues before polish
+- After `draft-polish` as a final gut-check before publishing
+- On published articles for retrospective learning
+
+**Notes:**
+- The critique informs revision but doesn't change the article directly
+- You decide which feedback to act on
+- Running it multiple times at different stages can surface different issues
+
+---
+
 ## Working Folder Structure
 
 Each draft gets a dedicated folder that persists across sessions:
@@ -382,3 +419,4 @@ When the polished article is ready:
 | `draft-expand` | Approved structure | `article.md` (incremental) | Does each section earn its place? |
 | `draft-polish` | Complete draft | Polished article | Is this ready to publish? |
 | `draft-enrich` | Polished but lean article | Richer article with curves | What depth is missing? |
+| `draft-critique` | Any draft or article | Editorial feedback | What would Galloway/Housel say? |
