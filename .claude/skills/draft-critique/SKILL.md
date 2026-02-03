@@ -175,7 +175,14 @@ Save the critique and revision plan as separate files, then commit both as a che
 
 ## Revision Plan Format
 
-The revision plan is a **separate file** that synthesizes both critiques into prioritized action items.
+The revision plan is a **separate file** that synthesizes both critiques into prioritized action items. Each item includes a **status** to track progress.
+
+**Status values:**
+- `pending` — Not yet addressed
+- `in-progress` — Currently working on
+- `completed` — Done
+- `deferred` — Intentionally postponed
+- `declined` — Reviewed and decided not to address
 
 ```markdown
 # Revision Plan: [Title]
@@ -189,12 +196,16 @@ Date: [today's date]
 Prioritized revision items, highest ROI first:
 
 ## 1. [Issue title]
+**Status:** pending
+
 - **Issue:** [What's wrong — consolidate if both critics flagged this]
 - **Why it matters:** [Impact on reader experience or argument strength]
 - **Suggested fix:** [Concrete action to take]
 - **Questions to resolve:** [Decisions the author needs to make first]
 
 ## 2. [Issue title]
+**Status:** pending
+
 - **Issue:** [Description]
 - **Why it matters:** [Impact]
 - **Suggested fix:** [Action]
