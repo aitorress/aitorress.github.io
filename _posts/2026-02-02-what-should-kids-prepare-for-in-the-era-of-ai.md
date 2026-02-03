@@ -48,7 +48,7 @@ The paradox, stated plainly: they don't yet have anything for AI to multiply.
 
 ## I've Seen This at Work
 
-This isn't theoretical. When engineers are reward-hacking for ticket completion, you can tell. The code gets merged, the metrics look good, but the quality is poor. You know AI was involved because no human who understood the system would have made those choices.
+This isn't theoretical. When engineers are reward-hacking for ticket completion, you can tell. In code review, everything looks fine — elegant, even. But then you run it. Things break. Images render wrong. Edge cases explode. The code passed review because it *looked* right, but no one verified it actually *worked* right. Trust but verify became trust and ship.
 
 The downstream effect is worse than the bad code. Senior engineers spend their time reviewing and fixing instead of building. This makes them skeptical of AI. They've seen what happens when people who don't understand the work use tools that don't understand it either.
 

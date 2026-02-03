@@ -33,7 +33,7 @@ Prioritized revision items, highest ROI first:
 - **Questions to resolve:** What ARE you doing with your kids? Are you willing to share that? If not, would you rather end on honest uncertainty ("I don't know, and maybe that's the point") than fake resolution?
 
 ## 4. Add a concrete story to the workplace spiral section
-**Status:** pending
+**Status:** completed (added texture, not fabricated story)
 
 - **Issue:** Housel specifically: "There's a story missing... we don't see a face, a moment, a specific failure." Galloway implicitly: "The multiplier section needs an example with stakes."
 - **Why it matters:** Abstract analysis doesn't stick. A single vivid scene of a junior engineer failing with AI would make the spiral feel real and memorable.
@@ -41,7 +41,7 @@ Prioritized revision items, highest ROI first:
 - **Questions to resolve:** Do you have a specific incident you can draw from? Can you anonymize sufficiently while keeping the detail? Would a composite be honest enough?
 
 ## 5. Move the Harvard study higher and use it as evidence
-**Status:** pending
+**Status:** deferred
 
 - **Issue:** Galloway: "A 19-percentage-point performance DROP... that's not an aside, that's the lede."
 - **Why it matters:** This is your strongest empirical backing. It proves your thesis that AI harms novices. Currently it appears mid-piece where readers might skim past.
