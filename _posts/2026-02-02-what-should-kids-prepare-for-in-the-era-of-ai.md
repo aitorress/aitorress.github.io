@@ -10,7 +10,7 @@ The skills that make you resilient to AI disruption are exactly the skills that 
 
 That's the paradox I keep circling. To use AI well, you need judgment, taste, and deep expertise. But AI makes it trivially easy to skip the struggle that builds those things. The tool that could make you better makes it harder to become good in the first place.
 
-My kids haven't asked me what they should study yet. When they do, I want to have something better than "study whatever makes you happy" — which is what I'd say now, and it's a confession of uncertainty, not wisdom.
+My kids haven't asked me what they should study yet. When they do, I want to have something better than "study whatever makes you happy." That's what I'd say now, and it's a confession of uncertainty, not wisdom.
 
 Here's what I do know: that uncertainty isn't distributed evenly.
 
@@ -48,7 +48,7 @@ The paradox, stated plainly: they don't yet have anything for AI to multiply.
 
 ## I've Seen This at Work
 
-This isn't theoretical. When engineers are reward-hacking for ticket completion, you can tell. In code review, everything looks fine — elegant, even. But then you run it. Things break. Images render wrong. Edge cases explode. The code passed review because it *looked* right, but no one verified it actually *worked* right. Trust but verify became trust and ship.
+This isn't theoretical. When engineers are reward-hacking for ticket completion, you can tell. In code review, everything looks fine. Elegant, even. But then you run it. Things break. Images render wrong. Edge cases explode. The code passed review because it *looked* right, but no one verified it actually *worked* right. Trust but verify became trust and ship.
 
 The downstream effect is worse than the bad code. Senior engineers spend their time reviewing and fixing instead of building. This makes them skeptical of AI. They've seen what happens when people who don't understand the work use tools that don't understand it either.
 
@@ -98,10 +98,10 @@ The people I admire most are both highly creative and deep experts in their doma
 
 So what will I actually say when my kids ask about careers?
 
-I don't know. But here's what I'm doing now: I'm helping them develop creativity. Helping them think critically around problems. Encouraging them to find novel ways of sorting things out — not the first solution, not the obvious one, but their own.
+I don't know. But here's what I'm doing now: I'm helping them develop creativity. Helping them think critically around problems. Encouraging them to find novel ways of sorting things out. Not the first solution. Not the obvious one. Their own.
 
-I think these skills will survive. Creativity, critical thinking, the ability to see around corners — these seem durable. They're what AI multiplies when you have them, and what AI can't give you if you don't.
+I think these skills will survive. Creativity, critical thinking, the ability to see around corners. These seem durable. They're what AI multiplies when you have them, and what AI can't give you if you don't.
 
 But maybe I'm wrong. Maybe the skills that seem timeless will turn out to be the next thing automated. Maybe the uncertainty is the point.
 
-The paradox I opened with doesn't resolve neatly. I can't tell them to avoid AI, and I can't tell them to embrace it uncritically. So I'm preparing them for uncertainty itself — teaching them to think, to question, to create — and hoping that's enough. It's the only honest answer I've got.
+The paradox I opened with doesn't resolve neatly. I can't tell them to avoid AI, and I can't tell them to embrace it uncritically. So I'm preparing them for uncertainty itself. Teaching them to think, to question, to create. And hoping that's enough. It's the only honest answer I've got.
