@@ -100,6 +100,9 @@ Identify what's genuinely working. Both critics should agree on:
 ### 5. Summary Table
 Create a comparison table showing where they agree and differ.
 
+### 6. Save and Commit
+Save the critique to a file and commit it as a checkpoint. See "Output Artifact" section for file location and format.
+
 ## Output Format
 
 ```markdown
@@ -206,16 +209,49 @@ This skill fits at multiple points in the workflow:
 
 The critique doesn't change the article directly. It informs what the author chooses to revise.
 
-## Integration with Working Folder
+## Output Artifact (Required)
 
-If critiquing a draft in a working folder, save the critique to `critique.md`:
+**Always save and commit the critique as a checkpoint.** This creates a persistent record the author can reference during revision and makes progress visible in the PR.
 
+### File Location
+
+**For drafts in a working folder:**
 ```
 _drafts/2026-01-21-the-foundation-paradox/
   ...
   critique.md    (save the full critique here)
 ```
 
-Include the date at the top of the file.
+**For published posts or standalone files:**
+```
+_critiques/
+  YYYY-MM-DD-article-slug.md    (create this folder if needed)
+```
 
-This gives the author a persistent reference they can return to during revision.
+### File Format
+
+Include metadata at the top of the critique file:
+
+```markdown
+---
+source: [path to the article being critiqued]
+date: [today's date]
+---
+
+[Full critique content follows]
+```
+
+### Commit the Critique
+
+After saving the critique file, commit it with a message like:
+
+```
+Add editorial critique for [Article Title]
+```
+
+This creates a checkpoint in the PR that:
+- Preserves the critique for reference during revision
+- Shows progress to collaborators
+- Allows the author to review feedback before deciding on changes
+
+The critique doesn't change the article directly. It informs what the author chooses to revise next.
