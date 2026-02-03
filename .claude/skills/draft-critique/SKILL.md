@@ -100,7 +100,17 @@ Identify what's genuinely working. Both critics should agree on:
 ### 5. Summary Table
 Create a comparison table showing where they agree and differ.
 
-### 6. Save and Commit
+### 6. Plan of Attack
+Synthesize both critiques into an actionable revision plan:
+- **Consolidate overlapping feedback** — When both critics identify the same issue (even if framed differently), merge into a single item
+- **Rank by ROI** — Order items by impact on the piece (structural issues before line edits)
+- **For each item, include:**
+  - The issue (what's wrong)
+  - Why it matters (impact on reader)
+  - Suggested fix (concrete action)
+  - Questions to resolve (what the author needs to decide before implementing)
+
+### 7. Save and Commit
 Save the critique to a file and commit it as a checkpoint. See "Output Artifact" section for file location and format.
 
 ## Output Format
@@ -161,6 +171,26 @@ Save the critique to a file and commit it as a checkpoint. See "Output Artifact"
 | ... | ... |
 
 **Where they agree:** [Common ground on what needs attention]
+
+---
+
+### Plan of Attack
+
+Prioritized revision items, highest ROI first:
+
+#### 1. [Issue title]
+- **Issue:** [What's wrong — consolidate if both critics flagged this]
+- **Why it matters:** [Impact on reader experience or argument strength]
+- **Suggested fix:** [Concrete action to take]
+- **Questions to resolve:** [Decisions the author needs to make first]
+
+#### 2. [Issue title]
+- **Issue:** [Description]
+- **Why it matters:** [Impact]
+- **Suggested fix:** [Action]
+- **Questions to resolve:** [Decisions needed]
+
+[Continue for remaining items...]
 ```
 
 ## Voice Calibration
