@@ -100,8 +100,8 @@ Identify what's genuinely working. Both critics should agree on:
 ### 5. Summary Table
 Create a comparison table showing where they agree and differ.
 
-### 6. Plan of Attack
-Synthesize both critiques into an actionable revision plan:
+### 6. Revision Plan
+Create a separate artifact that synthesizes both critiques into an actionable revision plan:
 - **Consolidate overlapping feedback** — When both critics identify the same issue (even if framed differently), merge into a single item
 - **Rank by ROI** — Order items by impact on the piece (structural issues before line edits)
 - **For each item, include:**
@@ -111,7 +111,7 @@ Synthesize both critiques into an actionable revision plan:
   - Questions to resolve (what the author needs to decide before implementing)
 
 ### 7. Save and Commit
-Save the critique to a file and commit it as a checkpoint. See "Output Artifact" section for file location and format.
+Save the critique and revision plan as separate files, then commit both as a checkpoint. See "Output Artifacts" section for file locations and formats.
 
 ## Output Format
 
@@ -171,20 +171,30 @@ Save the critique to a file and commit it as a checkpoint. See "Output Artifact"
 | ... | ... |
 
 **Where they agree:** [Common ground on what needs attention]
+```
+
+## Revision Plan Format
+
+The revision plan is a **separate file** that synthesizes both critiques into prioritized action items.
+
+```markdown
+# Revision Plan: [Title]
+
+Source: [path to article]
+Critique: [path to critique file]
+Date: [today's date]
 
 ---
 
-### Plan of Attack
-
 Prioritized revision items, highest ROI first:
 
-#### 1. [Issue title]
+## 1. [Issue title]
 - **Issue:** [What's wrong — consolidate if both critics flagged this]
 - **Why it matters:** [Impact on reader experience or argument strength]
 - **Suggested fix:** [Concrete action to take]
 - **Questions to resolve:** [Decisions the author needs to make first]
 
-#### 2. [Issue title]
+## 2. [Issue title]
 - **Issue:** [Description]
 - **Why it matters:** [Impact]
 - **Suggested fix:** [Action]
@@ -239,28 +249,30 @@ This skill fits at multiple points in the workflow:
 
 The critique doesn't change the article directly. It informs what the author chooses to revise.
 
-## Output Artifact (Required)
+## Output Artifacts (Required)
 
-**Always save and commit the critique as a checkpoint.** This creates a persistent record the author can reference during revision and makes progress visible in the PR.
+**Always save and commit both the critique and revision plan as separate files.** This creates a persistent record and makes progress visible in the PR.
 
-### File Location
+### File Locations
 
 **For drafts in a working folder:**
 ```
 _drafts/2026-01-21-the-foundation-paradox/
   ...
-  critique.md    (save the full critique here)
+  critique.md        (the editorial feedback)
+  revision-plan.md   (the prioritized action items)
 ```
 
 **For published posts or standalone files:**
 ```
 _critiques/
-  YYYY-MM-DD-article-slug.md    (create this folder if needed)
+  YYYY-MM-DD-article-slug.md              (the editorial feedback)
+  YYYY-MM-DD-article-slug.revision.md     (the prioritized action items)
 ```
 
-### File Format
+### Critique File Format
 
-Include metadata at the top of the critique file:
+Include metadata at the top:
 
 ```markdown
 ---
@@ -268,20 +280,36 @@ source: [path to the article being critiqued]
 date: [today's date]
 ---
 
-[Full critique content follows]
+[Critique content — both reviews, praise, and summary table]
 ```
 
-### Commit the Critique
+### Revision Plan File Format
 
-After saving the critique file, commit it with a message like:
+Include references at the top:
+
+```markdown
+# Revision Plan: [Title]
+
+Source: [path to article]
+Critique: [path to critique file]
+Date: [today's date]
+
+---
+
+[Prioritized revision items]
+```
+
+### Commit Both Artifacts
+
+After saving both files, commit them together:
 
 ```
-Add editorial critique for [Article Title]
+Add editorial critique and revision plan for [Article Title]
 ```
 
 This creates a checkpoint in the PR that:
-- Preserves the critique for reference during revision
-- Shows progress to collaborators
-- Allows the author to review feedback before deciding on changes
+- Preserves feedback for reference during revision
+- Separates "what's wrong" (critique) from "what to do" (revision plan)
+- Allows the author to review and prioritize before making changes
 
-The critique doesn't change the article directly. It informs what the author chooses to revise next.
+The critique and revision plan don't change the article directly. They inform what the author chooses to revise next.
