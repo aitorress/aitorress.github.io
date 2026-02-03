@@ -17,7 +17,7 @@ Prioritized revision items, highest ROI first:
 - **Questions to resolve:** Which hook is stronger for your intended audience — the paradox (more conceptual) or the Harvard data (more concrete)? Do you want to lead with fear or with a puzzle?
 
 ## 2. Cut scope — the piece tries to cover too much ground
-**Status:** pending
+**Status:** completed (via transitions, not cuts)
 
 - **Issue:** Both critics say the same thing differently. Galloway: "The steelman section is too long." Housel: "The piece works too hard to cover every angle... Each idea is interesting. Together, they dilute."
 - **Why it matters:** Reader attention is finite. Every section that isn't building toward your core insight is stealing oxygen from it. The piece currently covers: multipliers, adoption lags, calculator analogy, Harvard study, AGI timelines, workplace spirals, career advice. That's 7 threads.
