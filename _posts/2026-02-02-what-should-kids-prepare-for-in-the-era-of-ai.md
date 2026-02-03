@@ -6,11 +6,13 @@ header:
   image: /assets/images/headers/kids-ai-career-header.png
 ---
 
-My kids haven't asked me what they should study yet. But I think about it.
+The skills that make you resilient to AI disruption are exactly the skills that AI makes easy to skip.
 
-When they do ask, I'll probably tell them to study whatever makes them happy. This sounds like good parenting. It's actually a confession. I used to have opinions about career paths. Engineering meant stability and options. Art meant passion projects and crossed fingers. We used to say "engineer" with relief and "artist" with crossed fingers. Now we don't know which way to cross our fingers. "Study STEM" was shorthand for "you'll be fine." Now the old heuristics are scrambled. I'm bullish on coding principles. I'm bullish on creativity. I can't rank them. The honest answer is that I don't know where the world will be in a few years, and "whatever makes you happy" is the best I've got.
+That's the paradox I keep circling. To use AI well, you need judgment, taste, and deep expertise. But AI makes it trivially easy to skip the struggle that builds those things. The tool that could make you better makes it harder to become good in the first place.
 
-Here's what I do know: the uncertainty isn't distributed evenly.
+My kids haven't asked me what they should study yet. When they do, I want to have something better than "study whatever makes you happy" — which is what I'd say now, and it's a confession of uncertainty, not wisdom.
+
+Here's what I do know: that uncertainty isn't distributed evenly.
 
 ## The Burden Falls on the Wrong People
 
@@ -96,6 +98,4 @@ So what will I actually say when my kids ask about careers?
 
 Study whatever makes you happy. I'll mean it. But also: build something worth multiplying. Develop taste. Go deep somewhere. Learn what good looks like before you let the tools take over.
 
-The skills that make you resilient to AI disruption are exactly the skills that AI makes easy to skip. That's the paradox. It doesn't resolve neatly.
-
-I'm trying to skate to where the puck is going. The problem is the puck is moving faster than anyone can track. So I'm preparing them for uncertainty itself. That's the only thing I'm certain about.
+The paradox I opened with doesn't resolve neatly. I can't tell them to avoid AI, and I can't tell them to embrace it uncritically. So I'm preparing them for uncertainty itself. That's the only honest answer I've got.

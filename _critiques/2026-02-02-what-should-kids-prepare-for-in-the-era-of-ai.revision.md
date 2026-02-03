@@ -9,7 +9,7 @@ Date: 2026-02-03
 Prioritized revision items, highest ROI first:
 
 ## 1. Restructure the opening — lead with strength, not uncertainty
-**Status:** pending
+**Status:** completed
 
 - **Issue:** Both critics flag the opening. Galloway: "Your lede is a confession of ignorance." Housel: The paradox should organize the piece but it's buried. Currently you start with "I don't know" and end with a shrug.
 - **Why it matters:** Readers decide in the first paragraph whether to trust you. Starting with confusion signals you have nothing to say. Your strongest insights are hidden in the middle.
