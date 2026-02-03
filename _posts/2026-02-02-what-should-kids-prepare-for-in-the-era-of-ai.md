@@ -6,11 +6,13 @@ header:
   image: /assets/images/headers/kids-ai-career-header.png
 ---
 
-My kids haven't asked me what they should study yet. But I think about it.
+The skills that make you resilient to AI disruption are exactly the skills that AI makes easy to skip.
 
-When they do ask, I'll probably tell them to study whatever makes them happy. This sounds like good parenting. It's actually a confession. I used to have opinions about career paths. Engineering meant stability and options. Art meant passion projects and crossed fingers. We used to say "engineer" with relief and "artist" with crossed fingers. Now we don't know which way to cross our fingers. "Study STEM" was shorthand for "you'll be fine." Now the old heuristics are scrambled. I'm bullish on coding principles. I'm bullish on creativity. I can't rank them. The honest answer is that I don't know where the world will be in a few years, and "whatever makes you happy" is the best I've got.
+That's the paradox I keep circling. To use AI well, you need judgment, taste, and deep expertise. But AI makes it trivially easy to skip the struggle that builds those things. The tool that could make you better makes it harder to become good in the first place.
 
-Here's what I do know: the uncertainty isn't distributed evenly.
+My kids haven't asked me what they should study yet. When they do, I want to have something better than "study whatever makes you happy." That's what I'd say now, and it's a confession of uncertainty, not wisdom.
+
+Here's what I do know: that uncertainty isn't distributed evenly.
 
 ## The Burden Falls on the Wrong People
 
@@ -22,7 +24,7 @@ The real uncertainty burden falls on people entering the workforce. And by exten
 
 ## AI Is a Multiplier
 
-Here's the mental model I keep coming back to: AI amplifies whatever is already there.
+Why does experience matter so much? Here's the mental model I keep coming back to: AI amplifies whatever is already there.
 
 Think of it like a power saw. It makes a master carpenter faster. It makes a novice dangerous. The tool doesn't care which one you are.
 
@@ -31,6 +33,8 @@ If you're smart, disciplined, and curious, AI makes you more so. You move faster
 Current AI still hallucinates. It sounds confident when it's wrong. It produces plausible nonsense that requires expertise to catch. Someone has to know what "good" looks like. That someone is usually the person who could have done the work themselves, just slower.
 
 This is why experienced people win with AI, at least for now. They can guide the tool, catch its mistakes, and know when to override it. They have something worth multiplying.
+
+But what if you don't have anything worth multiplying yet?
 
 ## The Catch-22 for New Entrants
 
@@ -44,7 +48,7 @@ The paradox, stated plainly: they don't yet have anything for AI to multiply.
 
 ## I've Seen This at Work
 
-When engineers are reward-hacking for ticket completion, you can tell. The code gets merged, the metrics look good, but the quality is poor. You know AI was involved because no human who understood the system would have made those choices.
+This isn't theoretical. When engineers are reward-hacking for ticket completion, you can tell. In code review, everything looks fine. Elegant, even. But then you run it. Things break. Images render wrong. Edge cases explode. The code passed review because it *looked* right, but no one verified it actually *worked* right. Trust but verify became trust and ship.
 
 The downstream effect is worse than the bad code. Senior engineers spend their time reviewing and fixing instead of building. This makes them skeptical of AI. They've seen what happens when people who don't understand the work use tools that don't understand it either.
 
@@ -68,7 +72,7 @@ This is the jagged frontier problem. AI is brilliant at some things and confiden
 
 ## But Maybe Fundamentals Are Changing
 
-I should steelman the other side.
+That's the case against giving kids AI too early. But I should steelman the other side.
 
 The "fundamentals first" assumption might be historical rather than necessary. A generation fluent in AI tools from childhood might develop a different kind of judgment, one we can't conceptualize because we're anchored to our own experience. We worried calculators would erode mathematical intuition. Maybe it did. Maybe it didn't matter.
 
@@ -82,7 +86,7 @@ The honest position is uncertainty.
 
 ## The Path Is the Same Regardless
 
-Here's where I've landed: I don't have an AGI prediction, and I don't think it matters.
+So what do we do with that uncertainty? Here's where I've landed: I don't have an AGI prediction, and I don't think it matters.
 
 Dario Amodei thinks AGI might arrive by 2027. Demis Hassabis gives it 50% by 2030. The gap matters less than what both agree on: this is happening faster than most realize, and the disruption will be severe. Whether it's three years or ten, the preparation path is the same.
 
@@ -94,8 +98,10 @@ The people I admire most are both highly creative and deep experts in their doma
 
 So what will I actually say when my kids ask about careers?
 
-Study whatever makes you happy. I'll mean it. But also: build something worth multiplying. Develop taste. Go deep somewhere. Learn what good looks like before you let the tools take over.
+I don't know. But here's what I'm doing now: I'm helping them develop creativity. Helping them think critically around problems. Encouraging them to find novel ways of sorting things out. Not the first solution. Not the obvious one. Their own.
 
-The skills that make you resilient to AI disruption are exactly the skills that AI makes easy to skip. That's the paradox. It doesn't resolve neatly.
+I think these skills will survive. Creativity, critical thinking, the ability to see around corners. These seem durable. They're what AI multiplies when you have them, and what AI can't give you if you don't.
 
-I'm trying to skate to where the puck is going. The problem is the puck is moving faster than anyone can track. So I'm preparing them for uncertainty itself. That's the only thing I'm certain about.
+But maybe I'm wrong. Maybe the skills that seem timeless will turn out to be the next thing automated. Maybe the uncertainty is the point.
+
+The paradox I opened with doesn't resolve neatly. I can't tell them to avoid AI, and I can't tell them to embrace it uncritically. So I'm preparing them for uncertainty itself. Teaching them to think, to question, to create. And hoping that's enough. It's the only honest answer I've got.

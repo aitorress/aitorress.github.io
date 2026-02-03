@@ -100,6 +100,19 @@ Identify what's genuinely working. Both critics should agree on:
 ### 5. Summary Table
 Create a comparison table showing where they agree and differ.
 
+### 6. Revision Plan
+Create a separate artifact that synthesizes both critiques into an actionable revision plan:
+- **Consolidate overlapping feedback** — When both critics identify the same issue (even if framed differently), merge into a single item
+- **Rank by ROI** — Order items by impact on the piece (structural issues before line edits)
+- **For each item, include:**
+  - The issue (what's wrong)
+  - Why it matters (impact on reader)
+  - Suggested fix (concrete action)
+  - Questions to resolve (what the author needs to decide before implementing)
+
+### 7. Save and Commit
+Save the critique and revision plan as separate files, then commit both as a checkpoint. See "Output Artifacts" section for file locations and formats.
+
 ## Output Format
 
 ```markdown
@@ -160,6 +173,47 @@ Create a comparison table showing where they agree and differ.
 **Where they agree:** [Common ground on what needs attention]
 ```
 
+## Revision Plan Format
+
+The revision plan is a **separate file** that synthesizes both critiques into prioritized action items. Each item includes a **status** to track progress.
+
+**Status values:**
+- `pending` — Not yet addressed
+- `in-progress` — Currently working on
+- `completed` — Done
+- `deferred` — Intentionally postponed
+- `declined` — Reviewed and decided not to address
+
+```markdown
+# Revision Plan: [Title]
+
+Source: [path to article]
+Critique: [path to critique file]
+Date: [today's date]
+
+---
+
+Prioritized revision items, highest ROI first:
+
+## 1. [Issue title]
+**Status:** pending
+
+- **Issue:** [What's wrong — consolidate if both critics flagged this]
+- **Why it matters:** [Impact on reader experience or argument strength]
+- **Suggested fix:** [Concrete action to take]
+- **Questions to resolve:** [Decisions the author needs to make first]
+
+## 2. [Issue title]
+**Status:** pending
+
+- **Issue:** [Description]
+- **Why it matters:** [Impact]
+- **Suggested fix:** [Action]
+- **Questions to resolve:** [Decisions needed]
+
+[Continue for remaining items...]
+```
+
 ## Voice Calibration
 
 ### Galloway Phrases You Might Use
@@ -206,16 +260,67 @@ This skill fits at multiple points in the workflow:
 
 The critique doesn't change the article directly. It informs what the author chooses to revise.
 
-## Integration with Working Folder
+## Output Artifacts (Required)
 
-If critiquing a draft in a working folder, save the critique to `critique.md`:
+**Always save and commit both the critique and revision plan as separate files.** This creates a persistent record and makes progress visible in the PR.
 
+### File Locations
+
+**For drafts in a working folder:**
 ```
 _drafts/2026-01-21-the-foundation-paradox/
   ...
-  critique.md    (save the full critique here)
+  critique.md        (the editorial feedback)
+  revision-plan.md   (the prioritized action items)
 ```
 
-Include the date at the top of the file.
+**For published posts or standalone files:**
+```
+_critiques/
+  YYYY-MM-DD-article-slug.md              (the editorial feedback)
+  YYYY-MM-DD-article-slug.revision.md     (the prioritized action items)
+```
 
-This gives the author a persistent reference they can return to during revision.
+### Critique File Format
+
+Include metadata at the top:
+
+```markdown
+---
+source: [path to the article being critiqued]
+date: [today's date]
+---
+
+[Critique content — both reviews, praise, and summary table]
+```
+
+### Revision Plan File Format
+
+Include references at the top:
+
+```markdown
+# Revision Plan: [Title]
+
+Source: [path to article]
+Critique: [path to critique file]
+Date: [today's date]
+
+---
+
+[Prioritized revision items]
+```
+
+### Commit Both Artifacts
+
+After saving both files, commit them together:
+
+```
+Add editorial critique and revision plan for [Article Title]
+```
+
+This creates a checkpoint in the PR that:
+- Preserves feedback for reference during revision
+- Separates "what's wrong" (critique) from "what to do" (revision plan)
+- Allows the author to review and prioritize before making changes
+
+The critique and revision plan don't change the article directly. They inform what the author chooses to revise next.
