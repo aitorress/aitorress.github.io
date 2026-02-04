@@ -7,6 +7,7 @@ tags:
   - platform
   - enterprise
   - strategy
+headerImage: /assets/images/headers/aiaas-header.png
 ---
 
 ## We're Building With Fire and No Blueprint

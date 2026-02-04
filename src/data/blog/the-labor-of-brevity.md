@@ -7,6 +7,7 @@ tags:
   - thinking
   - communication
   - craft
+headerImage: /assets/images/headers/brevity-header.png
 ---
 
 ## The Paradox

@@ -8,6 +8,7 @@ tags:
   - intelligence
   - hinton
   - tools
+headerImage: /assets/images/headers/still-handy-header.png
 ---
 
 [Geoffrey Hinton](https://www.technologyreview.com/2023/05/03/1072589/video-geoffrey-hinton-google-ai-risk-ethics/), one of the architects of deep learning, said something a few years ago that I keep coming back to: "I think it's quite conceivable that humanity is just a passing phase in the evolution of intelligence."
