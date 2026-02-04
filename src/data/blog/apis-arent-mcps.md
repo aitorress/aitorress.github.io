@@ -1,0 +1,99 @@
+---
+title: "APIs Aren't MCPs"
+pubDatetime: 2025-08-17T00:00:00Z
+description: "Most MCPs aren't tools, they're cosplay - APIs dressed up as machine-ready. Engineer determinism, or gamble at scale."
+tags:
+  - mxe
+  - apis
+  - agents
+  - llms
+  - mcp
+---
+
+## The Demo Lie
+
+Let's be honest: we've all been tempted. Wrapping an API as a tool - or even better, an MCP - feels like the perfect hack. Pick the shiny new framework, toss a couple of decorators on your favorite third-party API, hand it to your chatbot and… _chef's kiss_ - instant AI magic.
+
+Except it isn't.
+
+It's a hell of a demo. Then production hits, and the dream collapses. Most MCPs aren't tools, they're cosplay - APIs dressed up as machine-ready. And with the surge of MCP hype in the last few months, the problem is compounding fast: thousands of MCP servers are spinning up, but a disturbing share are nothing more than thin API wrappers masquerading as machine-ready tools.
+
+And the numbers back it up:
+
+- **June 2025** → An [empirical GitHub study](https://arxiv.org/html/2506.13538v1) cataloged ~**1,900 MCP servers** across Anthropic's `modelcontextprotocol/servers` repo and open-source projects.
+
+- **July 2025** → [MCPToolBench++](https://arxiv.org/abs/2508.07575) reported ~**4,000 servers** across 40 categories.
+
+- **August 2025** → The [LiveMCPBench study](https://arxiv.org/abs/2508.01780) showed a **surge past 10,000 MCP servers**, with over **8M SDK downloads per week**.
+
+
+That's a 5x spike in just two months - an adoption curve most open-source frameworks would kill for. But here's the rub: rapid growth doesn't mean good growth.
+
+## APIs Were Built for Humans
+
+APIs weren't built for LLMs - and it shows.
+
+By design, APIs are human-centric. They assume an engineer downstream will handle the messy parts: validation, context, failure modes, and the responsibility of using them correctly. That assumption breaks the second you swap in a language model. LLMs are non-deterministic, stateless, and - let's be blunt - incapable of responsibility.
+
+I learned this the hard way building a Todoist toolkit. Every call required an ID: project ID, task ID, user ID. That's fine for a human developer. But ask an agent to "create a task in my Work project" and it has no idea what `12345` is supposed to mean. Best case? It burns tokens listing every project, hunting IDs, and praying the right one isn't buried on page 3 of a paginated API response. Worst case? It misses entirely and creates chaos.
+
+This isn't resilience. It's Russian roulette with your API budget. Up to **80% of LLM spend is flushed on preventable inefficiencies**, and token-heavy workflows like these don't just eat cash - they inflate latency and crush reliability. Even when the LLM nails the right call, you're still asking it to parse massive, deeply nested JSON responses, keep state across steps, and extract the right value without hallucinating. That's not engineering. At least the blackjack table is honest about the odds.
+
+This is where we stop gambling and start engineering - what Renato and Erick call **Machine Experience Engineering (MXE)**.
+
+## The Machine-First Fix
+
+I first heard the term from [Renato and Erick at Arcade.dev](https://www.youtube.com/watch?v=DYmuQWMWU8A), and they nailed the core idea: **MXE is UX for machines**. Just like UX made computers usable by humans, MXE makes APIs usable by LLMs. The job isn't to expose raw endpoints and hope for the best. The job is to craft intuitive, LLM-friendly tools that abstract complexity, align data models with how people actually talk, and enforce safe execution boundaries.
+
+Take Todoist again. "Create a task in my Work project."
+
+Without MXE, the scene looks more like chaos than engineering. First, the LLM has to reason that it even needs to call `listProjects` in the first place - not obvious unless it "figures out" the workflow a human engineer would take for granted. If you're lucky, the results all fit in one response; if not, the model is paging through multiple calls, guessing when to stop. By now, context is swelling with irrelevant data, and you're still hoping it recognizes that "Work" and "Work Archive" aren't the same thing. Then comes the response parsing: another deeply nested JSON that the LLM has to traverse, pulling out the exact field it needs without hallucinating or skipping a bracket. Each step adds tokens. Adds latency. Adds cognitive load. What should be a simple action feels like a house of cards held together by probability. One silent slip, and your new task ends up in the wrong project. Logs green. System broken.
+
+With MXE, the workflow looks completely different:
+
+1. **Name-to-ID resolution tool** → deterministically maps "Work" to the right project ID.
+
+2. **Safe API call** → the tool injects the ID and handles error cases (missing project, duplicate names) without forcing the LLM to improvise.
+
+3. **Clean response shaping** → instead of a sprawling JSON, the tool returns a tight, chat-friendly payload: `"Task created: Draft Q3 strategy in Work project."`
+
+
+Three steps. Deterministic, fast, cheap, reliable.
+
+The LLM still has agency - it decides _what_ needs to happen ("create a task"). But the **determinism lives in the tool** - guaranteeing _how_ it happens. That separation of concerns is the essence of MXE: agents make judgments, tools execute with precision.
+
+## Agency vs Determinism
+
+We've been doing software engineering for decades. We know how to design deterministic systems, validate inputs, and build repeatable workflows that don't collapse under pressure. Just because LLMs are powerful doesn't mean we should outsource everything to them. The real leverage comes from drawing the line: let LLMs handle judgment and orchestration, but let engineers hard-code the repeatable, deterministic tasks that drive reliability and value. Anything else is throwing away fifty years of engineering discipline in the name of "AI magic."
+
+We don't need to reinvent engineering. We need to apply it with clarity.
+
+- **Engineers → Deterministic logic**
+    Anything repeatable, structured, and predictable belongs here. ID resolution, pagination handling, data validation - write it once, test it, and let it run a million times without variance.
+
+- **Tools → Execution boundary**
+    Wrap that deterministic logic into tools that the LLM can safely call. Tools are the contract: they abstract the complexity, enforce guardrails, and shape responses into a format the model can actually use.
+
+- **Agents → Judgment & orchestration**
+    LLMs shine at deciding _what needs to happen_ in a given context, sequencing steps, and adapting when the unexpected comes up. They should call tools, not improvise their way through raw APIs.
+
+
+The discipline is simple: **agency in the agent, determinism in the tool, reliability from engineering.**
+
+## Engineer Determinism, or Gamble at Scale
+
+10,000 MCP servers and counting. Growth isn't the problem. The problem is what we're growing. Right now, too many MCPs are nothing more than thin wrappers around APIs that were never designed for machines. At best, that's wasted spend and latency. At worst, it's brittle infrastructure masquerading as progress. Scale it, and you don't get leverage - you get fragility at scale.
+
+We've seen this movie before: UX wasn't a fad, it became table stakes for software. The same will happen here. Someone has to design the bridge between human-centric APIs and machine-first autonomy. Without it, agents will keep improvising, wasting tokens, and silently failing in ways that look fine in logs but break in production.
+
+And here's the uncomfortable truth: wrapping APIs is not progress. Shipping thin MCPs is not progress. Progress is building systems that are machine-usable, testable, and reliable. That means asking hard questions:
+
+- Should this API even exist in its current form?
+- What would it look like if it were designed LLM-first, not human-first?
+- Where do we draw the line between what agents decide and what engineers guarantee?
+
+Ignore these questions and we'll keep scaling chaos. Answer them and we open the door to something bigger: APIs that don't just tolerate LLMs, but are built with them in mind.
+
+The real future isn't more wrappers. It's APIs that are **born machine-friendly**, guardrails baked in, complexity abstracted, and responsibility clear. Until then, the job is simple: stop offloading engineering discipline to LLMs, stop pretending wrappers are tools, and start building for the systems we actually want.
+
+Because the choice is clear: engineer determinism. Or gamble at scale.

@@ -1,0 +1,23 @@
+export const SITE = {
+  website: "https://aitorress.github.io/",
+  author: "Andres",
+  profile: "https://aitorress.github.io/",
+  desc: "Thoughts, frameworks, and experiments.",
+  title: "Andres Notes",
+  ogImage: "og.jpg",
+  lightAndDarkMode: true,
+  postPerIndex: 5,
+  postPerPage: 5,
+  scheduledPostMargin: 15 * 60 * 1000,
+  showArchives: true,
+  showBackButton: true,
+  editPost: {
+    enabled: false,
+    text: "",
+    url: "",
+  },
+  dynamicOgImage: true,
+  dir: "ltr",
+  lang: "en",
+  timezone: "America/New_York",
+} as const;
