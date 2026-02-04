@@ -1,0 +1,32 @@
+---
+import type { GetStaticPaths } from "astro";
+import { getCollection } from "astro:content";
+import Main from "@/layouts/Main.astro";
+import Layout from "@/layouts/Layout.astro";
+import Header from "@/components/Header.astro";
+import Footer from "@/components/Footer.astro";
+import RecipeCard from "@/components/RecipeCard.astro";
+import Pagination from "@/components/Pagination.astro";
+import getSortedRecipes from "@/utils/getSortedRecipes";
+import { SITE } from "@/config";
+
+export const getStaticPaths = (async ({ paginate }) => {
+  const recipes = await getCollection("recipes", ({ data }) => !data.draft);
+  return paginate(getSortedRecipes(recipes), { pageSize: SITE.postPerPage });
+}) satisfies GetStaticPaths;
+
+const { page } = Astro.props;
+---
+
+<Layout title={`Recipes | ${SITE.title}`}>
+  <Header />
+  <Main pageTitle="Recipes" pageDesc="Things I like to cook.">
+    <ul>
+      {page.data.map(data => <RecipeCard {...data} />)}
+    </ul>
+  </Main>
+
+  <Pagination {page} />
+
+  <Footer noMarginTop={page.lastPage > 1} />
+</Layout>
