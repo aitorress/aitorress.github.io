@@ -68,3 +68,44 @@ html[data-theme="dark"] {
 :target {
   scroll-margin-block: 1rem;
 }
+
+/* ===== Table of Contents Sidebar ===== */
+.article-with-toc {
+  @apply relative;
+}
+
+.toc-container {
+  @apply hidden xl:block fixed right-[calc((100vw-48rem)/2-16rem)] top-24 w-56;
+}
+
+.toc-sidebar {
+  @apply sticky top-24;
+}
+
+.toc-title {
+  @apply text-sm font-semibold text-foreground mb-3 uppercase tracking-wide;
+}
+
+.toc-list {
+  @apply list-none p-0 m-0 space-y-1.5 max-h-[calc(100vh-10rem)] overflow-y-auto;
+}
+
+.toc-item {
+  @apply text-sm leading-snug;
+}
+
+.toc-item-h3 {
+  @apply pl-3;
+}
+
+.toc-link {
+  @apply block py-1 text-foreground/60 no-underline transition-colors duration-200 hover:text-accent border-l-2 border-transparent pl-3 -ml-[2px];
+}
+
+.toc-link:hover {
+  @apply border-l-accent/50;
+}
+
+.toc-link.toc-active {
+  @apply text-accent border-l-accent font-medium;
+}
