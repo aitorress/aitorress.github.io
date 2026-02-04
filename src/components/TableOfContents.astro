@@ -1,0 +1,86 @@
+---
+export interface Heading {
+  depth: number;
+  slug: string;
+  text: string;
+}
+
+interface Props {
+  headings: Heading[];
+}
+
+const { headings } = Astro.props;
+
+// Filter to only include h2 and h3 headings for a cleaner TOC
+const tocHeadings = headings.filter(h => h.depth >= 2 && h.depth <= 3);
+---
+
+{
+  tocHeadings.length > 0 && (
+    <nav class="toc-sidebar" aria-label="Table of contents">
+      <h2 class="toc-title">On this page</h2>
+      <ul class="toc-list">
+        {tocHeadings.map(heading => (
+          <li
+            class:list={[
+              "toc-item",
+              { "toc-item-h3": heading.depth === 3 },
+            ]}
+          >
+            <a href={`#${heading.slug}`} class="toc-link">
+              {heading.text}
+            </a>
+          </li>
+        ))}
+      </ul>
+    </nav>
+  )
+}
+
+<script>
+  function setupTocHighlight() {
+    const tocLinks = document.querySelectorAll(".toc-link");
+    const headings = document.querySelectorAll("article h2, article h3");
+
+    if (tocLinks.length === 0 || headings.length === 0) return;
+
+    const observerOptions = {
+      rootMargin: "-80px 0px -70% 0px",
+      threshold: 0,
+    };
+
+    let currentActive: Element | null = null;
+
+    const observer = new IntersectionObserver(entries => {
+      entries.forEach(entry => {
+        const id = entry.target.getAttribute("id");
+        const tocLink = document.querySelector(`.toc-link[href="#${id}"]`);
+
+        if (entry.isIntersecting) {
+          // Remove active class from previous
+          if (currentActive) {
+            currentActive.classList.remove("toc-active");
+          }
+          // Add active class to current
+          tocLink?.classList.add("toc-active");
+          currentActive = tocLink;
+        }
+      });
+    }, observerOptions);
+
+    headings.forEach(heading => {
+      if (heading.id) {
+        observer.observe(heading);
+      }
+    });
+
+    // Clean up on page navigation
+    document.addEventListener("astro:before-swap", () => {
+      observer.disconnect();
+    });
+  }
+
+  // Run on initial load and after page swaps
+  setupTocHighlight();
+  document.addEventListener("astro:after-swap", setupTocHighlight);
+</script>
