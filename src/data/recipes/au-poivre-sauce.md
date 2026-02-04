@@ -2,8 +2,11 @@
 title: "Au Poivre Sauce"
 pubDatetime: 2025-01-01T00:00:00Z
 description: "Super Frenchy bistro, incredibly simple, high reward, low risk. It goes with any steak that's beefy enough."
+source: "[YouTube](https://youtu.be/DvyEekmOkGw?si=YP2kSQbE0LDfBKTu)"
+prepTime: "5 min"
+cookTime: "10-15 min"
+servings: "2-4"
 tags:
-  - recipe
   - sauce
   - beef
   - quick
@@ -11,8 +14,6 @@ tags:
 ---
 
 This sauce is a killer. Super Frenchy bistro, incredibly simple, high reward, low risk. It goes with any steak that's beefy enough. You want that contrast between the meat, the fat, and the sauce. A lot of people love this one. And look, it's not as peppery as people think, so tell them to chill.
-
-*Source: [YouTube](https://youtu.be/DvyEekmOkGw?si=YP2kSQbE0LDfBKTu) | Prep: 5 min | Cook: 10-15 min | Serves: 2-4*
 
 ## Ingredients
 

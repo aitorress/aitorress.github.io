@@ -2,8 +2,11 @@
 title: "Cacio e Pepe"
 pubDatetime: 2025-01-02T00:00:00Z
 description: "The dish that taught me pasta water is actually an ingredient, not just something you dump down the drain. Dead simple on paper, humbling in practice."
+source: "[Kenji López-Alt](https://www.youtube.com/watch?v=Ng7GWl57nQM)"
+prepTime: "5 min"
+cookTime: "15 min"
+servings: "2"
 tags:
-  - recipe
   - pasta
   - quick
   - vegetarian
@@ -11,8 +14,6 @@ tags:
 ---
 
 This is the dish that taught me pasta water is actually an ingredient, not just something you dump down the drain. Dead simple on paper, humbling in practice.
-
-*Source: [Kenji López-Alt](https://www.youtube.com/watch?v=Ng7GWl57nQM) | Prep: 5 min | Cook: 15 min | Serves: 2*
 
 ## Ingredients
 
