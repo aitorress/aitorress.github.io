@@ -8,6 +8,7 @@ tags:
   - trust
   - relevance
   - human-edge
+headerImage: /assets/images/headers/human-edge-header.png
 ---
 
 ## Scarcity as a Currency

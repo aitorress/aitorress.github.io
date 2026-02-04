@@ -8,6 +8,7 @@ tags:
   - automation
   - economics
   - labor
+headerImage: /assets/images/headers/unbundling-of-work-header.png
 ---
 
 You blocked three hours for the task. Deep work, no meetings. You're kind of dreading it. It's the kind of work that needs doing but doesn't spark joy. On a whim, you decide to see if AI can help. You write a prompt, hit enter, watch it think.

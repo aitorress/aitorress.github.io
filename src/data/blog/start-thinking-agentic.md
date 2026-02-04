@@ -7,6 +7,7 @@ tags:
   - agentic
   - workflows
   - llms
+headerImage: /assets/images/headers/agents-header.png
 ---
 
 Ask ten experts what an "agent" is, you'll get sixteen answers. The word "agent" gets thrown around in AI like confetti. Everyone uses it, nobody defines it the same way.

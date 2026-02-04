@@ -9,6 +9,7 @@ tags:
   - education
   - workforce
   - uncertainty
+headerImage: /assets/images/headers/kids-ai-career-header.png
 featured: true
 ---
 
