@@ -1,7 +1,12 @@
 # Proposed Structure: The Great Unbundling of MCP
 
-**Status:** Awaiting approval
+**Status:** Approved
 **Date:** 2026-02-09
+
+**Author decisions:**
+- Title changed to "The Tool Stack"
+- Own the friend's insights directly (no "a friend said" framing)
+- ClawHub gets a few more sentences of detail in Section 6
 
 ---
 
