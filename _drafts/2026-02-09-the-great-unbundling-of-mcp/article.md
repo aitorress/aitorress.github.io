@@ -31,7 +31,15 @@ Consider GitHub specifically. The `gh` CLI handles OAuth natively with proper to
 
 CLIs have their own version of progressive disclosure, too. The agent can run `jira issues fetch --help` and get just the documentation for that one subcommand, instead of loading the entire Jira API surface into context. On-demand, scoped, and built into the tool itself.
 
-<!-- Section 4: The Plumbing Is Still There — PENDING -->
+## The Plumbing Is Still There
+
+So skills won the instruction layer. CLIs handle most execution for developers. MCP is dead, right?
+
+Go look at the skills catalog. Actually look. The GitHub skill? MCP-powered. Slack integration? MCP. Database connectors, cloud deployments, monitoring tools? MCP, MCP, MCP. Skills are the interface layer. MCP is running the plumbing underneath. You just stopped noticing it, which is exactly how good plumbing should work.
+
+The Goose team at Block put it well: "Saying Skills killed MCP is about as accurate as saying GitHub Actions killed Bash." GitHub Actions didn't make Bash irrelevant. It sits on top of Bash and uses it underneath. Skills did the same thing to MCP. They didn't replace the execution layer. They replaced the need to *think about* the execution layer.
+
+The way I think about it now: MCP is the API spec. Skills are the documentation for the API. You don't debate whether APIs or documentation should exist. You debate what each one should contain. And right now, MCP's instruction layer (its tool descriptions, its prompt primitives) has been made redundant by skills. What remains is the execution core: authenticated connections, process isolation, persistent sessions, structured communication. A smaller territory than "USB-C port for AI," but a more defensible one.
 
 <!-- Section 5: Four Questions Before You Reach for MCP — PENDING -->
 
