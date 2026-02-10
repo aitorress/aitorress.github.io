@@ -10,6 +10,17 @@ Complete — Ready for Review
 - [x] Structure approved (2026-02-09)
 - [x] All sections expanded (2026-02-09)
 - [x] Polish pass (2026-02-10)
+- [x] Enrichment pass (2026-02-10)
+
+## Enrichment Summary
+
+Added three enrichments (~110 words, ~1,480 → ~1,590):
+- **S2**: "Markdown files don't break at 3am" one-liner after Ronacher mention
+- **S4**: "The agent doesn't care" insight — execution layer doesn't change capability, only operational burden
+- **S5**: N×M one-liner — "strongest argument for MCP that almost nobody encounters in practice — yet"
+- **S6**: Security paradox — skills needing governance starts looking like MCP
+
+Re-polish pass confirmed voice consistency, no AI-tells introduced.
 
 ## Polish Summary
 
@@ -36,4 +47,3 @@ Complete — Ready for Review
 
 ## Remaining Concerns
 - Armin Ronacher blog post couldn't be verified via web search. The reference is kept as a mention without a link. Author should verify this source exists or remove the reference.
-- Consider running /draft-enrich if the piece feels too lean after reading.
