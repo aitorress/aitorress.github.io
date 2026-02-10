@@ -41,7 +41,21 @@ The Goose team at Block put it well: "Saying Skills killed MCP is about as accur
 
 The way I think about it now: MCP is the API spec. Skills are the documentation for the API. You don't debate whether APIs or documentation should exist. You debate what each one should contain. And right now, MCP's instruction layer (its tool descriptions, its prompt primitives) has been made redundant by skills. What remains is the execution core: authenticated connections, process isolation, persistent sessions, structured communication. A smaller territory than "USB-C port for AI," but a more defensible one.
 
-<!-- Section 5: Four Questions Before You Reach for MCP — PENDING -->
+## Four Questions Before You Reach for MCP
+
+So the full stack looks like this: skills for instructions, MCP for execution, CLI underneath. But MCP is the optional middle layer. You add it when the requirements justify it. You don't start there.
+
+Here's the test I'd run before adding MCP to anything:
+
+**Is the integration complex enough to need a protocol layer?** If you're connecting to a service with a mature CLI or SDK, the skill can just point the agent at it. A markdown file that says "use `aws s3 cp` with these conventions" is all you need. If you're orchestrating twenty internal microservices behind a single endpoint, that's different.
+
+**Do you need to hide internal architecture?** A skill is a markdown file on the client's machine. Everything in it is visible: the endpoints, the workflow logic, the sequencing. If your company runs fraud detection across proprietary systems and wants to expose a clean `create_payment(amount, currency, destination)` interface without revealing what's behind it, an MCP server is an opaque boundary. The agent sends a structured request, gets a structured response, and never sees your internals. You can change the entire implementation without touching the client side.
+
+**Is "the agent will probably follow instructions correctly" good enough?** For `gh pr create`, yes. For `transfer_funds` or `prescribe_medication`, probably not. Skills are natural language instructions, inherently open to misinterpretation. MCP tools have structured schemas with clear input/output contracts. Once the agent decides to call the tool, execution is deterministic. In payments, healthcare, and legal, "might follow instructions correctly" is a dealbreaker.
+
+**Are you shipping this to multiple agent platforms?** This is the N×M problem. Without MCP, every app builds its own integration for every service: N apps times M services. With MCP, you build one server per service and every compatible platform gets it: N+M. If you're Stripe and you want every agent to be able to process payments, you ship one MCP server. Skills aren't a cross-platform standard yet (they're heading there, but not yet).
+
+If most answers are no: skill + CLI. If several are yes, MCP earns its place. My shorthand: I'd ship an MCP to external consumers before I'd ship a skill. When you're exposing services to other companies, the abstraction, auto-updating, and IP protection matter. When you're building for yourself, they usually don't.
 
 <!-- Section 6: MCP's Real Audience Hasn't Shown Up Yet — PENDING -->
 
