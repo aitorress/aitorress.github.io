@@ -69,4 +69,10 @@ MCP is also consolidating institutional support. It's now under the Agentic AI F
 
 I keep thinking about what happened when REST arrived and SOAP didn't die. SOAP retreated to enterprise systems where its guarantees (transactions, security headers, formal contracts) actually justified the complexity. Developers used REST. Compliance teams mandated SOAP. Two tiers, different norms, coexisting for years. MCP might be heading the same way. Developers use skills. Enterprise mandates MCP. The question is whether MCP's enterprise audience is large enough to sustain the ecosystem, or whether agents will remain primarily developer tools where skill + CLI dominates.
 
-<!-- Section 7: Close — PENDING -->
+---
+
+Skills didn't kill MCP. They pushed it to where it belongs: authenticated execution, process isolation, deterministic control for high-stakes domains. The instruction layer is gone. The "universal connector for AI" positioning is gone. What's left is smaller, but it's real.
+
+For most developers, most of the time: write a skill, point it at a CLI, move on. A markdown file and some examples will get you surprisingly far. When you need to hide complexity, guarantee deterministic execution, serve multiple platforms, or ship integrations to people who don't live in terminals, MCP earns its way back in.
+
+MCP went from "USB-C port for AI" to "the right choice when nothing simpler will do." That's a long walk from where it started. But "is MCP overengineered?" was always the wrong question. The better one: overengineered for whom, and for when?
