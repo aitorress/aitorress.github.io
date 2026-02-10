@@ -13,7 +13,13 @@ Then I opened the skills catalog in Claude and Codex. Most of those skills, the 
 
 For the unfamiliar: skills are markdown files that teach AI agents what to do and how. They're instructions, not capabilities. MCP (Model Context Protocol) is the execution layer, a standard protocol for connecting agents to external services with authentication, structured communication, and process isolation. And underneath both, for many integrations, there's just a CLI. Three layers. The question is which ones you actually need.
 
-<!-- Section 2: A Markdown File and Some Examples — PENDING -->
+## A Markdown File and Some Examples
+
+MCP used to do two jobs. It told the agent what tools were available (the instruction layer) and it provided the infrastructure to actually call them (the execution layer). Skills ate the first job entirely.
+
+The reason is straightforward: progressive disclosure. MCP loads every tool definition into the agent's context window upfront, on every call. Dozens of tool schemas, parameter descriptions, usage examples, all sitting in memory whether the agent needs them or not. Skills do the opposite. A tiny descriptor gets loaded upfront (maybe 30-50 tokens), and the full instructions only get fetched when the agent actually decides to use that skill. It's the difference between importing every module at startup and importing on demand. When you're paying per token at scale, this compounds fast.
+
+The pattern was so obviously right that it went cross-vendor almost immediately. Anthropic shipped skills in October 2025, open-sourced them in December, and by early 2026, OpenAI Codex and other agent platforms had adopted the same markdown-with-frontmatter approach. Armin Ronacher, the creator of Flask, wrote about moving all his MCPs to skills after struggling with auth breakage and API instability. He didn't switch because skills were architecturally superior in every dimension. He switched because the operational pain of running MCP servers exceeded whatever the protocol gave him back. That's how technology transitions actually work: not through theoretical arguments, but through pain thresholds. It's the "Worse is Better" pattern that's played out before with Unix over Lisp machines, REST over SOAP, JSON over XML. The simpler thing doesn't win because it's correct. It wins because it's good enough and dramatically easier to live with.
 
 <!-- Section 3: The Part Nobody Talks About — PENDING -->
 
