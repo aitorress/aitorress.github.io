@@ -21,7 +21,15 @@ The reason is straightforward: progressive disclosure. MCP loads every tool defi
 
 The pattern was so obviously right that it went cross-vendor almost immediately. Anthropic shipped skills in October 2025, open-sourced them in December, and by early 2026, OpenAI Codex and other agent platforms had adopted the same markdown-with-frontmatter approach. Armin Ronacher, the creator of Flask, wrote about moving all his MCPs to skills after struggling with auth breakage and API instability. He didn't switch because skills were architecturally superior in every dimension. He switched because the operational pain of running MCP servers exceeded whatever the protocol gave him back. That's how technology transitions actually work: not through theoretical arguments, but through pain thresholds. It's the "Worse is Better" pattern that's played out before with Unix over Lisp machines, REST over SOAP, JSON over XML. The simpler thing doesn't win because it's correct. It wins because it's good enough and dramatically easier to live with.
 
-<!-- Section 3: The Part Nobody Talks About — PENDING -->
+## The Part Nobody Talks About
+
+Skills won the instruction layer. That's the headline. But there's a quieter shift underneath that most "skills vs MCP" articles miss entirely: CLIs.
+
+Models have been trained on millions of CLI interactions. They've been reinforcement-learned on `gh`, `aws`, `gcloud`, `docker`, `kubectl`, `stripe`, `vercel`. A skill that says "use `gh pr create --title X --body Y`" leverages pre-training knowledge that no MCP server can replicate. The agent doesn't just know the command. It knows the flags, the idioms, the error patterns, the structured output formats (`gh pr list --json`). It's seen these tools used in thousands of contexts during training, and it gets better at them with every training cycle.
+
+Consider GitHub specifically. The `gh` CLI handles OAuth natively with proper token scoping. It stores tokens locally under OS-level permissions, inside the user's trust boundary. There's no server to maintain, no port to manage, no JSON config to debug at 2am. The GitHub MCP server was always overengineered for a problem `gh` already solved better. And this generalizes: `aws`, `gcloud`, `docker`, `kubectl`, `stripe`. Every service with a mature CLI is a service where an MCP server adds a protocol layer on top of something that already works.
+
+CLIs have their own version of progressive disclosure, too. The agent can run `jira issues fetch --help` and get just the documentation for that one subcommand, instead of loading the entire Jira API surface into context. On-demand, scoped, and built into the tool itself.
 
 <!-- Section 4: The Plumbing Is Still There — PENDING -->
 
