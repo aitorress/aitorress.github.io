@@ -57,6 +57,16 @@ Here's the test I'd run before adding MCP to anything:
 
 If most answers are no: skill + CLI. If several are yes, MCP earns its place. My shorthand: I'd ship an MCP to external consumers before I'd ship a skill. When you're exposing services to other companies, the abstraction, auto-updating, and IP protection matter. When you're building for yourself, they usually don't.
 
-<!-- Section 6: MCP's Real Audience Hasn't Shown Up Yet — PENDING -->
+## MCP's Real Audience Hasn't Shown Up Yet
+
+Everything I've argued so far has a blind spot, and I should name it: I'm a developer using coding agents. I live in a terminal. I manage my own auth tokens. I'm the ideal skills user. The case for "just write a skill and point it at a CLI" is strongest in exactly my context, and weakest in the contexts where agents might matter most.
+
+Most future agent users won't open a terminal. They can't run `gh auth login`. They need an OAuth flow in a browser: click "Connect to GitHub," authorize in two clicks, done. MCP enables that. Enterprise IT needs to manage which agents can access which services across an entire organization, with centralized policies, audit trails, and revocation. MCP provides that. These aren't hypothetical requirements. They're table stakes for any company that takes compliance seriously.
+
+And then there's security. Skills' radical simplicity is both their selling point and their attack surface. In January 2026, security researchers found 341 malicious skills on ClawHub, the largest community skill registry. Credential exfiltration. Session theft. Keylogging. Reverse shells. The attack vector was straightforward: skills share the agent's full environment with zero process isolation, so a malicious skill can access anything the agent can. Some were typosquatted (similar names to legitimate skill authors), making them easy to install by mistake. MCP servers, by contrast, run in isolated processes. A compromised server can't read credentials from other servers. That's not a theoretical advantage. It's a security model that matters more as agents become more autonomous and less supervised.
+
+MCP is also consolidating institutional support. It's now under the Agentic AI Foundation (Linux Foundation) alongside OpenAI's AGENTS.md and Block's goose, with AWS, Google, Microsoft, and Bloomberg as platinum members. Skills have cross-vendor adoption but no standards body, no central registry, no formal versioning. For enterprise procurement, the difference matters.
+
+I keep thinking about what happened when REST arrived and SOAP didn't die. SOAP retreated to enterprise systems where its guarantees (transactions, security headers, formal contracts) actually justified the complexity. Developers used REST. Compliance teams mandated SOAP. Two tiers, different norms, coexisting for years. MCP might be heading the same way. Developers use skills. Enterprise mandates MCP. The question is whether MCP's enterprise audience is large enough to sustain the ecosystem, or whether agents will remain primarily developer tools where skill + CLI dominates.
 
 <!-- Section 7: Close — PENDING -->
