@@ -83,3 +83,7 @@ Skills pushed MCP to where it belongs: authenticated execution, process isolatio
 After I opened that catalog and saw MCP running underneath everything, I stopped trying to pick a side. My setup landed where you'd expect: skills pointing at CLIs for daily work, MCP handling the few integrations that genuinely need auth delegation and isolation. Mostly markdown files and terminal commands. The plumbing shows up where it has to.
 
 For most developers, most of the time: write a skill, point it at a CLI, move on.
+
+---
+
+*Thanks to [Cam Haider](https://x.com/CamBrazy3) for his thoughtful notes and back and forth on this piece.*
