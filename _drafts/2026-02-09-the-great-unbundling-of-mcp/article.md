@@ -11,15 +11,15 @@ So when skills arrived and the "Skills killed MCP" hot takes started rolling in,
 
 Then I opened the skills catalog in Claude and Codex. Most of those skills, the ones everyone says replaced MCP, are powered by MCP under the hood. Skills didn't kill MCP. They unbundled it.
 
-Quick definitions if you need them: skills are markdown files that teach AI agents what to do and how (instructions, not capabilities). MCP (Model Context Protocol) is the execution layer, a standard protocol for connecting agents to external services with authentication, structured communication, and process isolation. And underneath both, there's whatever actually does the work: a CLI, an API call, a script. The question is which layers you actually need.
-
 ## A Markdown File and Some Examples
 
 MCP used to do two jobs. It told the agent what tools were available (the instruction layer) and it provided the infrastructure to actually call them (the execution layer). Skills ate the first job entirely.
 
 The reason is straightforward: progressive disclosure. MCP loads every tool definition into the agent's context window upfront. One popular GitHub MCP server injects 93 tool definitions: 55,000 tokens consumed before you've asked a single question. Even purpose-built servers like Playwright MCP and Chrome DevTools eat 14,000-18,000 tokens in tool descriptions alone. Skills do the opposite. A tiny descriptor gets loaded upfront (maybe 30-50 tokens per skill), and the full instructions only get fetched when the agent actually decides to use that skill. Same integrations, a fraction of the context cost.
 
-The pattern went cross-vendor almost immediately. Anthropic shipped skills in October 2025, open-sourced them in December, and by early 2026 OpenAI Codex had adopted the same markdown-with-frontmatter approach. Developers who'd been running MCP servers started migrating, not because skills were superior in every dimension, but because the operational pain of auth breakage, API instability, and configuration drift exceeded whatever the protocol gave them back. A skill is a markdown file. An MCP server is a service. Markdown files don't break at 3am. That's how technology transitions actually work: through pain thresholds, not theoretical arguments. It's the ["Worse is Better"](https://www.dreamsongs.com/WorseIsBetter.html) pattern that gave us REST over SOAP. The simpler thing wins because it's good enough and dramatically easier to live with.
+The pattern went cross-vendor almost immediately. Anthropic shipped skills in October 2025, open-sourced them in December, and by early 2026 OpenAI Codex had adopted the same markdown-with-frontmatter approach. Developers who'd been running MCP servers started migrating, not because skills were superior in every dimension, but because the operational pain of auth breakage, API instability, and configuration drift exceeded whatever the protocol gave them back.
+
+A skill is a markdown file. An MCP server is a service. Markdown files don't break at 3am. That's how technology transitions actually work: through pain thresholds, not theoretical arguments. It's the ["Worse is Better"](https://www.dreamsongs.com/WorseIsBetter.html) pattern that gave us REST over SOAP. The simpler thing wins because it's good enough and dramatically easier to live with.
 
 ## The Part Nobody Talks About
 
@@ -35,7 +35,7 @@ CLIs have their own version of progressive disclosure, too. The agent can run `j
 
 ## The Plumbing Is Still There
 
-Here's the thing, though. Open a skill catalog and look at what's actually running underneath. The GitHub skill? MCP-powered. Slack integration? MCP. I'd bet most of the skills people use daily still run on MCP under the hood. You just stopped noticing it, which is exactly how good plumbing should work.
+But open a skill catalog and look at what's actually running underneath. The GitHub skill? MCP-powered. Slack integration? MCP. I'd bet most of the skills people use daily still run on MCP under the hood. You just stopped noticing it, which is exactly how good plumbing should work.
 
 The [Goose team at Block](https://block.github.io/goose/blog/2025/12/22/agent-skills-vs-mcp/) put it well: "Saying Skills killed MCP is about as accurate as saying GitHub Actions killed Bash." GitHub Actions sits on top of Bash and uses it underneath. Skills did the same thing to MCP. They replaced the need to *think about* the execution layer, not the execution layer itself.
 
@@ -63,11 +63,11 @@ Everything I've argued so far has a blind spot, and I should name it: I'm a deve
 
 Most future agent users won't open a terminal. They need OAuth flows in a browser, not `gh auth login`. Enterprise IT needs centralized policy control over which agents access which services, with audit trails and revocation. MCP provides both.
 
-And then there's security. Skills' radical simplicity is both their selling point and their attack surface. In January 2026, security researchers [found 341 malicious skills on ClawHub](https://www.friedrichs-it.de/blog/agent-skills-vs-model-context-protocol/), the largest community skill registry. Credential exfiltration. Session theft. Keylogging. Reverse shells. The attack vector was straightforward: skills share the agent's full environment with zero process isolation, so a malicious skill can access anything the agent can. Some were typosquatted, using names similar to legitimate skill authors, making them easy to install by mistake. MCP servers, by contrast, run in isolated processes. A compromised server can't read credentials from other servers. That security model matters more, not less, as agents become more autonomous.
+And then there's security. In January 2026, security researchers [found 341 malicious skills on ClawHub](https://www.friedrichs-it.de/blog/agent-skills-vs-model-context-protocol/), the largest community skill registry. Credential exfiltration. Session theft. Keylogging. Reverse shells. Some were typosquatted, using names similar to legitimate skill authors, making them easy to install by mistake. Skills share the agent's full environment with zero process isolation. MCP servers run in isolated processes, where a compromised server can't read credentials from other servers. That security model matters more, not less, as agents become more autonomous.
 
 There's a paradox here. If skills' security problem gets bad enough, they'll need governance infrastructure: sandboxing, signing, verification, registries. But that governance starts looking a lot like MCP. Skills succeed because they're simple. Scaling them might require the complexity they were built to avoid.
 
-I keep thinking about what happened when REST arrived and SOAP didn't die. SOAP retreated to enterprise systems where its guarantees (transactions, security headers, formal contracts) actually justified the complexity. Developers used REST. Compliance teams mandated SOAP. Two tiers, different norms, coexisting for years. MCP might be heading the same way. It already has the Linux Foundation, AWS, Google, and Microsoft behind it, while skills have cross-vendor adoption but no standards body. Developers use skills. Enterprise mandates MCP. The question is whether that enterprise tier is large enough to sustain the ecosystem, or whether agents will remain primarily developer tools where skill + CLI dominates.
+That tension plays out in the broader ecosystem, too. I keep thinking about what happened when REST arrived and SOAP didn't die. SOAP retreated to enterprise systems where its guarantees (transactions, security headers, formal contracts) actually justified the complexity. Developers used REST. Compliance teams mandated SOAP. Two tiers, different norms, coexisting for years. MCP might be heading the same way. It already has the Linux Foundation, AWS, Google, and Microsoft behind it, while skills have cross-vendor adoption but no standards body. Developers use skills. Enterprise mandates MCP. The question is whether that enterprise tier is large enough to sustain the ecosystem, or whether agents will remain primarily developer tools where skill + CLI dominates.
 
 ---
 

@@ -15,6 +15,18 @@ Complete — Ready for Review
 - [x] Revision pass (2026-02-10)
 - [x] Research integration — practitioner benchmarks (2026-02-11)
 - [x] Second polish pass (2026-02-11)
+- [x] Second critique — Galloway/Housel (2026-02-11)
+- [x] Second revision pass (2026-02-11)
+
+## Second Revision Summary
+
+5 of 5 items completed:
+
+1. **Definitions paragraph cut** — Removed glossary paragraph after hook. Terms already defined through context.
+2. **ClawHub tightened** — Kept fragment list and typosquatting detail, cut "attack vector was straightforward" explanation.
+3. **S2 paragraph split** — Break after "gave them back." "A skill is a markdown file" now opens its own paragraph.
+4. **Security paradox / SOAP/REST breathing room** — Added transitional sentence between paradox and SOAP/REST parallel.
+5. **S4 double hedge reduced** — "Here's the thing, though" → "But". Kept "I'd bet" per Housel's recommendation.
 
 ## Revision Summary
 
