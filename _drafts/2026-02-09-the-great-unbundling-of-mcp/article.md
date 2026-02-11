@@ -45,9 +45,7 @@ The way I think about it now: MCP is the API spec. Skills are the documentation 
 
 ## Four Questions Before You Reach for MCP
 
-MCP is the optional middle layer. You add it when the requirements justify it. You don't start there.
-
-Here's the test I'd run before adding MCP to anything:
+Which layers you need depends on the use case. Here's the test I'd run before reaching for MCP:
 
 **Is the integration complex enough to need a protocol layer?** If you're connecting to a service with a mature CLI or SDK, the skill can just point the agent at it. A markdown file that says "use `aws s3 cp` with these conventions" is all you need. If you're orchestrating twenty internal microservices behind a single endpoint, that's different.
 
