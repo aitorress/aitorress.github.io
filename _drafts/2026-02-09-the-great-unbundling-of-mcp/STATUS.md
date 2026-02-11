@@ -13,6 +13,8 @@ Complete — Ready for Review
 - [x] Enrichment pass (2026-02-10)
 - [x] Critique — Galloway/Housel (2026-02-10)
 - [x] Revision pass (2026-02-10)
+- [x] Research integration — practitioner benchmarks (2026-02-11)
+- [x] Second polish pass (2026-02-11)
 
 ## Revision Summary
 
@@ -34,24 +36,31 @@ Added three enrichments (~110 words, ~1,480 → ~1,590):
 - **S5**: N×M one-liner — "strongest argument for MCP that almost nobody encounters in practice — yet"
 - **S6**: Security paradox — skills needing governance starts looking like MCP
 
-## Polish Summary
+## Second Polish Summary (2026-02-11)
 
 ### Voice pass
-- Removed contrastive negation in S2
-- Varied close opener from "Skills didn't kill MCP" to "Skills pushed MCP to where it belongs"
-- Cut recap phrases that opened S3, S4, S5
-- Smoothed definitions paragraph
+- Replaced 5 em dashes with colons, commas, parentheses, or periods
+- Tightened "And here's what that means in practice:" → "In practice:"
+- Cut meta-phrase "the article's thesis in one line"
+- Fixed passive "has been made redundant" → "is now redundant"
 
-### Tightening (~1,650 → ~1,480 words, ~10% cut)
-- Compressed "Worse is Better" list from three examples to one
-- Cut throat-clearing in S2 and S3
-- Compressed IP protection question
-- Trimmed ClawHub paragraph
+### Tightening
+- Cut "on every call" (implied by "upfront")
+- Cut "and other agent platforms" from cross-vendor paragraph (Codex is the signal)
+- Cut "It's seen these tools in thousands of contexts during training" (preceding sentences cover it)
+- Cut redundant CLI list from S3 (already listed in paragraph above)
+- Tightened "Every service with a mature CLI is a service where an MCP server adds" → "is one where MCP adds"
 
 ### Source links added
+- Zechner benchmark → mariozechner.at/posts/2025-08-15-mcp-vs-cli/
+- Browser automation benchmark → kumak.dev/cli-vs-mcp-benchmarking-browser-automation/
+
+### All source links in article
 - "Worse is Better" → dreamsongs.com/WorseIsBetter.html
 - Goose/Block quote → block.github.io/goose/blog/2025/12/22/agent-skills-vs-mcp/
 - ClawHub incident → friedrichs-it.de/blog/agent-skills-vs-model-context-protocol/
+- Browser benchmark → kumak.dev/cli-vs-mcp-benchmarking-browser-automation/
+- Zechner benchmark → mariozechner.at/posts/2025-08-15-mcp-vs-cli/
 
 ## Remaining Concerns
 - None. All previous concerns resolved.
