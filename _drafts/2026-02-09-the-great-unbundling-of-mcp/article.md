@@ -11,7 +11,7 @@ So when skills arrived and the "Skills killed MCP" hot takes started rolling in,
 
 Then I opened the skills catalog in Claude and Codex. Most of those skills, the ones everyone says replaced MCP, are powered by MCP under the hood. Skills didn't kill MCP. They unbundled it.
 
-Quick definitions if you need them: skills are markdown files that teach AI agents what to do and how (instructions, not capabilities). MCP (Model Context Protocol) is the execution layer, a standard protocol for connecting agents to external services with authentication, structured communication, and process isolation. And underneath both, for many integrations, there's just a CLI. Three layers. The question is which ones you actually need.
+Quick definitions if you need them: skills are markdown files that teach AI agents what to do and how (instructions, not capabilities). MCP (Model Context Protocol) is the execution layer, a standard protocol for connecting agents to external services with authentication, structured communication, and process isolation. And underneath both, there's whatever actually does the work: a CLI, an API call, a script. The question is which layers you actually need.
 
 ## A Markdown File and Some Examples
 
