@@ -26,7 +26,7 @@ The reason is straightforward: progressive disclosure. MCP loads every tool defi
 
 The pattern went cross-vendor almost immediately. Anthropic shipped skills in October 2025, open-sourced them in December, and by early 2026 OpenAI Codex had adopted the same markdown-with-frontmatter approach. Developers who'd been running MCP servers started migrating, not because skills were superior in every dimension, but because the operational pain of auth breakage, API instability, and configuration drift exceeded whatever the protocol gave them back.
 
-A skill is a markdown file. An MCP server is a service. Markdown files don't break at 3am. That's how technology transitions actually work: through pain thresholds, not theoretical arguments. It's the ["Worse is Better"](https://www.dreamsongs.com/WorseIsBetter.html) pattern that gave us REST over SOAP. The simpler thing wins because it's good enough and dramatically easier to live with.
+A skill is a markdown file. An MCP server is a service. Markdown files don't break at 3am. That's how technology transitions actually work: through pain thresholds, not theoretical arguments. It's the ["Worse is Better"](https://www.dreamsongs.com/WorseIsBetter.html) pattern that gave us JSON over XML. The simpler thing wins because it's good enough and dramatically easier to live with.
 
 ## The Part Nobody Talks About
 
@@ -42,7 +42,7 @@ CLIs have their own version of progressive disclosure, too. The agent can run `j
 
 ## The Plumbing Is Still There
 
-But open a skill catalog and look at what's actually running underneath. The GitHub skill? MCP-powered. Slack integration? MCP. I'd bet most of the skills people use daily still run on MCP under the hood. You just stopped noticing it, which is exactly how good plumbing should work.
+But open a skill catalog and look at what's actually running underneath. Many of those integrations, the ones everyone says replaced MCP, still call an MCP server behind the scenes. You just stopped noticing it, which is exactly how good plumbing should work.
 
 The [Goose team at Block](https://block.github.io/goose/blog/2025/12/22/agent-skills-vs-mcp/) put it well: "Saying Skills killed MCP is about as accurate as saying GitHub Actions killed Bash." GitHub Actions sits on top of Bash and uses it underneath. Skills did the same thing to MCP. They replaced the need to *think about* the execution layer, not the execution layer itself.
 
@@ -74,7 +74,7 @@ And then there's security. In January 2026, security researchers [found 341 mali
 
 There's a paradox here. If skills' security problem gets bad enough, they'll need governance infrastructure: sandboxing, signing, verification, registries. But that governance starts looking a lot like MCP. Skills succeed because they're simple. Scaling them might require the complexity they were built to avoid.
 
-That tension plays out in the broader ecosystem, too. I keep thinking about what happened when REST arrived and SOAP didn't die. SOAP retreated to enterprise systems where its guarantees (transactions, security headers, formal contracts) actually justified the complexity. Developers used REST. Compliance teams mandated SOAP. Two tiers, different norms, coexisting for years. MCP might be heading the same way. It already has the Linux Foundation, AWS, Google, and Microsoft behind it, while skills have cross-vendor adoption but no standards body. Developers use skills. Enterprise mandates MCP. The question is whether that enterprise tier is large enough to sustain the ecosystem, or whether agents will remain primarily developer tools where skill + CLI dominates.
+That tension plays out in the broader ecosystem, too. I keep thinking about what happened when JSON arrived and XML didn't die. XML retreated to enterprise systems where its guarantees (schemas, namespaces, validation, XSLT) actually justified the verbosity. Developers used JSON. Enterprise mandated XML. Two tiers, different norms, coexisting for years. MCP might be heading the same way. It already has the Linux Foundation, AWS, Google, and Microsoft behind it, while skills have cross-vendor adoption but no standards body. Developers use skills. Enterprise mandates MCP. The question is whether that enterprise tier is large enough to sustain the ecosystem, or whether agents will remain primarily developer tools where skill + CLI dominates.
 
 ---
 
