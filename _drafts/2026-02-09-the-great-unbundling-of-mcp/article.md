@@ -1,5 +1,5 @@
 ---
-title: "The Tool Stack"
+title: "Of MCPs and Skills"
 date: 2026-02-09
 status: draft
 tags: [ai, mcp, skills, agents, architecture, developer-tools]
@@ -17,9 +17,9 @@ Quick definitions if you need them: skills are markdown files that teach AI agen
 
 MCP used to do two jobs. It told the agent what tools were available (the instruction layer) and it provided the infrastructure to actually call them (the execution layer). Skills ate the first job entirely.
 
-The reason is straightforward: progressive disclosure. MCP loads every tool definition into the agent's context window upfront, on every call. Dozens of tool schemas, parameter descriptions, usage examples, all sitting in memory whether the agent needs them or not. Skills do the opposite. A tiny descriptor gets loaded upfront (maybe 30-50 tokens), and the full instructions only get fetched when the agent actually decides to use that skill. It's the difference between importing every module at startup and importing on demand. When you're paying per token at scale, this compounds fast.
+The reason is straightforward: progressive disclosure. MCP loads every tool definition into the agent's context window upfront, on every call. A typical setup dumps forty to fifty tool schemas into context — easily eight to ten thousand tokens before the agent does anything useful. Skills do the opposite. A tiny descriptor gets loaded upfront (maybe 30-50 tokens per skill), and the full instructions only get fetched when the agent actually decides to use that skill. Same integrations, a fraction of the context cost. At a thousand agent calls a day, that's millions of wasted tokens — real money, not theoretical efficiency.
 
-The pattern went cross-vendor almost immediately. Anthropic shipped skills in October 2025, open-sourced them in December, and by early 2026, OpenAI Codex and other agent platforms had adopted the same markdown-with-frontmatter approach. Armin Ronacher, the creator of Flask, wrote about moving all his MCPs to skills after struggling with auth breakage and API instability. He switched because the operational pain of running MCP servers exceeded whatever the protocol gave him back. A skill is a markdown file. An MCP server is a service. Markdown files don't break at 3am. That's how technology transitions actually work: through pain thresholds, not theoretical arguments. It's the ["Worse is Better"](https://www.dreamsongs.com/WorseIsBetter.html) pattern that gave us REST over SOAP. The simpler thing wins because it's good enough and dramatically easier to live with.
+The pattern went cross-vendor almost immediately. Anthropic shipped skills in October 2025, open-sourced them in December, and by early 2026, OpenAI Codex and other agent platforms had adopted the same markdown-with-frontmatter approach. Developers who'd been running MCP servers started migrating — not because skills were superior in every dimension, but because the operational pain of auth breakage, API instability, and configuration drift exceeded whatever the protocol gave them back. A skill is a markdown file. An MCP server is a service. Markdown files don't break at 3am. That's how technology transitions actually work: through pain thresholds, not theoretical arguments. It's the ["Worse is Better"](https://www.dreamsongs.com/WorseIsBetter.html) pattern that gave us REST over SOAP. The simpler thing wins because it's good enough and dramatically easier to live with.
 
 ## The Part Nobody Talks About
 
@@ -61,20 +61,18 @@ If most answers are no: skill + CLI. If several are yes, MCP earns its place. My
 
 Everything I've argued so far has a blind spot, and I should name it: I'm a developer using coding agents. I live in a terminal. I manage my own auth tokens. I'm the ideal skills user. The case for "just write a skill and point it at a CLI" is strongest in exactly my context, and weakest in the contexts where agents might matter most.
 
-Most future agent users won't open a terminal. They can't run `gh auth login`. They need an OAuth flow in a browser: click "Connect to GitHub," authorize in two clicks, done. MCP enables that. Enterprise IT needs to manage which agents can access which services across an entire organization, with centralized policies, audit trails, and revocation. MCP provides that.
+Most future agent users won't open a terminal. They need OAuth flows in a browser, not `gh auth login`. Enterprise IT needs centralized policy control over which agents access which services, with audit trails and revocation. MCP provides both.
 
 And then there's security. Skills' radical simplicity is both their selling point and their attack surface. In January 2026, security researchers [found 341 malicious skills on ClawHub](https://www.friedrichs-it.de/blog/agent-skills-vs-model-context-protocol/), the largest community skill registry. Credential exfiltration. Session theft. Keylogging. Reverse shells. The attack vector was straightforward: skills share the agent's full environment with zero process isolation, so a malicious skill can access anything the agent can. Some were typosquatted, using names similar to legitimate skill authors, making them easy to install by mistake. MCP servers, by contrast, run in isolated processes. A compromised server can't read credentials from other servers. That security model matters more, not less, as agents become more autonomous.
 
 There's a paradox here. If skills' security problem gets bad enough, they'll need governance infrastructure: sandboxing, signing, verification, registries. But that governance starts looking a lot like MCP. Skills succeed because they're simple. Scaling them might require the complexity they were built to avoid.
 
-MCP is also consolidating institutional support. It's now under the Agentic AI Foundation (Linux Foundation) alongside OpenAI's AGENTS.md and Block's goose, with AWS, Google, Microsoft, and Bloomberg as platinum members. Skills have cross-vendor adoption but no standards body, no central registry, no formal versioning. For enterprise procurement, the difference matters.
-
-I keep thinking about what happened when REST arrived and SOAP didn't die. SOAP retreated to enterprise systems where its guarantees (transactions, security headers, formal contracts) actually justified the complexity. Developers used REST. Compliance teams mandated SOAP. Two tiers, different norms, coexisting for years. MCP might be heading the same way. Developers use skills. Enterprise mandates MCP. The question is whether MCP's enterprise audience is large enough to sustain the ecosystem, or whether agents will remain primarily developer tools where skill + CLI dominates.
+I keep thinking about what happened when REST arrived and SOAP didn't die. SOAP retreated to enterprise systems where its guarantees — transactions, security headers, formal contracts — actually justified the complexity. Developers used REST. Compliance teams mandated SOAP. Two tiers, different norms, coexisting for years. MCP might be heading the same way. It already has the Linux Foundation, AWS, Google, and Microsoft behind it, while skills have cross-vendor adoption but no standards body. Developers use skills. Enterprise mandates MCP. The question is whether that enterprise tier is large enough to sustain the ecosystem, or whether agents will remain primarily developer tools where skill + CLI dominates.
 
 ---
 
 Skills pushed MCP to where it belongs: authenticated execution, process isolation, deterministic control for high-stakes domains. The instruction layer is gone. The "universal connector for AI" positioning is gone. What's left is smaller, but it's real.
 
-For most developers, most of the time: write a skill, point it at a CLI, move on. A markdown file and some examples will get you surprisingly far. When you need to hide complexity, guarantee deterministic execution, serve multiple platforms, or ship integrations to people who don't live in terminals, MCP earns its way back in.
+After I opened that catalog and saw MCP running underneath everything, I stopped trying to pick a side. My setup landed where you'd expect: skills pointing at CLIs for daily work, MCP handling the few integrations that genuinely need auth delegation and isolation. Mostly markdown files and terminal commands. The plumbing shows up where it has to.
 
-MCP went from "USB-C port for AI" to "the right choice when nothing simpler will do." That's a long walk from where it started. But "is MCP overengineered?" was always the wrong question. The better one: overengineered for whom, and for when?
+For most developers, most of the time: write a skill, point it at a CLI, move on.
