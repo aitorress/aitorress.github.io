@@ -35,7 +35,7 @@ CLIs have their own version of progressive disclosure, too. The agent can run `j
 
 ## The Plumbing Is Still There
 
-Go look at the skills catalog. Actually look. The GitHub skill? MCP-powered. Slack integration? MCP. Database connectors, cloud deployments, monitoring tools? MCP, MCP, MCP. Skills are the interface layer. MCP is running the plumbing underneath. You just stopped noticing it, which is exactly how good plumbing should work.
+Here's the thing, though. Open a skill catalog and look at what's actually running underneath. The GitHub skill? MCP-powered. Slack integration? MCP. I'd bet most of the skills people use daily still run on MCP under the hood. You just stopped noticing it, which is exactly how good plumbing should work.
 
 The [Goose team at Block](https://block.github.io/goose/blog/2025/12/22/agent-skills-vs-mcp/) put it well: "Saying Skills killed MCP is about as accurate as saying GitHub Actions killed Bash." GitHub Actions sits on top of Bash and uses it underneath. Skills did the same thing to MCP. They replaced the need to *think about* the execution layer, not the execution layer itself.
 
