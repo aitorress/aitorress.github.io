@@ -1,7 +1,7 @@
 # A Text Box Is a White Flag — Status
 
 ## Current Phase
-Analysis ✓ → Author input ✓ → Research ✓ → Structure ✓ → Expansion ✓ → Polish next
+Complete — Ready for Review
 
 ## Completed
 - [x] Analysis (2026-02-18)
@@ -11,19 +11,8 @@ Analysis ✓ → Author input ✓ → Research ✓ → Structure ✓ → Expansi
 - [x] Research: Norman/affordances and blank text fields (2026-02-19)
 - [x] Research: CLI/GUI coexistence as historical parallel (2026-02-19)
 - [x] Structure approved (2026-02-19): title changed to "A Text Box Is a White Flag", commoditization open
-- [x] Section 1: Cold open — commoditization observation (2026-02-19)
-- [x] Section 2: "Both Camps, Same Mistake" (2026-02-19)
-- [x] Section 3: "A Text Box Is a White Flag" — centerpiece (2026-02-19)
-- [x] Section 4: "The Front Door Is Doing the Work" (2026-02-19)
-- [x] Section 5: "Developers Solved This in 1984" (2026-02-19)
-- [x] Section 6: "The Escape Hatch Only Works If You Know the Building" (2026-02-19)
-- [x] Section 7: Close (2026-02-19)
-
-## In Progress
-[None yet]
-
-## Still Needed
-- [ ] Polish (`/draft-polish`)
+- [x] All sections expanded (2026-02-19)
+- [x] Polish pass (2026-02-19)
 
 ## Resolved Questions
 - **Default posture:** UI-first. Settled. The front door is not optional.
@@ -35,18 +24,11 @@ Analysis ✓ → Author input ✓ → Research ✓ → Structure ✓ → Expansi
 - **Title:** "A Text Box Is a White Flag" — more provocative, carries the commoditization take. Front-door/escape-hatch stays as internal framework (Section 4).
 - **Cold open:** Commoditization observation ("unbrand them, you can't tell the difference"). Personal experience moved to Section 3 Beat 2.
 
-## Open Questions
-- None blocking. Ready for polish.
-
 ## Article Stats
-- Word count: ~1,500
+- Word count: ~1,370 (polished down from ~1,500)
 - Sections: 7 (5 with headings, 2 without)
-- Links: 4 (NN/g Rufus, St. Louis Fed, Menlo Ventures, Linear)
+- Links: 5 (Smashing Magazine, NN/g Rufus, St. Louis Fed, Menlo Ventures, Linear)
 - External quotes: Smashing Magazine, Linear, Fortune
 
-## Notes
-- Tone landed as frustrated participant, not neutral moderator
-- Norman section weaves in naturally (Section 3, Beat 3) rather than lecturing
-- Commoditization open ("unbrand them") is the strongest hook — immediate and verifiable
-- The front-door/escape-hatch framework arrives in Section 4 (mid-piece) rather than leading
-- Close is tight: 3 sentences + "Start there."
+## Remaining Concerns
+- Consider `/draft-enrich` if the piece feels too lean after reading aloud
