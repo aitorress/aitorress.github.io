@@ -1,7 +1,7 @@
-# The Front Door and the Escape Hatch — Status
+# A Text Box Is a White Flag — Status
 
 ## Current Phase
-Analysis ✓ → Author input ✓ → Research ✓ → Structure next
+Analysis ✓ → Author input ✓ → Research ✓ → Structure ✓ → Expansion next
 
 ## Completed
 - [x] Analysis (2026-02-18)
@@ -10,13 +10,19 @@ Analysis ✓ → Author input ✓ → Research ✓ → Structure next
 - [x] Research: AI feature adoption & discoverability data (2026-02-19)
 - [x] Research: Norman/affordances and blank text fields (2026-02-19)
 - [x] Research: CLI/GUI coexistence as historical parallel (2026-02-19)
+- [x] Structure approved (2026-02-19): title changed to "A Text Box Is a White Flag", commoditization open
 
 ## In Progress
 [None yet]
 
-## Still Needed
-- [ ] Structure proposal (`/draft-structure`)
-- [ ] Expansion (`/draft-expand`)
+## Still Needed — Expansion Sections
+- [ ] Section 1: Cold open (commoditization observation)
+- [ ] Section 2: "Both Camps, Same Mistake"
+- [ ] Section 3: "A Text Box Is a White Flag" (centerpiece)
+- [ ] Section 4: "The Front Door Is Doing the Work"
+- [ ] Section 5: "Developers Solved This in 1984"
+- [ ] Section 6: "The Escape Hatch Only Works If You Know the Building"
+- [ ] Section 7: Close
 - [ ] Polish (`/draft-polish`)
 
 ## Resolved Questions
@@ -26,9 +32,11 @@ Analysis ✓ → Author input ✓ → Research ✓ → Structure next
 - **Audience:** Product people, broadly defined. Everyone is a little bit of a product person.
 - **Personal experience:** User-side frustration with chat-first products — no affordances, can't tell what the tool does, functional paralysis. Connects to Norman's Design of Everyday Things.
 - **Echo chamber trigger:** A tweet. Reference vaguely — specific tweet not found.
+- **Title:** "A Text Box Is a White Flag" — more provocative, carries the commoditization take. Front-door/escape-hatch stays as internal framework (Section 4).
+- **Cold open:** Commoditization observation ("unbrand them, you can't tell the difference"). Personal experience moved to Section 3 Beat 2.
 
 ## Open Questions
-- None blocking. Ready for structure.
+- None blocking. Ready for expansion.
 
 ## Research Highlights (for quick reference)
 
@@ -54,7 +62,7 @@ Products that broke the front door to install AI (Meta, LinkedIn) failed. Produc
 - "Chat box as hedge" reframes the hierarchy — UI = opinion, NLP = fallback, chat-first = surrender
 - Norman/affordances gives the UI-first stance intellectual grounding — not taste, principle
 - The personal experience of bouncing off chat-first products is the emotional hook — everyone has felt this
-- Consider cutting the effects lists from 10 items down to 4-5 developed properly
 - Tone direction: frustrated participant, not neutral moderator
 - The word the author is looking for re: chat-first products might be "alienating" or "indifferent"
-- NEW: The CLI/GUI parallel is strongest when noting the irony — developers (who have CLIs) embrace AI; designers (who don't) resist it. The split follows who already has an escape hatch.
+- The CLI/GUI parallel is strongest when noting the irony — developers (who have CLIs) embrace AI; designers (who don't) resist it
+- NEW: Commoditization observation is the opening punch — "unbrand ChatGPT, Gemini, Grok, and Claude — you can't tell the difference"
