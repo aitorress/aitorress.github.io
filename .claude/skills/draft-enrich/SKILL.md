@@ -71,7 +71,16 @@ Add emotional stakes.
 ### 1. Review Cut Material
 Go back to the original draft. What interesting threads were cut? Which "Questions Worth Exploring" or "Adjacent Ideas" still resonate?
 
-### 2. Identify 3-5 Opportunities
+### 2. Make New Connections
+Don't limit yourself to recycling what was cut. The best enrichment often comes from connections nobody has made yet:
+- Cross-domain parallels (how does a completely different field handle the same problem?)
+- Historical examples the draft never considered
+- Ironic reversals (who already tried the thing being argued against, and what happened?)
+- Universalizing the insight (is this actually a broader human/cognitive phenomenon, not just a tech/product one?)
+
+The goal is to surprise the author with angles they hadn't thought of, not just resurface things they already wrote.
+
+### 3. Identify 3-5 Opportunities
 Don't try to add everything. Pick the additions that:
 - Add genuine depth (not just length)
 - Connect to the core argument
