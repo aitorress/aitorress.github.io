@@ -1,4 +1,4 @@
-# Revision Plan: A Text Box Is a White Flag
+# Revision Plan (Round 2): A Text Box Is a White Flag
 
 Source: _drafts/2026-02-18-the-front-door-and-the-escape-hatch/article.md
 Critique: _drafts/2026-02-18-the-front-door-and-the-escape-hatch/critique.md
@@ -8,66 +8,66 @@ Date: 2026-02-20
 
 Prioritized revision items, highest ROI first:
 
-## 1. Expand the personal experience beat
-**Status:** completed
+## 1. Balance the success section (Notion vs Cursor vs Linear)
+**Status:** pending
 
-- **Issue:** Both critics flagged this. Galloway wants specificity; Housel wants duration. The paragraph where you land on a chat-first product is the most alive writing in the piece but it passes in one breath. It's generic where it should be particular.
-- **Why it matters:** This is the emotional anchor of the argument. The reader's recognition ("I've done this too") is what makes the design theory land. Without a vivid moment, the Norman analysis reads like a textbook.
-- **Suggested fix:** Name a product (or describe one recognizably). Add a specific detail: what were you trying to do? What did you type? How long before you closed the tab? Two to three sentences of lived-in detail, not a full scene.
-- **Questions to resolve:** Is the author comfortable naming a specific product, or does it need to stay composite? How much length can this section absorb before it feels indulgent?
+- **Issue:** Both critics flagged this. Notion gets a rich paragraph with genuine insight ("constraints teach"). Cursor gets five sentences of description. Linear gets three. The unevenness makes the stronger examples carry the weaker ones instead of each earning its place.
+- **Why it matters:** Three examples at unequal depth is worse than two at equal depth. The reader feels the drop in quality between Notion and Cursor/Linear, which undermines the pattern the section is trying to establish.
+- **Suggested fix:** Two options: (a) Deepen Cursor and Linear to match Notion's treatment (add meaning, not just description). (b) Cut Linear, go deeper on Cursor. Two rich examples beat three uneven ones. If keeping Cursor, draw out what the hierarchy (Tab > Cmd+K > Chat) teaches about progressive disclosure, the way the Notion paragraph drew out what `/` commands teach about constraints.
+- **Questions to resolve:** Does the author want three examples or two? Is Linear earning its place, or is it making the same point as Notion (structured UI > chat)?
 
-## 2. Promote the ChatGPT-adding-front-doors observation
-**Status:** completed
+## 2. Add genuine complexity or uncertainty somewhere
+**Status:** pending
 
-- **Issue:** Both critics identified this as the piece's strongest new weapon, currently buried at the end of Section 3 (the longest section). Galloway says promote it; Housel agrees it's underweight.
-- **Why it matters:** "The product that defined 'text box in the center of the screen' has been quietly adding front doors ever since" is evidence by implication. It turns OpenAI's own product evolution against the AI-purist position. Readers who skim will miss it.
-- **Suggested fix:** Consider moving it to open Section 4 (as the bridge from "what's wrong" to "what works") or giving it its own short beat with a line break. It needs visual separation from the data paragraph above it.
-- **Questions to resolve:** Does it work better as the capstone of the "white flag" argument (current position) or as the opening of the "front door" evidence (new position)?
+- **Issue:** Housel's recurring note across both rounds. The piece confirms its thesis in every section. The "Both Camps" rewrite added generosity, but the structure is still: thesis > evidence > more evidence > restatement. The reader nods but never encounters surprise.
+- **Why it matters:** Essays people remember usually made them uncomfortable before they made them certain. A moment of genuine "but wait, what about..." makes the conclusion feel discovered rather than predetermined.
+- **Suggested fix:** The CLI section is the natural place. Developers have had both paradigms for forty years, and the trend in developer tools (Cursor's agent mode, agentic coding) is actually pushing toward MORE AI autonomy, not less. That complicates the "UI comes first" thesis in an interesting way. Acknowledge the tension, then explain why it doesn't break the argument (agents still need the editor as context).
+- **Questions to resolve:** Is the author comfortable introducing a counterpoint in the piece? Does agentic coding weaken or strengthen the front-door argument?
 
-## 3. Strengthen failure cases with consequence
-**Status:** completed
+## 3. Strengthen the closing section ("The Catch")
+**Status:** pending
 
-- **Issue:** Galloway's point: the failure cases are entertaining but weightless. A TikTok got 100K likes, Fortune wrote a headline. But what actually happened? The reader doesn't learn what these failures cost.
-- **Why it matters:** Failure cases without consequence read as mockery, not evidence. The reader thinks "that's funny" instead of "that's important." Numbers (engagement drop, reversal timeline, user loss) would make these cases load-bearing.
-- **Suggested fix:** Research whether Meta reversed the Instagram change or saw measurable engagement impact. For LinkedIn, note that they pulled the feature (already there) and add any available data on AI content engagement decline (the research file has: "AI-generated posts get 30% less reach and 55% less engagement"). Consider cutting LinkedIn entirely per Housel and going deeper on Meta.
-- **Questions to resolve:** Cut LinkedIn and go deeper on Meta, or keep both but add consequence to each? Is the 30%/55% engagement stat from the research file strong enough to use?
+- **Issue:** Both critics flagged this differently. Galloway wants an actionable sentence. Housel says the section restates instead of revealing. Four short paragraphs for the culmination of the piece.
+- **Why it matters:** The close is where the reader decides if the piece was worth their time. "UI comes first" is the thesis restated, not a new insight. The discoverability beat ("most users never find the AI") is genuinely interesting and gets only two sentences.
+- **Suggested fix:** Expand the discoverability observation (what happens when users DO find AI features? what does the discovery curve look like?). Add one actionable sentence before the final line, aimed at builders: something like "ask whether your interface teaches or just listens." Keep the final line untouched.
+- **Questions to resolve:** Does the author have a personal observation about the discovery moment? Would an actionable line feel like a Galloway move that doesn't fit the piece's tone?
 
-## 4. Address the Rufus repetition
-**Status:** completed
+## 4. Make the tweet attribution specific
+**Status:** pending
 
-- **Issue:** Housel noticed that the Rufus zero-percent finding appears twice (Section 3 and Section 6). The second mention re-introduces it ("The Rufus study wasn't an edge case") as if the reader might have forgotten.
-- **Why it matters:** Repeating your strongest data point makes your evidence base feel thin. It suggests you don't have enough examples and need to recycle.
-- **Suggested fix:** Keep the full data in Section 3 (where it's evidence for the white-flag argument). In Section 6, reference it without restating: "The discoverability data tells the same story" or "We already saw what happens when you test this." Better yet, find a second example for Section 6 that reinforces the point from a different angle.
-- **Questions to resolve:** Is there a non-Rufus discoverability study that could anchor Section 6 independently?
+- **Issue:** Galloway flagged this in both rounds. "I saw a tweet last week" is vague. The piece argues for products that take a stand; the inciting incident should too.
+- **Why it matters:** An anonymous tweet reads like a straw man. A named person with a linked post reads like engagement with a real position.
+- **Suggested fix:** Either find and link the actual tweet, or reconstruct the argument with enough specificity that the reader sees the exact position being dismantled. If the tweet can't be found, consider replacing "I saw a tweet" with a more specific formulation: "The argument keeps showing up: buttons and menus are training wheels..."
+- **Questions to resolve:** Does the author have the original tweet? If not, is removing the attribution entirely better than keeping it vague?
 
-## 5. Give "the structure itself teaches" room to breathe
-**Status:** completed
+## 5. Source the "5%" number or reframe it
+**Status:** pending
 
-- **Issue:** Housel flagged this as potentially the deepest idea in the piece, currently compressed into a single beat within the Notion example. "Each `/` command is a small tutorial" is an insight about how constraints create understanding, not just about Notion's UX.
-- **Why it matters:** This idea elevates the argument from "front doors are better" (a design preference) to "structure is how humans learn" (a cognitive claim). That's the difference between a blog post and an essay people remember.
-- **Suggested fix:** Add one or two sentences that universalize the insight beyond Notion. "This is what good structure does: it teaches as it constrains. Every guardrail is a lesson about what's possible." Or connect it to the Norman principles already cited.
-- **Questions to resolve:** Does universalizing this risk making Section 4 too philosophical? Is the author comfortable making the cognitive claim, or does it overextend the piece's scope?
+- **Issue:** Galloway's point. "Operating at maybe 5%" appears in the opening logic and the 5%-to-something-real climbing metaphor. It reads like a statistic but has no source.
+- **Why it matters:** Precise-sounding numbers without sources erode trust, especially in a piece built on real data (Sequoia, Smashing, etc.).
+- **Suggested fix:** Either find a source (usage data showing most people use basic features only) or reframe as explicitly subjective: "a fraction of what the tool can do." The word "maybe" helps but doesn't fully solve it.
+- **Questions to resolve:** Is there research on what percentage of AI tool capabilities typical users access? Would "a fraction" land as well as "5%"?
 
-## 6. Make the tweet attribution specific
-**Status:** completed
+## 6. Give "crystal cage" a second appearance
+**Status:** pending
 
-- **Issue:** Galloway's point: "I saw a tweet" is vague where the piece argues for specificity. It reads like a straw man or, worse, a hedge.
-- **Why it matters:** The piece opens by criticizing products that don't take a stand. A vague tweet attribution is the prose equivalent of a blank text box: it avoids commitment.
-- **Suggested fix:** Either find and link the actual tweet, or reconstruct the argument specifically enough that the reader can see exactly what position you're responding to. "A tweet arguing that buttons and layouts are 'training wheels for a generation that won't need them'" is more useful than "something about how traditional UI is dead."
-- **Questions to resolve:** Does the author have the original tweet? If not, is a reconstructed quote better than the current vague reference?
+- **Issue:** Housel's note. The image is introduced in line 28 and never returns. It's the most memorable new phrase in the piece.
+- **Why it matters:** The best metaphors in a piece earn their return. One callback creates a throughline the reader feels even if they can't name it.
+- **Suggested fix:** One callback, not overuse. Possibilities: in the close ("The crystal cage was beautiful, but the point was never the cage"), or in the white flag section ("A crystal cage is still a cage"). Just once.
+- **Questions to resolve:** Where does it fit most naturally? Does the author want to make "crystal cage" a signature image of the piece, or keep it contained to the Both Camps section?
 
-## 7. Evaluate the CLI/GUI section for audience fit
-**Status:** completed
+## 7. Add specificity to the experience paragraph
+**Status:** pending
 
-- **Issue:** Galloway questioned whether "product people, broadly defined" will connect with a section about VS Code and terminals. The irony observation at the end is sharp, but the setup assumes technical literacy.
-- **Why it matters:** If the audience has to work to understand the analogy, they'll disengage before reaching the payoff (the designers-vs-developers irony).
-- **Suggested fix:** Two options: (a) Shorten the setup and lead with the irony, using CLI/GUI as a quick illustration rather than a full section. (b) Reframe in more accessible terms: "The tools developers use have always had two modes" rather than assuming the reader knows what an integrated terminal is.
-- **Questions to resolve:** Is the author willing to trim this section? Is the developers-vs-designers irony strong enough to carry a shorter version?
+- **Issue:** Housel's note. "You know the experience" is universal but impersonal. The previous personal anecdote didn't fit; the second-person version is safe but not memorable.
+- **Why it matters:** This paragraph is the emotional anchor. If it's generic, the Don Norman analysis that follows reads like a textbook instead of an insight rooted in frustration.
+- **Suggested fix:** Add one specific detail without fabricating an anecdote. A product name, a task, a time of day. "You open a new AI tool to help rewrite a paragraph, and you're staring at a cursor wondering how to describe what you want changed" is more alive than "you know the experience."
+- **Questions to resolve:** Is the author comfortable naming a specific product or task? What's a real moment they could anchor this to?
 
-## 8. Sharpen the close
-**Status:** completed
+## 8. Evaluate LinkedIn as sole failure case
+**Status:** pending
 
-- **Issue:** Housel says "The point is the thing you came to do" is quietly devastating and doesn't need the final line after it. Galloway wants something actionable. Both agree the close is strong but has one element too many.
-- **Why it matters:** The last line is what the reader carries. If the final sentence undercuts the penultimate one, the piece ends a half-step weaker than it should.
-- **Suggested fix:** Test two versions: (a) End on "The point is the thing you came to do." (b) Keep the current last line but make it actionable per Galloway ("Next time you're reviewing a product, ask: does this put the AI at the center, or the user?"). Read both aloud.
-- **Questions to resolve:** Does the author prefer the poetic close (Housel's instinct) or the actionable close (Galloway's instinct)?
+- **Issue:** Galloway's point. One failure against three successes feels asymmetric. The reader might think LinkedIn is an isolated case rather than a pattern.
+- **Why it matters:** The pattern claim ("the opposite approach is just as instructive") needs enough evidence to feel like a pattern, not an anecdote.
+- **Suggested fix:** Two options: (a) Add a second failure case (Google's AI Overviews backlash, or a developer tool that went too AI-first). (b) Make LinkedIn heavier by adding consequence: what happened to engagement after the pullback? Did it damage the platform's professional credibility?
+- **Questions to resolve:** Does the author know of a failure case they can relate to? Is Google AI Overviews too similar to the search-vs-AI argument already made?
