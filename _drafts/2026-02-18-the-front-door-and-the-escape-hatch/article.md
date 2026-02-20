@@ -19,7 +19,7 @@ That's the problem a text box creates. It works fine as a search bar. But a blan
 
 ## Both Camps, Same Mistake
 
-Last week, Pieter Levels [asked his followers](TODO_LINK) whether "user interfaces are increasingly likely a thing of the past." The replies split instantly. One pushed back: "pretty out of touch to think regular consumers will ever prefer to type their requests out instead of interacting with an aesthetically pleasing UI." Another agreed with the pushback but went further: "I'm so fatigued with chat as an interface. Ideally I could talk to it and it could give me a visual usable result UI instead of a wall of text."
+Last week, Pieter Levels [asked his followers](https://x.com/levelsio/status/2023528982126444722) whether "user interfaces are increasingly likely a thing of the past." The replies split instantly. One pushed back: "pretty out of touch to think regular consumers will ever prefer to type their requests out instead of interacting with an aesthetically pleasing UI." Another agreed with the pushback but went further: "I'm so fatigued with chat as an interface. Ideally I could talk to it and it could give me a visual usable result UI instead of a wall of text."
 
 The exchange stuck with me because both sides were making the same mistake. There are two camps, and they're both stuck.
 
