@@ -55,9 +55,33 @@ Always know where your content is coming from.
 
 Based on analysis of the author's published work:
 
+### Register: Think With the Reader, Not At Them
+
+This is the most important guideline. It governs everything else.
+
+The author's best writing ("Still Handy," "The Labor of Brevity") has a quality of *thinking out loud*. The reader feels like they're sitting next to someone working through an idea, not being presented a verdict. The piece discovers its thesis; it doesn't announce it.
+
+**Arrive at insights, don't announce them.**
+
+Bad: "Don Norman has a word for this: discoverability." (lecture)
+Better: "I kept trying to name what felt wrong about these products, and then I remembered something from Norman." (journey)
+
+Bad: "Here's the framework." (decree)
+Better: "A pattern started to emerge once I looked at what was actually working." (discovery)
+
+The reader should have the "oh!" moment of seeing the insight click into place, not the "okay, noted" feeling of being told the answer.
+
+**Be curious about the people you disagree with.** Before showing where someone goes wrong, genuinely engage with why their position is appealing. The steel man isn't a throwaway sentence before the "but." It's a real moment of "I see why you'd think this." Empathy first, critique second. A reader who feels the author understands both sides will trust the author's conclusion. A reader who feels the author is dismissive will resist even good arguments.
+
+**Write alongside the reader, not above them.** The author is a fellow traveler who happens to have thought about this longer, not a judge issuing rulings. "I've been stuck on this" is warmer than "Both sides are wrong." "Look at what these companies figured out" is more generous than "These companies got it right."
+
+**Create delight, not just agreement.** The reader should enjoy the ride, not just nod at the destination. Unexpected parallels, wry observations, moments of humor, a detail that makes them see something familiar in a new way. These are what make readers come back. A piece that's correct but joyless gets shared once. A piece that's correct and delightful gets remembered.
+
+**Close with generosity.** Give the reader something to carry with them, not a command to follow. The close should feel like a gift ("here's a way to think about this") rather than a gavel ("do this").
+
 ### Sentence Rhythm
 - Vary sentence length: longer setups, short punches
-- Don't overuse the punchy one-liner—it becomes a tic
+- Don't overuse the punchy one-liner; it becomes a tic
 - Let some paragraphs breathe without a "zinger" at the end
 
 ### Tone

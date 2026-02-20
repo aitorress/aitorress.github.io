@@ -75,6 +75,16 @@ Apply the same critical lens used in the original voice analysis. Be honest abou
 - Any false modesty or unnecessary hedging?
 - Any smugness or insider-ism that might alienate readers?
 
+**Register issues (the "warmth check"):**
+- Does the reader feel *alongside* the author, or *below* them?
+- Are insights arrived at (journey) or announced (verdict)?
+- Is there genuine empathy for the people being criticized, or just dismissal?
+- Would the reader feel grateful and enlightened, or lectured and told?
+- Does the piece create moments of delight and curiosity, or just agreement?
+- Does the close give the reader something generous, or issue a command?
+
+If the piece reads like a prosecution (knows the verdict, spends every paragraph proving it), flag it. The fix is usually structural: reorder so the reader discovers the insight, add moments of genuine curiosity, and show the author thinking rather than pronouncing.
+
 **Originality issues:**
 - Does this say something the reader couldn't get elsewhere?
 - Are there clichés or tired phrasings?
@@ -186,6 +196,8 @@ Cross-reference the article against research files in the working folder. Add li
 - [ ] All claims are supported
 - [ ] Counterarguments addressed
 - [ ] Close lands with impact
+- [ ] Reader feels alongside the author, not lectured
+- [ ] Insights are discovered, not announced
 - [ ] Read aloud—sounds like the author
 - [ ] No typos or grammatical issues
 - [ ] Key references are linked
