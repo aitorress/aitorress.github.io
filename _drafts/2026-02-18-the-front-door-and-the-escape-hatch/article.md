@@ -29,7 +29,7 @@ The UI traditionalists think that's reckless. Models still hallucinate, still mi
 
 They're both speaking for the most important person in the room: the user. The AI camp wants to free people from the limits of predetermined interfaces. The UI camp wants to protect people from the limits of the technology. Both have a point. Both have a blind spot.
 
-I'm not trying to split the difference. "Both have a point" is the kind of thing that sounds wise and dodges every hard question. But one side is making a more fundamental error. Ditching UI for a text box feels bold. I think it's actually the opposite: it avoids the hardest part of product design, which is having an opinion about what users need.
+One side is making a more fundamental error. Ditching UI for a text box feels bold. I think it's actually the opposite: it avoids the hardest part of product design, which is having an opinion about what users need.
 
 ## A Text Box Is a White Flag
 
@@ -53,15 +53,15 @@ I started thinking about it as architecture. The UI is the front door: the guide
 
 The products getting this right didn't smash the crystal cage. They gave it a front door.
 
-Notion embeds AI through the same `/` command users already know for tables, images, and toggles. No separate chatbot. No new interface to learn. AI is just another block in a system of blocks. Over 50% of paying customers use AI features, up from 10% a year earlier. What makes this work isn't just familiarity. Each `/` command is a small tutorial: it shows you one specific thing the product can do. After a week of using Notion, you've discovered dozens of capabilities without reading a single help article. This is what good constraints do: they teach. Every option in a well-designed interface is a lesson about what's possible, delivered at exactly the moment you're deciding what to do next.
+Notion embeds AI through the same `/` command users already know for tables, images, and toggles. No separate chatbot. No new interface to learn. AI is just another block in a system of blocks. Over 50% of paying customers use AI features, up from 10% a year earlier. Each `/` command is a small tutorial: it shows you one specific thing the product can do. After a week of using Notion, you've discovered dozens of capabilities without reading a single help article. This is what good constraints do: they teach. Every option in a well-designed interface is a lesson about what's possible, delivered at exactly the moment you're deciding what to do next.
 
-Linear drew the sharpest line. Their team [wrote](https://linear.app/now/design-for-the-ai-age) that "prompting is essentially like writing a spec. Sometimes it's hard to articulate exactly what you want." That sentence is the entire argument in miniature. If articulating what you want is hard in a text box, the answer isn't a better text box—it's an interface that helps you articulate. Their solution is the "workbench": structured fields, context panels, and workflow steps that translate what you mean into something the model can act on. You never write a prompt. You make choices, fill in context, set scope—and the AI receives a better input than any freehand prompt would have produced. "Without form, function gets lost," they wrote. The front door doesn't just guide the user. It does the translation work that a text box leaves entirely to them.
+Linear drew the sharpest line. Their team [wrote](https://linear.app/now/design-for-the-ai-age) that "prompting is essentially like writing a spec. Sometimes it's hard to articulate exactly what you want." That sentence is the entire argument in miniature. If articulating what you want is hard in a text box, the answer is an interface that helps you articulate. Their solution is the "workbench": structured fields, context panels, and workflow steps that translate what you mean into something the model can act on. You never write a prompt. You make choices, fill in context, set scope. The AI receives a better input than any freehand prompt would have produced. "Without form, function gets lost," they wrote. The front door doesn't just guide the user. It does the translation work that a text box leaves entirely to them.
 
 The opposite approach is just as instructive.
 
 LinkedIn added AI-generated discussion questions so generic they became punchlines: "What does a teacher do?" "What does a barber do?" Fortune called the result ["a cesspool of AI crap."](https://fortune.com/2024/04/18/linkedin-microsoft-collaborative-articles-generative-ai-feedback-loop-user-backlash/) LinkedIn quietly pulled the feature. The broader pattern held: AI-generated posts on the platform get 30% less reach and 55% less engagement than human-written ones. The audience knows.
 
-Google made the same bet from the other direction. AI Overviews replaced the structured search results people had navigated for twenty years with AI-generated summaries—and users immediately noticed when those summaries [told them to put glue on pizza and eat rocks](https://www.bbc.com/news/articles/cd11gzejgz4o). The backlash wasn't just about bad answers. It was about removing the interface that let users evaluate answers for themselves. Links, sources, the ability to scan and choose—that was the front door. Google replaced it with a text box's cousin: a wall of AI text you're supposed to trust.
+Google made the same bet from the other direction. AI Overviews replaced the structured search results people had navigated for twenty years with AI-generated summaries. Users immediately noticed when those summaries [told them to put glue on pizza and eat rocks](https://www.bbc.com/news/articles/cd11gzejgz4o). The backlash ran deeper than bad answers. Google removed the interface that let users evaluate answers for themselves. Links, sources, the ability to scan and choose: that was the front door. Google replaced it with a text box's cousin: a wall of AI text you're supposed to trust.
 
 ## Developers Solved This in 1984
 
@@ -71,7 +71,7 @@ The command line never died. Despite four decades of graphical interfaces, every
 
 Neither paradigm tries to be the whole product. They've coexisted for forty years because they serve different cognitive needs.
 
-But the trend in developer tools complicates this. Cursor's agent mode, Claude Code, tools like Devin—these don't assist within the editor so much as *act* within it. They take multi-step actions, create files, run tests, make architectural decisions. The escape hatch isn't supplementing the front door anymore. It's trying to replace it.
+But the trend in developer tools complicates this. Cursor's agent mode, Claude Code, tools like Devin. These *act* within the editor. They take multi-step actions, create files, run tests, make architectural decisions. The escape hatch isn't supplementing the front door anymore. It's trying to replace it.
 
 Except look at where they run. Even Cursor's most autonomous agent operates inside VS Code. The code it writes appears in files you can navigate, in a project structure you already understand. The editor is what makes the agent's work legible. Strip the front door away and you'd have a black box producing code you'd need to audit from scratch. The autonomy works *because* the visual context is already there.
 
@@ -81,10 +81,10 @@ The irony: the people most skeptical of AI interfaces tend to be designers, who 
 
 But here's the part that kept bothering me: most users never find the AI.
 
-The discoverability research tells the same story every time. Daily users, staring right at AI features, completely unaware they exist. And when they do find them—through a tooltip, a colleague's demo, an accidental `/` command—usage climbs fast. The gap was never motivation. It was orientation. People don't need to be sold on AI. They need to be shown the door.
+The discoverability research tells the same story every time. Daily users, staring right at AI features, completely unaware they exist. And when they do find them (through a tooltip, a colleague's demo, an accidental `/` command) usage climbs fast. The gap was always orientation. People just need to be shown the door.
 
 You can't ask a good question about a product you've never explored. The interface is how users build a mental model, discover what's possible, develop the vocabulary that makes AI useful. Without that foundation, they don't know what to ask because they never learned what the building contains.
 
-If you're building with AI, the question worth asking isn't how much intelligence to add. It's whether your interface teaches people what to do with it.
+If you're building with AI, the question worth asking is whether your interface teaches people what to do with it.
 
-The products that figure this out share something subtle: the AI disappears. You don't think "I'm using AI." You think "I'm using Notion" or "I'm writing code." The intelligence is real, but the point is the thing you came to do.
+The products that figure this out share something subtle: the AI disappears. You just think "I'm using Notion" or "I'm writing code." The intelligence is real, but the point is the thing you came to do.
