@@ -47,7 +47,7 @@ The numbers confirm what that frustration suggests. Sequoia Capital [found](http
 
 ## The Front Door Is Doing the Work
 
-Even ChatGPT has been moving in this direction. Look at what OpenAI has been building: conversation starters, suggested follow-ups, custom GPTs with structured interfaces, task-specific flows. The product that defined "text box in the center of the screen" has been quietly adding front doors ever since. That tells you something.
+Even ChatGPT has been moving in this direction. Look at what OpenAI has been building: conversation starters, suggested follow-ups, custom GPTs with structured interfaces, task-specific flows. They launched with the same blank field Google made universal, and they've been adding front doors ever since. That tells you something.
 
 So what does it look like when a product commits to this from the start?
 
@@ -57,13 +57,11 @@ The products getting this right share a trait: they kept the front door and wove
 
 Notion embeds AI through the same `/` command users already know for tables, images, and toggles. No separate chatbot. No new interface to learn. AI is just another block in a system of blocks. Over 50% of paying customers use AI features, up from 10% a year earlier. What makes this work isn't just familiarity. Each `/` command is a small tutorial: it shows you one specific thing the product can do. After a week of using Notion, you've discovered dozens of capabilities without reading a single help article. This is what good constraints do: they teach. Every option in a well-designed interface is a lesson about what's possible, delivered at exactly the moment you're deciding what to do next.
 
-Copilot tells the same story from the code side. Its primary mode is inline suggestions: structured, contextual, appearing as you type. The chat interface exists, but it's secondary. Inline suggestions are unlimited. Chat gets rationed. Even GitHub seems to know which mode does the heavy lifting.
+Cursor tells the same story from the developer side. It's built on VS Code, the front door millions of developers already know. AI enters through patterns that already exist: Tab completion extends autocomplete, Cmd+K extends select-and-act, and a chat panel handles the bigger questions. 95% of users engage with Tab completions daily. The chat panel is secondary. The hierarchy is deliberate.
 
 Linear, a project management tool, is the most explicit. Their team [wrote](https://linear.app/now/design-for-the-ai-age) that "prompting is essentially like writing a spec. Sometimes it's hard to articulate exactly what you want." Their answer: the "workbench," a structured interface that gives AI the context it needs. The workbench is the front door. AI operates within it.
 
-The failures are just as instructive.
-
-Meta replaced Instagram's search bar with an AI chat interface. The backlash was immediate: a single TikTok criticizing the change pulled over 100,000 likes. Users said it made search "so much worse." If you accidentally tapped on Meta AI while searching for an account, the chatbot would send you a DM that lingered over your inbox. Meta confirmed there was no way to disable it. Users resorted to workarounds just to search for a person. A working front door, replaced by an escape hatch nobody asked for.
+The opposite approach is just as instructive.
 
 LinkedIn added AI-generated discussion questions so generic they became punchlines: "What does a teacher do?" "What does a barber do?" Fortune called the result ["a cesspool of AI crap."](https://fortune.com/2024/04/18/linkedin-microsoft-collaborative-articles-generative-ai-feedback-loop-user-backlash/) LinkedIn quietly pulled the feature. The broader pattern held: AI-generated posts on the platform get 30% less reach and 55% less engagement than human-written ones. The audience knows.
 
