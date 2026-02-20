@@ -75,16 +75,14 @@ Neither paradigm tries to be the whole product. They've coexisted for forty year
 
 The irony: the people most skeptical of AI interfaces tend to be designers, who don't have escape hatches in their tools. The most enthusiastic tend to be developers, who already do. The debate splits along who already has the thing.
 
-## The Escape Hatch Only Works If You Know the Building
+## The Catch
 
-But here's the part that kept bothering me: most users never find the escape hatch.
+But here's the part that kept bothering me: most users never find the AI.
 
-The discoverability research tells the same story every time. Daily users, staring right at AI features, completely unaware they exist. An escape hatch nobody reaches for is just a locked door with a fancy sign.
+The discoverability research tells the same story every time. Daily users, staring right at AI features, completely unaware they exist.
 
-This doesn't weaken the argument. It completes it. You can't escape-hatch your way into a product you've never explored. The front door is how users build a mental model, discover what's possible, develop the context that makes the escape hatch useful. Without it, people bounce or underuse. They don't know what to ask because they never learned what the building contains.
+This completes the argument. You can't ask a good question about a product you've never explored. The interface is how users build a mental model, discover what's possible, develop the vocabulary that makes AI useful. Without that foundation, people bounce or underuse. They don't know what to ask because they never learned what the building contains.
 
-This is why UI comes first. AI is at its best when it has context, and context is what a good front door provides.
+UI comes first. AI is at its best when it has context, and context is what good design provides.
 
-The front door is where the taste lives. The escape hatch is where the power lives. You need both, and the technology for the escape hatch just got good enough to matter.
-
-The products that figure this out share something subtle: the AI disappears. You don't think "I'm using AI." You think "I'm using Notion" or "I'm writing code." The intelligence is real, but it's not the point. The point is the thing you came to do.
+The products that figure this out share something subtle: the AI disappears. You don't think "I'm using AI." You think "I'm using Notion" or "I'm writing code." The intelligence is real, but the point is the thing you came to do.
