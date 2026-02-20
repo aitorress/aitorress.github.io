@@ -15,7 +15,7 @@ You leave.
 
 ## Both Camps, Same Mistake
 
-I saw a tweet last week. Something about how traditional UI is dead, how the future is pure conversation, how designers clinging to buttons and layouts are holding everyone back.
+I saw a tweet last week arguing that buttons and menus are "training wheels," that the real future is typing what you want and getting it, that designers clinging to layouts are holding everyone back.
 
 And I get the appeal. Language is the most natural interface humans have. We've been talking to each other for a hundred thousand years and clicking buttons for maybe forty. Of course you'd want to start there.
 
@@ -33,7 +33,9 @@ Here's what I keep coming back to: a free-form text field is the product admitti
 
 A well-designed UI takes a stand. "This is the path. We thought about it. We're confident." Every button, every layout choice, every deliberate constraint says: we did the work of figuring out what matters here. A chat box outsources that entire question to the person who just arrived. It's a *hedge*.
 
-I've felt this. You probably have too. You land on one of these products and there's... nothing. No affordance, no signifier, nothing that tells you what the tool can do. What you feel is closer to alienation than anger. The product pushes you away by refusing to show you what it is. So you type something generic, get a generic response, poke around for a minute, and close the tab. You end up using maybe 5% of what the tool can do, not because you're lazy, but because nothing told you the other 95% existed.
+I've felt this. You probably have too. Last month I signed up for three different AI tools in one afternoon, trying to find one that could help me organize research notes. Each one opened to the same blank field, a blinking cursor, and maybe a few suggested prompts I didn't care about. I typed something like "help me organize my research notes," got a reasonable answer, and then sat there. Now what? There were no menus to explore, no features to discover, no indication of what else it could do. I closed the tab and tried the next one. Same thing. Three products, one experience, zero reason to come back.
+
+What you feel in that moment is closer to alienation than anger. The product pushes you away by refusing to show you what it is. You end up using maybe 5% of what the tool can do, not because you're lazy, but because nothing told you the other 95% existed.
 
 Once I started thinking about this in design terms, the problem got sharper. Don Norman's *The Design of Everyday Things* outlines six principles that make objects usable: affordances, signifiers, constraints, mappings, feedback, and conceptual models. A blank text field scores near zero on all six. A door handle tells you to pull. A flat plate tells you to push. A blank text box tells you nothing. It affords typing, and that's it. What to type, why to type it, what will happen when you do: the interface won't say.
 
@@ -41,17 +43,17 @@ Once I started thinking about this in design terms, the problem got sharper. Don
 
 When Nielsen Norman Group [tested](https://www.nngroup.com/articles/discoverability-ai-amazon/) Amazon's Rufus AI chatbot, zero participants discovered it on their own. Not a low percentage. Zero. Daily Amazon users, staring right at it, completely unnoticed. Zoom out and the picture is just as grim: [54.6% of US adults](https://www.stlouisfed.org/on-the-economy/2025/nov/state-generative-ai-adoption-2025) have tried generative AI tools, but only 5.7% of total work hours actually involve them. [42% of companies](https://menlovc.com/perspective/2025-the-state-of-consumer-ai/) abandoned most of their AI initiatives in 2025. People try the text box. They don't come back.
 
-Even ChatGPT has been moving in this direction. Look at what OpenAI has been building: conversation starters, suggested follow-ups, custom GPTs with structured interfaces, task-specific flows. The product that defined "text box in the center of the screen" has been quietly adding front doors ever since.
-
 ## The Front Door Is Doing the Work
 
-So what does it look like when a product gets this balance right?
+Even ChatGPT has been moving in this direction. Look at what OpenAI has been building: conversation starters, suggested follow-ups, custom GPTs with structured interfaces, task-specific flows. The product that defined "text box in the center of the screen" has been quietly adding front doors ever since. That tells you something.
+
+So what does it look like when a product commits to this from the start?
 
 I started thinking about it as architecture. The UI is the front door: the guided, opinionated path that works for the 80% case. Natural language is the escape hatch: what you reach for when the UI's assumptions don't fit. You've *always* needed both. The technology for the escape hatch just got good enough to matter.
 
 The products getting this right share a trait: they kept the front door and wove AI into existing patterns rather than replacing them.
 
-Notion embeds AI through the same `/` command users already know for tables, images, and toggles. No separate chatbot. No new interface to learn. AI is just another block in a system of blocks. Over 50% of paying customers use AI features, up from 10% a year earlier. What makes this work isn't just familiarity. Each `/` command is a small tutorial: it shows you one specific thing the product can do. After a week of using Notion, you've discovered dozens of capabilities without reading a single help article. The structure itself teaches.
+Notion embeds AI through the same `/` command users already know for tables, images, and toggles. No separate chatbot. No new interface to learn. AI is just another block in a system of blocks. Over 50% of paying customers use AI features, up from 10% a year earlier. What makes this work isn't just familiarity. Each `/` command is a small tutorial: it shows you one specific thing the product can do. After a week of using Notion, you've discovered dozens of capabilities without reading a single help article. This is what good constraints do: they teach. Every option in a well-designed interface is a lesson about what's possible, delivered at exactly the moment you're deciding what to do next.
 
 Copilot tells the same story from the code side. Its primary mode is inline suggestions: structured, contextual, appearing as you type. The chat interface exists, but it's secondary. Inline suggestions are unlimited. Chat gets rationed. Even GitHub seems to know which mode does the heavy lifting.
 
@@ -59,17 +61,17 @@ Linear, a project management tool, is the most explicit. Their team [wrote](http
 
 The failures are just as instructive.
 
-Meta replaced Instagram's search bar with an AI chat interface. The backlash was immediate: a single TikTok criticizing the change pulled over 100,000 likes. Users said it made search "so much worse." If you accidentally tapped on Meta AI while looking for an account, the chatbot would send you a DM that lingered over your inbox. Meta took a working front door and swapped it for an escape hatch nobody asked for.
+Meta replaced Instagram's search bar with an AI chat interface. The backlash was immediate: a single TikTok criticizing the change pulled over 100,000 likes. Users said it made search "so much worse." If you accidentally tapped on Meta AI while searching for an account, the chatbot would send you a DM that lingered over your inbox. Meta confirmed there was no way to disable it. Users resorted to workarounds just to search for a person. A working front door, replaced by an escape hatch nobody asked for.
 
-LinkedIn tried something similarly tone-deaf: AI-generated discussion questions on posts. "What does a teacher do?" "What does a barber do?" Fortune called the result "a cesspool of AI crap." LinkedIn quietly pulled the feature and called it a "test."
+LinkedIn added AI-generated discussion questions so generic they became punchlines: "What does a teacher do?" "What does a barber do?" Fortune called the result ["a cesspool of AI crap."](https://fortune.com/2024/04/18/linkedin-microsoft-collaborative-articles-generative-ai-feedback-loop-user-backlash/) LinkedIn quietly pulled the feature. The broader pattern held: AI-generated posts on the platform get 30% less reach and 55% less engagement than human-written ones. The audience knows.
 
 ## Developers Solved This in 1984
 
 There's a precedent for this, and it's been hiding in plain sight for forty years.
 
-The command line never died. Despite four decades of graphical interfaces, every developer still keeps a terminal open. VS Code is the front door. The integrated terminal is the escape hatch. Developers switch between them dozens of times a day: GUI for browsing and visual debugging, command line for git, build tools, and anything the GUI didn't anticipate.
+The command line never died. Despite four decades of graphical interfaces, every developer still keeps a terminal open. The graphical editor is the front door. The command line is the escape hatch. They switch between them dozens of times a day without thinking about it: visual tools for browsing and discovery, typed commands for precision and automation.
 
-Neither paradigm tries to be the whole product. The GUI handles discovery and spatial reasoning. The CLI handles precision and composition. They've coexisted for forty years because they serve different cognitive needs.
+Neither paradigm tries to be the whole product. They've coexisted for forty years because they serve different cognitive needs.
 
 The irony: the people most skeptical of AI interfaces tend to be designers, who don't have escape hatches in their tools. The most enthusiastic tend to be developers, who already do. The debate splits along who already has the thing.
 
@@ -77,7 +79,7 @@ The irony: the people most skeptical of AI interfaces tend to be designers, who 
 
 But here's the part that kept bothering me: most users never find the escape hatch.
 
-The Rufus study wasn't an edge case. A direct test of the premise. The result was zero. Daily users couldn't see the AI was there. An escape hatch nobody reaches for is just a locked door with a fancy sign.
+The discoverability research tells the same story every time. Daily users, staring right at AI features, completely unaware they exist. An escape hatch nobody reaches for is just a locked door with a fancy sign.
 
 This doesn't weaken the argument. It completes it. You can't escape-hatch your way into a product you've never explored. The front door is how users build a mental model, discover what's possible, develop the context that makes the escape hatch useful. Without it, people bounce or underuse. They don't know what to ask because they never learned what the building contains.
 
@@ -86,5 +88,3 @@ This is why UI comes first. AI is at its best when it has context, and context i
 The front door is where the taste lives. The escape hatch is where the power lives. You need both, and the technology for the escape hatch just got good enough to matter.
 
 The products that figure this out share something subtle: the AI disappears. You don't think "I'm using AI." You think "I'm using Notion" or "I'm writing code." The intelligence is real, but it's not the point. The point is the thing you came to do.
-
-A text box puts AI at the center. A front door puts *you* there instead.
