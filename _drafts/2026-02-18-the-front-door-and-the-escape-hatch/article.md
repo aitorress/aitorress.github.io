@@ -25,9 +25,11 @@ And I get the appeal. Language is the most natural interface humans have. We've 
 
 But something about the debate kept nagging at me. There are two camps, and I think they're both stuck.
 
-The AI purists think every interface problem is a prompt away from being solved. Strip the buttons, kill the menus, let language do the work. The UI traditionalists treat pixel-perfect design as gospel. Touch the layout and you're a barbarian.
+The AI purists see the text box as a crystal cage for intelligence. Give the user a blank field, let the model figure out what they need. Language is the interface. Models are smart enough to understand anything you throw at them, so why clutter the screen with buttons and menus?
 
-Both are confusing their preferred interface for a complete worldview. The AI crowd has a tool-shaped hole; every problem needs a chat box. The UI crowd has a canvas-shaped hole; every problem needs a layout. Neither is asking what the person on the other side of the screen actually needs.
+The UI traditionalists think that's reckless. Models still hallucinate, still miss context, still need guardrails. Design should show the way: menus, layouts, deliberate constraints that keep users on solid ground.
+
+They're both speaking for the most important person in the room: the user. The AI camp wants to free people from the limits of predetermined interfaces. The UI camp wants to protect people from the limits of the technology. Both have a point. Both have a blind spot.
 
 I'm not trying to split the difference. "Both have a point" is the kind of thing that sounds wise and dodges every hard question. But one side is making a more fundamental error. Ditching UI for a text box feels bold. I think it's actually the opposite: it avoids the hardest part of product design, which is having an opinion about what users need.
 
