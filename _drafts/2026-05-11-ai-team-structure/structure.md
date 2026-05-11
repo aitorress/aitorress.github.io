@@ -1,8 +1,10 @@
-# Proposed Structure: AI Team Structure Essay
+# Proposed Structure: Structure Compresses the Loop
 
 **Date:** 2026-05-11
-**Status:** Awaiting approval
-**Working slug:** `ai-team-structure` (folder/branch). **Article title open** — see Open Questions.
+**Status:** Approved (2026-05-11) — working title set, refinable in polish.
+**Working title:** "Structure Compresses the Loop" — three load-bearing terms (structure, compression, the loop). Refinable during expansion or polish.
+**Working slug:** `ai-team-structure` (folder/branch). Final article slug to follow the final title.
+**Anonymization rule:** Current employer is not to be named in the published article. Refer to it as "my company," "my current employer," or "the org I sit in."
 
 ---
 
@@ -24,8 +26,8 @@ AI raises the per-person floor enough that flat, tiny teams with decision author
 
 ### (Cold open — no heading)
 **Purpose:** Place the reader in the personal triggering moment fast, then pivot to the question the essay answers. Earn the read without throat-clearing.
-**Content:** NCLH reorg from customer-journey to product/platform — Web / Mobile / Core Services. Three pillars in one seat. The first week where the old shape of "process" stopped making sense and a different question surfaced: *what should a software team look like once AI absorbs most of the busy work, and what part of the old shape needs to die first?*
-**Estimated length:** Short — two tight paragraphs. The pivot from anecdote to question must be clean.
+**Content:** A recent reorg at my company — from customer-journey teams to product/platform pillars (Web / Mobile / Core Services). Three pillars in one seat. The first week where the old shape of "process" stopped making sense and a different question surfaced: *what should a software team look like once AI absorbs most of the busy work, and what part of the old shape needs to die first?*
+**Estimated length:** Short — **one tight paragraph**. The pivot from anecdote to question must be clean; no second-paragraph throat-clearing.
 
 ---
 
@@ -105,14 +107,13 @@ AI raises the per-person floor enough that flat, tiny teams with decision author
 
 ### 7. The Teams That Already Live This Way
 **Purpose:** Anchor the pattern in real organizations so the synthesis doesn't read as theoretical. Tight beats, not case studies.
-**Content:** Four anchors, each a short paragraph:
+**Content:** Three external anchors plus the cold-open callback, each a short paragraph:
 1. **Midjourney** — ~11-person team, multi-hundred-million-revenue product, no traditional PM layer, founder-led, ships continuously. (Source: swyx's Tiny Teams Playbook.)
 2. **Uber's Programs/Platforms** — quarterly team-right-to-exist reviews; every team justifies its continued existence. (Source: Gergely Orosz.) The point: even at scale, the loop closes by forcing teams to defend their existence against signal.
 3. **Claude Cowork** — small mission-aligned team, novel multi-user agent product, shipped in months. (Source: Felix Rieseberg on MAD Podcast.) Mission as tiebreaker + tight scope.
-4. **[Fourth anchor — TBD before draft.]** Candidates: Linear, Vercel, or someone from peer network who can be named with confidence.
-5. **NCLH** (own seat, brief). Web/Mobile/Core Services reorg; new practices around tight loops and decision authority pushed into pillars. Bring the cold open back around — close the loop on the personal stake.
-**Load-bearing elements slotted:** All four (five) evidence anchors · cold-open callback.
-**Estimated length:** Medium — one tight paragraph per anchor.
+4. **Own seat (unnamed)** — Web/Mobile/Core Services reorg; new practices around tight loops and decision authority pushed into pillars. Bring the cold open back around — close the loop on the personal stake. Employer is not named in the piece.
+**Load-bearing elements slotted:** Three external anchors + own-seat callback · cold-open callback.
+**Estimated length:** Medium — one tight paragraph per anchor. Three external + own-seat keeps the section from sprawling; the falsifier is paid off by the convergence across the three, not by piling on a fourth.
 
 ---
 
@@ -145,16 +146,13 @@ AI raises the per-person floor enough that flat, tiny teams with decision author
 
 ## Open Questions
 
-These need author input *before* expansion begins:
+Resolutions captured (2026-05-11):
 
-1. **Article title.** The Lens flags rename as load-bearing: the essay is operationally about *structural redesign with process as downstream observation*, not "process redesign" in the abstract. Three candidates to weigh:
-   - **"The Team Is the Model."** Leads with the load-bearing metaphor. Provocative; assumes the reader will follow the metaphor into the body.
-   - **"Structure Is Where Decisions Live."** Leads with the operational definition. Less poetic, more load-bearing for the senior-IC reader.
-   - **"Theater Isn't Melting."** Leads with the reframe. Best click; risk is it under-sells the structural argument by making process change sound like the headline claim.
-   - Keep the existing title and reframe inside? — viable but the Lens flags this as the weakest of the four moves.
-2. **Fourth evidence anchor (Section 7).** Linear, Vercel, or named peer? The anchor needs to be someone the author can defend in print. Decide before expansion so the section can be written once.
-3. **Fallback frame.** Currently open. Recommend: don't force it now. Hold it for the polish pass — if expansion stays on rails, the fallback isn't needed; if a section wobbles, name the fallback against the wobble.
-4. **Cold-open length.** Two tight paragraphs is the proposal. Author has historically opened with one casual paragraph that signals the problem — confirm two paragraphs is welcome here given the synthesis density, or compress to one.
+1. **Article title.** ~~Four original candidates rejected.~~ Working title: **"Structure Compresses the Loop"** — set in the user's direction (structure + compression + the loop). **Still iterating on the final phrasing**: variants on the table include "Structure Compresses the Value Loop," "AI Compresses the Value Loop," and "How AI Compresses the Value Loop." Refinable during expansion or polish.
+2. **Fourth evidence anchor.** ~~Linear / Vercel / peer.~~ **Dropped.** Section 7 runs three external anchors + own-seat callback. Convergence across three is enough; a fourth would be filler.
+3. **Fallback frame.** **Hold for polish pass.** Don't force it now. If a section wobbles during expansion, name the fallback against the wobble.
+4. **Cold-open length.** **One paragraph.** Compress, no second-paragraph throat-clearing.
+5. **Anonymization (added 2026-05-11).** Current employer is not to be named in the published article. All evidence references and the cold open use anonymized phrasing.
 
 ## Alternative Structures Considered
 

@@ -17,7 +17,7 @@
 
 **Scope tightening (from M7 + Q1):** This essay is for teams that have, or can hire/develop, high-agency individuals. It's not a recipe for getting a low-agency team to high agency in one step — that's a different essay.
 
-**Edge / personal stake:** NCLH's reorg from customer-journey to product/platform (Web / Mobile / Core Services) was the triggering moment — three pillars in one seat brought this question into daily practice. The deeper observation: how my own pace shifted once I started leaning on taste and critique to deliver, and what that says about how peers and companies are structuring AI work in real time.
+**Edge / personal stake:** A recent reorg at my current company — from customer-journey teams to product/platform pillars (Web / Mobile / Core Services) — was the triggering moment. Three pillars in one seat brought this question into daily practice. The deeper observation: how my own pace shifted once I started leaning on taste and critique to deliver, and what that says about how peers and companies are structuring AI work in real time. *(Employer not to be named in the published article.)*
 
 **Categorical pin:** *informed synthesis* — the pattern emerging from the leading edge of this work, applied to my own practice. Not a field study. Not a vibe.
 
@@ -87,7 +87,7 @@ The pattern this essay describes is visible at:
 2. **Uber's Programs/Platforms** (Gergely Orosz) — quarterly team-right-to-exist reviews; every team has to justify continued existence.
 3. **Claude Cowork** (Felix Rieseberg on MAD Podcast) — small mission-aligned team shipped a novel multi-user agent product in months; mission as tiebreaker + tight scope.
 4. **(Open slot — pick at draft time.)** Candidates: Linear, Vercel, or someone from peer network who can be named with confidence.
-5. **NCLH** (own seat) — Web/Mobile/Core Services reorg; new practices around tight loops and decision authority pushed into pillars.
+5. **Own seat (current employer, unnamed in piece)** — Web/Mobile/Core Services reorg; new practices around tight loops and decision authority pushed into pillars.
 
 **Evidence framing for the essay** (per Q6 honesty): *"I'm confident in the pattern because the people I'm reading are converging on it and I'm seeing it in my own seat. I'm aware Ng calls it open — that's the broader field; I'm describing the leading edge."* This sentence belongs near the top.
 
