@@ -1,10 +1,10 @@
-# Proposed Structure: Structure Compresses the Loop
+# Proposed Structure: Structure Compresses the Value Loop
 
 **Date:** 2026-05-11
-**Status:** Approved (2026-05-11) — working title set, refinable in polish.
-**Working title:** "Structure Compresses the Loop" — three load-bearing terms (structure, compression, the loop). Refinable during expansion or polish.
-**Working slug:** `ai-team-structure` (folder/branch). Final article slug to follow the final title.
-**Anonymization rule:** Current employer is not to be named in the published article. Refer to it as "my company," "my current employer," or "the org I sit in."
+**Status:** Approved — title locked, ready for expansion.
+**Title:** "Structure Compresses the Value Loop" — Structure as subject (matches body's lead), "Value Loop" makes value-discovery explicit, synthesis voice (no "How"). Refinable during polish if a sharper variant surfaces.
+**Working slug:** `ai-team-structure` (folder/branch). Final article slug: `structure-compresses-the-value-loop` (TBD at publish).
+**Anonymization rule:** Current employer is not to be named in the published article or in any file on this branch (public repo). Refer to it as "my company," "my current employer," or "the org I sit in."
 
 ---
 
@@ -148,7 +148,7 @@ AI raises the per-person floor enough that flat, tiny teams with decision author
 
 Resolutions captured (2026-05-11):
 
-1. **Article title.** ~~Four original candidates rejected.~~ Working title: **"Structure Compresses the Loop"** — set in the user's direction (structure + compression + the loop). **Still iterating on the final phrasing**: variants on the table include "Structure Compresses the Value Loop," "AI Compresses the Value Loop," and "How AI Compresses the Value Loop." Refinable during expansion or polish.
+1. **Article title.** **Locked: "Structure Compresses the Value Loop."** Structure as subject (preserves the body's lead-with-structure ordering), "Value Loop" explicit so the title carries the value-discovery framing, no "How" (synthesis voice, not explainer). Refinable in polish only if a sharper variant surfaces during expansion.
 2. **Fourth evidence anchor.** ~~Linear / Vercel / peer.~~ **Dropped.** Section 7 runs three external anchors + own-seat callback. Convergence across three is enough; a fourth would be filler.
 3. **Fallback frame.** **Hold for polish pass.** Don't force it now. If a section wobbles during expansion, name the fallback against the wobble.
 4. **Cold-open length.** **One paragraph.** Compress, no second-paragraph throat-clearing.

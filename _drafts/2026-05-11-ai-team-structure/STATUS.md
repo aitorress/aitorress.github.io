@@ -1,16 +1,13 @@
 # AI Team Structure Essay — Status
 
 ## Current Phase
-Structure approved (modulo final title phrasing) — ready for expansion once title locks.
+Expansion — structure approved, title locked, ready for `/draft-expand`.
 
 ## Completed
 - [x] Lens / synthesis brief authored (2026-05-11) — combines analysis + author-input + research notes into a single load-bearing document. Saved as `lens.md`.
 - [x] Structure proposed (2026-05-11) — 8 sections + cold open + close, every load-bearing element from the Lens slotted, headings written to invite.
 - [x] Structure feedback resolved (2026-05-11): cold open compressed to one paragraph, fourth evidence anchor dropped, fallback frame held for polish, employer anonymized throughout (public-repo safety).
-- [x] Working title set (2026-05-11): "Structure Compresses the Loop" — iterating on final phrasing.
-
-## Awaiting
-- [ ] Final title phrasing — three variants in play: "Structure Compresses the Value Loop" / "AI Compresses the Value Loop" / "How AI Compresses the Value Loop".
+- [x] Title locked (2026-05-12): **"Structure Compresses the Value Loop"** — Structure as subject, Value Loop explicit, synthesis voice.
 
 ## Still Needed (after title locks)
 - [ ] Cold open (1 paragraph)
