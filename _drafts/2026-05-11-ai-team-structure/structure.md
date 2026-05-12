@@ -26,7 +26,7 @@ AI raises the per-person floor enough that flat, tiny teams with decision author
 
 ### (Cold open — no heading)
 **Purpose:** Place the reader in the personal triggering moment fast, then pivot to the question the essay answers. Earn the read without throat-clearing.
-**Content:** A recent reorg at my company — from customer-journey teams to product/platform pillars (Web / Mobile / Core Services). Three pillars in one seat. The first week where the old shape of "process" stopped making sense and a different question surfaced: *what should a software team look like once AI absorbs most of the busy work, and what part of the old shape needs to die first?*
+**Content:** A recent reorg at my company — from customer-journey teams to product/platform pillars (specific pillar names omitted for anonymization). A few pillars in one seat. The first week where the old shape of "process" stopped making sense and a different question surfaced: *what should a software team look like once AI absorbs most of the busy work, and what part of the old shape needs to die first?*
 **Estimated length:** Short — **one tight paragraph**. The pivot from anecdote to question must be clean; no second-paragraph throat-clearing.
 
 ---
@@ -111,7 +111,7 @@ AI raises the per-person floor enough that flat, tiny teams with decision author
 1. **Midjourney** — ~11-person team, multi-hundred-million-revenue product, no traditional PM layer, founder-led, ships continuously. (Source: swyx's Tiny Teams Playbook.)
 2. **Uber's Programs/Platforms** — quarterly team-right-to-exist reviews; every team justifies its continued existence. (Source: Gergely Orosz.) The point: even at scale, the loop closes by forcing teams to defend their existence against signal.
 3. **Claude Cowork** — small mission-aligned team, novel multi-user agent product, shipped in months. (Source: Felix Rieseberg on MAD Podcast.) Mission as tiebreaker + tight scope.
-4. **Own seat (unnamed)** — Web/Mobile/Core Services reorg; new practices around tight loops and decision authority pushed into pillars. Bring the cold open back around — close the loop on the personal stake. Employer is not named in the piece.
+4. **Own seat (unnamed; pillar names also omitted)** — customer-journey-to-product/platform-pillars reorg; new practices around tight loops and decision authority pushed into pillars. Bring the cold open back around — close the loop on the personal stake. Employer and specific pillar names are not in the piece.
 **Load-bearing elements slotted:** Three external anchors + own-seat callback · cold-open callback.
 **Estimated length:** Medium — one tight paragraph per anchor. Three external + own-seat keeps the section from sprawling; the falsifier is paid off by the convergence across the three, not by piling on a fourth.
 
