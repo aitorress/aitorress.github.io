@@ -13,7 +13,9 @@ tags:
 
 # Structure Compresses the Value Loop
 
-Last quarter my company finished pulling apart its customer-journey teams and put product/platform pillars in their place. A few pillars, one seat. The first week I sat in that seat, the old shape of "process" stopped making sense. Every PRD I would have written felt like ceremony. Every standup I would have run felt like a tax. Underneath was a sharper question than the one the reorg was technically answering: what should a software team look like once AI absorbs most of the busy work, and what part of the old shape needs to die first?
+How many mornings have I sat in a standup where the engineering team has been pair-coding through the night and already knows, in real time, what everyone is doing? The standup runs anyway, because somebody's job is to run it. How many times have I been one of seventy people on a Zoom with most cameras off, half the room reading other tabs, while four people take turns saying things the rest of us already mostly knew? There was a moment when each of those rituals added real value. That moment has passed. The rituals are still on the calendar.
+
+Last quarter my company finished pulling apart its customer-journey teams and put product/platform pillars in their place. A few pillars, one seat. Sitting in that seat the first week, the old shape of process stopped making sense. Underneath was a sharper question than the one the reorg was technically answering: what should a software team look like once AI absorbs most of the busy work, and what part of the old shape needs to die first?
 
 ## What I'm Claiming, and What I'm Not
 
