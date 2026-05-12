@@ -1,26 +1,19 @@
 # AI Team Structure Essay — Status
 
 ## Current Phase
-Expansion — structure approved, title locked, ready for `/draft-expand`.
+Expansion complete — full first draft of all sections in `article.md`. Awaiting author review.
 
 ## Completed
 - [x] Lens / synthesis brief authored (2026-05-11) — combines analysis + author-input + research notes into a single load-bearing document. Saved as `lens.md`.
 - [x] Structure proposed (2026-05-11) — 8 sections + cold open + close, every load-bearing element from the Lens slotted, headings written to invite.
 - [x] Structure feedback resolved (2026-05-11): cold open compressed to one paragraph, fourth evidence anchor dropped, fallback frame held for polish, employer anonymized throughout (public-repo safety).
 - [x] Title locked (2026-05-12): **"Structure Compresses the Value Loop"** — Structure as subject, Value Loop explicit, synthesis voice.
+- [x] Full first draft expanded (2026-05-12, single pass per author request): cold open + all 8 sections + close, ~2,686 words. Zero em-dashes, zero "not X. It is Y" patterns. All load-bearing essay-worthy lines slotted.
 
-## Still Needed (after title locks)
-- [ ] Cold open (1 paragraph)
-- [ ] Section 1: What I'm Claiming, and What I'm Not
-- [ ] Section 2: Structure Is Where Decisions Live
-- [ ] Section 3: Every Ship Is a Training Example
-- [ ] Section 4: What 2018 Couldn't Do
-- [ ] Section 5: Hire Well or Manage Forever
-- [ ] Section 6: Theater Isn't Melting
-- [ ] Section 7: The Teams That Already Live This Way
-- [ ] Section 8: If You're Not in a 10-Person Startup
-- [ ] Close
-- [ ] Polish pass
+## Still Needed
+- [ ] Author review of full draft (`article.md`)
+- [ ] Revisions per author feedback
+- [ ] Polish pass (`/draft-polish`)
 - [ ] Header image
 
 ## Anonymization Rule
