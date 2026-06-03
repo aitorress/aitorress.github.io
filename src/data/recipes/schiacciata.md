@@ -38,9 +38,9 @@ For the dough (day two):
 
 2. After the 12 hours you should have a poolish that doubled in size and is both bubbly and jiggly. That's about 500 g of starter going into day two.
 
-3. Add the 500 g of all-purpose flour, 250 g of warm water, and 6 g of salt to the poolish. Use a spatula to combine everything until the dough is workable, then knead with your hands. Add olive oil to avoid stickiness. This is how you knead a dough this high in hydration, and this is how you build the gluten.
+3. Add the 500 g of all-purpose flour, 250 g of warm water, and 6 g of salt to the poolish. Use a spatula to combine everything until the dough is workable, then knead with your hands. Add olive oil to avoid stickiness instead of flour. This is how you work a dough this high in hydration.
 
-4. Shape it into a raggedy ball, add more olive oil, and let it rest for a couple of hours.
+4. Shape it into a raggedy ball, add more olive oil, and let it rest for a couple of hours. Every 30 minutes or so, do a set of stretch and folds: grab one side of the dough, stretch it up, and fold it over itself, then go around the bowl doing the same. This is the kneading for a dough this wet, and it's how you build the gluten. Each round you'll feel it get smoother and stronger. Leave it alone for the last 30 minutes.
 
 5. After the final 30 minutes of resting, drop the dough seam side down onto a sheet tray previously spread with olive oil. Now do what the bread is named for: schiacciata, pressing little divots into the top of the dough. You don't want to stretch it all the way to the ends of the tray. It will relax and get there eventually. Just enough stretching so it gets some shape. Drizzle more olive oil on top.
 
