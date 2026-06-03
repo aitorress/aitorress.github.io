@@ -1,28 +1,43 @@
 ---
 name: recipe-create
-description: Create a new recipe from raw steps, source, and a rough intro. Generates metadata and formats everything into the recipe template.
+description: Create a new recipe from the author's own version of a dish (their method, feel, and modifications) plus a source/credit. Most recipes are word-of-mouth or invented and have no written reference; when a reference does exist, it's used only to complete the ingredient list and flag deliberate divergences. Generates metadata and formats everything into the recipe template.
 ---
 
 # Recipe Creator
 
 You are creating a recipe entry for the author's personal recipe collection.
 
+## What This Collection Is
+
+This is not a recipe database. When a canonical version of a dish exists elsewhere, someone who wants it by the book can go find it. The whole reason an entry exists here is the author's *own* version: how they actually make it, what they changed, what they go by (feel, proportions, what they see, smell, and hear). The author's commentary IS the recipe. Many recipes here have no written original anywhere—they're passed down by mouth or invented by the author—and that's exactly the point.
+
 ## Input
 
-The user will provide:
-1. **Raw steps** — The recipe itself (ingredients and/or instructions, can be messy)
-2. **Source** — Where the recipe came from (URL, YouTube link, person's name, "original", etc.)
-3. **Rough intro** — Their personal note about this dish (you will polish this)
+The author will provide:
+1. **Their version (PRIMARY, always)** — How they make the dish, in their voice: feel, relative proportions, sensory cues, modifications, asides, opinions. This is the source of truth and the actual content of the file.
+2. **Source / credit (usually)** — Who or where the dish came from: a person's name (grandmother, a friend), "passed down," "original," "off my own head," or a URL. This is attribution, not an artifact to read. It exists even when there's nothing written down anywhere—a recipe told over the phone still has a source. Recorded in the front matter. Not fetched.
+3. **A reference (RARELY, only when one exists)** — A concrete artifact to base on: a written recipe, a transcript, a pasted set of steps, a link with real content. Most recipes won't have this. Word-of-mouth recipes and dishes the author invented have **no reference at all, and that is the normal case, not a missing piece**. A reference is NOT content to merge in—when one happens to exist, it is a backstop used only for the two guard roles below.
+
+Source and reference are different things. A recipe can have a source (grandmother) with no reference (nothing was ever written). Don't expect a reference, and never invent one.
+
+### How to Use a Reference (When One Exists) — Guard Roles Only
+
+A reference serves exactly two purposes. Never pull *method* or *voice* from it.
+
+1. **Completeness check on ingredients.** The author will skip things they do on autopilot ("then the aromatics go in"). Use the reference to catch ingredients they assume but don't say, and confirm with them rather than silently adding. The ingredient *list* may draw from the reference; everything else stays the author's.
+2. **Divergence flagging.** When the author's version contradicts the reference, that is the point, not an error. Preserve the divergence as a deliberate note in the author's voice ("the recipe simmers 40 min, I pull it at 25 to keep the bite"). Never average the two or "correct" the author back toward the reference.
+
+When no reference is provided—the common case—work entirely from the author's version and don't go looking for one.
 
 ## Your Job
 
-Take the raw input and produce a clean, formatted recipe file with:
-- Generated title (inferred from the recipe)
-- Polished intro (based on their rough draft—keep their voice, just clean it up)
-- Estimated prep time, cook time, and servings (infer from the recipe)
+Produce a clean, formatted recipe file where the body is written in the author's voice and method, with:
+- Generated title (the actual dish name)
+- Polished intro (based on the author's note—keep their voice, just clean it up)
+- Estimated prep time, cook time, and servings (infer; stay vague unless the author was precise)
 - Category and tags (infer from ingredients and cuisine type)
-- Clean ingredients list
-- Numbered steps
+- Ingredients list (author's; completeness-checked against a reference only if one exists)
+- Numbered steps (author's method and asides, never a reference's wording)
 
 ## Output Format
 
@@ -119,12 +134,13 @@ Generate a slug from the title:
 
 ## Process
 
-1. Parse the raw steps to identify ingredients vs. instructions
-2. Infer title, category, tags, and time estimates
-3. Polish the intro
-4. Format everything into the template
-5. Save to `_recipes/[slug].md`
-6. Show the user the created file
+1. Read the author's version as the primary content—their method, voice, and asides
+2. If (and only if) a reference exists, use it ONLY to complete the ingredient list and flag divergences (see guard roles above); confirm any added ingredients rather than assuming. If there's no reference, work entirely from the author's version
+3. Infer title, category, tags, and time estimates (stay vague unless the author was precise)
+4. Polish the intro from the author's note
+5. Format everything into the template, keeping the author's wording and color
+6. Save to `_recipes/[slug].md`
+7. Show the user the created file
 
 ## Example
 
