@@ -41,18 +41,20 @@ Produce a clean, formatted recipe file where the body is written in the author's
 
 ## Output Format
 
-Create a markdown file at `_recipes/[slug].md` with this structure:
+Create a markdown file at `src/data/recipes/[slug].md` with this structure:
 
 ```yaml
 ---
 title: "[Recipe Title]"
-source_name: "[Person or site name]"
-source_url: "[URL if provided, omit if none]"
-prep_time: "[X min]"
-cook_time: "[X min]"
-servings: [number]
-category: "[Cuisine type: Italian, Mexican, American, Asian, etc.]"
-tags: [tag1, tag2, tag3]
+pubDatetime: [today's date, ISO 8601, e.g. 2026-06-03T00:00:00Z]
+description: "[One-line summary, often the opening line of the intro]"
+source: "[Markdown link or plain credit; omit the line entirely if none]"
+prepTime: "[X min]"
+cookTime: "[X min]"
+servings: "[number or range, as a string: \"2\", \"2-4\"]"
+tags:
+  - tag1
+  - tag2
 ---
 
 [Polished intro paragraph]
@@ -69,6 +71,8 @@ tags: [tag1, tag2, tag3]
 2. [Step 2]
 3. ...
 ```
+
+This front matter matches the Astro content schema in `src/content.config.ts`. Required fields: `title`, `pubDatetime`, `description`. Everything else is optional—omit a line rather than writing a null or placeholder. Field names are camelCase (`prepTime`, `cookTime`), not snake_case. There is no `category` field. `source` is a single string (usually a Markdown link like `"[YouTube](https://...)"` or a plain name like `"Grandmother"`), not separate name/URL fields. `servings` is a string.
 
 ## Philosophy
 
@@ -105,10 +109,17 @@ Choose relevant tags from common categories:
 - **Protein:** chicken, beef, pork, fish, tofu
 - Don't over-tag—3-5 tags is plenty
 
-### Category
-Use broad cuisine categories:
-- Italian, Mexican, American, Asian, Indian, Mediterranean, French, etc.
-- Use "Fusion" or "American" if it doesn't fit a clear cuisine
+### Description
+- Required field. One line, used as the card blurb and meta description.
+- Usually just the opening sentence of the polished intro—keep the author's voice, don't write a separate SEO line.
+
+### Source
+- Single string. A Markdown link when there's a URL (`"[YouTube](https://...)"`), or a plain name when it's a person (`"Grandmother"`, `"Off my own head"`).
+- This is the credit, and it always exists in some form. It is separate from a reference—see the Input section.
+- Omit the line entirely if there's genuinely nothing to credit.
+
+### Date
+- `pubDatetime` is required. Use today's date in ISO 8601 (e.g. `2026-06-03T00:00:00Z`).
 
 ### Ingredients
 - One ingredient per line
@@ -136,10 +147,10 @@ Generate a slug from the title:
 
 1. Read the author's version as the primary content—their method, voice, and asides
 2. If (and only if) a reference exists, use it ONLY to complete the ingredient list and flag divergences (see guard roles above); confirm any added ingredients rather than assuming. If there's no reference, work entirely from the author's version
-3. Infer title, category, tags, and time estimates (stay vague unless the author was precise)
-4. Polish the intro from the author's note
+3. Infer title, description, tags, and time estimates (stay vague unless the author was precise)
+4. Polish the intro from the author's note; draw the one-line `description` from it
 5. Format everything into the template, keeping the author's wording and color
-6. Save to `_recipes/[slug].md`
+6. Save to `src/data/recipes/[slug].md`
 7. Show the user the created file
 
 ## Example
@@ -159,13 +170,16 @@ Intro: finally figured out why my cacio e pepe was always grainy - the pasta wat
 ```yaml
 ---
 title: "Cacio e Pepe"
-source_name: "Kenji López-Alt"
-source_url: null
-prep_time: "5 min"
-cook_time: "15 min"
-servings: 2
-category: "Italian"
-tags: [pasta, quick, vegetarian]
+pubDatetime: 2026-06-03T00:00:00Z
+description: "Finally figured out why my cacio e pepe always turned out grainy. The pasta water trick is everything."
+source: "[YouTube](https://youtube.com)"
+prepTime: "5 min"
+cookTime: "15 min"
+servings: "2"
+tags:
+  - pasta
+  - quick
+  - vegetarian
 ---
 
 Finally figured out why my cacio e pepe always turned out grainy. The pasta water trick is everything.
