@@ -23,7 +23,7 @@ For me the reduction is the whole thing. Vinegar, white wine, shallot, and a pil
 - A lot, a lot of tarragon. Just the stems for now, keep the leaves for finishing
 - A few peppercorns
 - 3 large egg yolks
-- Melted butter, with the milk solids gone. 3 yolks will happily take up to a bar and a half before they're full
+- Melted butter, with the milk solids gone. Use much, much more than you think you need. Taking out the milk solids drops a lot of the weight, so start with way more than the sauce will actually take. 3 yolks will happily take up to a bar and a half before they're full
 - The reserved tarragon leaves, finely chopped. For me, the more the merrier
 - Salt
 - A little lemon juice
@@ -42,3 +42,11 @@ For me the reduction is the whole thing. Vinegar, white wine, shallot, and a pil
 5. Start drizzling in the melted butter, little by little, whisking the whole time. Keep an eye that it's not breaking and the emulsion is taking. Move the bowl on and off the heat so it never gets too hot. As more butter goes in and emulsifies, you can pour a little faster. The finished sauce should be thick and glossy.
 
 6. Finish it. Grab all the tarragon leaves you want, chop them fine, and stir them in with a little salt, a little lemon juice, and a little pepper if you like.
+
+## Notes
+
+- **Have way more butter than you think.** Once you clarify it and drop the milk solids, you lose a good chunk of the weight, so always start with more than the recipe seems to want. If you run short and the texture isn't where you like it, the sauce just won't feel right, and that's a problem. Better to have way too much butter sitting there than to run out and end up with a sauce you're not happy with.
+- **It tightens as it cools.** If it's a touch loose while warm, don't panic. The butter firms up as it cools, so it'll be right at serving temperature. If you want it tighter sooner, put the bowl back over the bain-marie and whisk for 30 to 60 seconds, then pull it the moment it grabs.
+- **Keep it warm, not hot.** Set the bowl over warm (not simmering) water, off the heat, and give it a whisk every so often. The oven is too hot and will break it.
+- **If it breaks**, whisk a fresh yolk with a teaspoon of warm water in a clean bowl, then slowly drizzle the broken sauce back in to rebuild the emulsion.
+- **Leftovers make a great béarnaise butter.** Spoon what's left onto plastic wrap or parchment, roll it into a log, and chill until firm. Slice off coins to melt over steak, fish, or roasted vegetables. Treat it like a perishable since it has cooked yolk in it.
