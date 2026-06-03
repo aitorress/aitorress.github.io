@@ -1,7 +1,7 @@
 ---
 title: "Béarnaise Sauce"
 pubDatetime: 2026-06-03T00:00:00Z
-description: "The reduction is the heart and soul of a béarnaise. It's the one thing that turns a hollandaise into the real thing."
+description: "One of the most luxurious sauces you can make, and one of the hardest to get right. Still a student, not a master."
 source: "Claude"
 prepTime: "10 min"
 cookTime: "20 min"
@@ -13,21 +13,20 @@ tags:
   - steak
 ---
 
-For me the reduction is the whole thing. Vinegar, white wine, shallot, and a pile of tarragon stems cooked down is what turns a hollandaise into a béarnaise, so that's where the soul of the sauce lives. Get that right and the rest is just patience with the butter and keeping the heat in check. Goes over steak, eggs, or roasted vegetables.
+This is one of the most luxurious sauces you can make. It's a lot of fat, but it's really empowering and delicious over any steak or protein you're cooking. It's one of the mother sauces, and one of the hardest to actually get right. It's a lot of fun to make and everybody loves it. I can't say I've perfected it, but I make one mean béarnaise that I really like. Still a student, not a master.
 
 ## Ingredients
 
-- White wine vinegar (or white vinegar, or whatever vinegar you've got)
+- White wine vinegar, or whatever vinegar you've got
 - Dry white wine
 - One shallot, finely chopped
-- A lot, a lot of tarragon. Just the stems for now, keep the leaves for finishing
+- A lot of tarragon, stems and leaves kept separate
 - A few peppercorns
 - 3 large egg yolks
-- Melted butter, with the milk solids gone. Use much, much more than you think you need. Taking out the milk solids drops a lot of the weight, so start with way more than the sauce will actually take. 3 yolks will happily take up to a bar and a half before they're full
-- The reserved tarragon leaves, finely chopped. For me, the more the merrier
+- Butter, clarified (milk solids removed)
 - Salt
-- A little lemon juice
-- A little pepper to finish, if you want
+- Lemon juice
+- Pepper (optional)
 
 ## Steps
 
@@ -39,7 +38,7 @@ For me the reduction is the whole thing. Vinegar, white wine, shallot, and a pil
 
 4. Drop the 3 egg yolks into the cooled reduction and whisk vigorously over the bain-marie until the mixture goes pale and thick. Don't overcook them or you'll have scrambled eggs, but don't be scared of cooking them enough either. This is where a lot of your thickness comes from. Undercook them and the sauce runs thin. Look for the pale color more than anything else. This part really matters, so don't be afraid.
 
-5. Start drizzling in the melted butter, little by little, whisking the whole time. Keep an eye that it's not breaking and the emulsion is taking. Move the bowl on and off the heat so it never gets too hot. As more butter goes in and emulsifies, you can pour a little faster. The finished sauce should be thick and glossy.
+5. Start drizzling in the clarified butter, little by little, whisking the whole time. Keep an eye that it's not breaking and the emulsion is taking. Move the bowl on and off the heat so it never gets too hot. As more butter goes in and emulsifies, you can pour a little faster. Keep going past the point you'd expect, 3 yolks will happily take up to a bar and a half of butter before they're full. The finished sauce should be thick and glossy.
 
 6. Finish it. Grab all the tarragon leaves you want, chop them fine, and stir them in with a little salt, a little lemon juice, and a little pepper if you like.
 

@@ -213,11 +213,16 @@ Finally figured out why my cacio e pepe always turned out grainy. The pasta wate
 
 ## Avoid AI Tells
 
-Write like a person, not a language model. Specifically:
+Write like a person, not a language model. The author keeps a separate voice/style guide (`draft-voice` skill, `references/style-guide.md`); the blacklist below mirrors it so recipes match the rest of their writing. Specifically:
 
 - **No em-dashes.** Use periods, commas, or parentheses instead. "You're not grinding them fine, just smashing" not "You're not grinding them fine—just smashing"
-- **No "elevate," "delve," "straightforward," "vibrant," or "rich tapestry"**
-- **No hedging with "certainly," "definitely," "absolutely"**
-- **Avoid "perfect balance," "harmony of flavors," "culinary journey"**
+- **No correlative seesaw.** Never "it's not just X, it's Y" / "this isn't only X, it's Y." Make the claim directly: "This sauce is rich" not "This isn't just rich, it's luxurious."
+- **No hype adjectives:** "powerful," "seamless," "robust," "game-changing," "elevate," "delve," "straightforward," "vibrant," "rich tapestry." Say what the thing actually does or tastes like instead.
+- **No filler rhetorical questions:** "But what makes this work?" Convert to a statement or cut.
+- **No stiff connective tissue:** "Moreover," "Furthermore," "Thus," "In today's fast-paced world." Just start the sentence.
+- **No manufactured personal scenes.** Don't invent or embellish the author's cooking stories ("I'll never forget the first time…"). If the memory isn't genuinely theirs and true, leave it out.
+- **No hedging with "certainly," "definitely," "absolutely."**
+- **Avoid "perfect balance," "harmony of flavors," "culinary journey."**
 - Contractions are good. "It's" not "It is." "Don't" not "Do not."
 - Short sentences are fine. Not everything needs a conjunction.
+- **Police, don't ban the rule-of-three** ("faster, cheaper, better"). Fine once for rhythm; a tell when every line carries a triple.
