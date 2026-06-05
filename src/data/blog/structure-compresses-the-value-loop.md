@@ -6,6 +6,7 @@ tags:
   - ai
   - value
   - feedback-loop
+headerImage: /assets/images/headers/structure-value-loop-header.png
 ---
 
 A while ago my company reorganized away from customer-journey teams and into product and platform. I organized my own work into three pillars inside one seat, and half the rituals I used to attend stopped making sense. I assumed at first that this was a transition problem, the kind of disorientation that follows any reorg. The pattern persisted long past the point where it could be explained that way. The old shape had been producing the old rituals, and the new shape made most of those rituals visibly redundant at best. The ones that survived were the ones I _chose_ to keep, week by week.
