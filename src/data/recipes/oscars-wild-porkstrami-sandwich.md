@@ -17,9 +17,11 @@ tags:
 
 This is the sandwich I ate on my last trip to San Francisco, from a place called Oink & Oscar, and needless to say, I didn't know you could make pastrami out of pork. The whole sandwich is a work of art. Every layer is amazing on its own, from the hot honey butter to the Oscar sauce to the porkstrami itself, which you could happily eat by itself, and the slaw makes it really, really nice. This is a hot sandwich, for sure. You could make just the porkstrami and stop there, but I really wanted to put together the whole thing, because the whole sandwich is what made the experience. A 7-day project, a couple hours of actual work.
 
-Every element here is its own thing. Build them separately, in whatever order works for you (the butter, sauce, and slaw take minutes; the porkstrami takes the week), and they only come together at the build.
+Every element here is its own thing. Build them separately, in whatever order works for you (the butter, sauce, and slaw take minutes; the porkstrami takes the week), and they only come together at the build. And everything is flexible except the cure: get the cure ratio and the fridge time right, and the rest is just how I did it. A little more of this, a little less of that, and it would still work perfectly fine.
 
 ## The Porkstrami
+
+Seven days sounds scary, but it's about two hours of actual work. Day 1 evening: mix the brine, chill it. Day 2: meat goes in, cure starts. Days 2 to 6: curing, you just check it stays submerged. Day 6 evening: rinse, pellicle overnight, make the rub. Day 7: smoke, then chill. Day 8: slice, steam, stack.
 
 ### Ingredients
 
@@ -27,7 +29,7 @@ For the cure:
 
 - 5.5 kg pork butt / Boston butt (bone-in is fine, you'll debone it)
 - 5.7 liters water
-- 456 g Diamond Crystal kosher salt (weigh it)
+- 456 g kosher salt (weigh it; 456 g is 456 g in any brand, brand only matters if you measure by cups, where Morton runs about twice as dense as Diamond Crystal)
 - 228 g brown sugar
 - 43 g Prague Powder #1 / pink curing salt (measure EXACTLY, see notes)
 - 7 garlic cloves, smashed
@@ -65,11 +67,11 @@ For the rub:
 
 7. Crust the pork. Press the rub firmly onto every surface while the pellicle is tacky. Don't sprinkle, press. A thick, craggy coat is the signature. If it starts sliding off in piles, you're done. Jar any leftover (great on chops and eggs).
 
-8. Smoke to 165°F. Smoke at 225°F (107°C), hickory, oak, or cherry, with a probe in each piece, to 165°F (74°C) internal. No wrapping; you want the bark. Deboned sections run faster than a whole butt, so start watching from hour 3. A stall around 155 to 160°F is normal, don't raise the heat. Pull each piece as it hits temp.
+8. Smoke to 165°F. Smoke at 225°F (107°C), hickory, oak, or cherry, with a probe in each piece, to 165°F (74°C) internal. No wrapping; you want the bark. Keep probes out of any bone. Deboned sections run faster than a whole butt, so start watching from hour 3. A stall around 155 to 160°F is normal, don't raise the heat. Pull each piece as it hits temp. Why 165 and not 200? At 165 the collagen hasn't broken down yet, so it slices like deli meat. Take it to 200 and it pulls instead, which is a different (also good) sandwich.
 
 9. Chill completely. Rest 15 minutes off the smoker, then chill: overnight in the fridge is best. Eating same-day? Seal pieces in bags with the air pressed out, submerge in 50/50 ice water, weighted down, 2 to 4 hours. The chill isn't for serving cold. Cold meat is the only thing that slices thin.
 
-10. Slice thin, across the grain. Slice the cold porkstrami as thin as you can, across the grain, working one muscle section at a time. If a piece crumbles, a loose chopped pile eats just as well.
+10. Slice thin, across the grain. Slice the cold porkstrami as thin as you can, across the grain, working one muscle section at a time. If a piece crumbles, a loose chopped pile eats just as well. The cooked porkstrami keeps about a week in the fridge, and slices freeze well, so there's no rush to eat all 15 sandwiches at once.
 
 ## The Hot Honey Butter
 
@@ -111,11 +113,11 @@ For the rub:
 
 ### Steps
 
-1. Toss the cabbage and carrot with the mayo, vinegar, sugar, Dijon, and salt and pepper. Chill until build time.
+1. Toss the cabbage and carrot with the mayo, vinegar, sugar, Dijon, and salt and pepper. Chill until build time. It doesn't hold well past a day, so only make what you're eating.
 
 ## The Build
 
-Everything above meets here.
+Everything above meets here. On the bread: Dutch Crunch is the authentic roll and it's what I ate it on, but where I live you just can't find them, so I took a good Cuban bread and it worked wonderfully. As long as it's a nice, soft roll or bread, you'll be fine (avoid hard baguette or ciabatta). And buy toppings only for the sandwiches you're eating; the bacon doesn't hold either.
 
 ### Ingredients
 
@@ -134,15 +136,3 @@ Everything above meets here.
 ## Notes
 
 - **SAFETY.** Prague Powder #1 (6.25% sodium nitrite, dyed pink) is NOT pink Himalayan salt. It's what keeps a 5-day cure safe. Measure level and exact, and scale it with the brine volume if you resize the batch. If you overshoot, dilute the whole brine back to ratio (more water plus proportional salt and sugar). Concentration is what the meat absorbs, not total grams.
-
-- **Everything here is flexible except the cure.** The only thing you actually need to get right is the cure ratio mix and the time spent in the fridge. Everything else is just how I did it. A little more of this, a little less of that, and it would still work perfectly fine.
-
-- **The timeline (7 days, ~2 hrs actual work).** Day 1 evening: mix brine, chill. Day 2: meat in, cure starts. Days 2 to 6: curing, just check it stays submerged. Day 6 evening: rinse, pellicle overnight, make rub. Day 7: smoke, then chill. Day 8: slice, steam, stack. Same-day eating: ice-bath the smaller pieces (sealed bag, 50/50 ice water, weighted under, 2 to 4 hrs).
-
-- **Why 165°F.** Collagen hasn't broken down yet, so it slices like deli meat. Take it to 200°F and it pulls instead, which is a different (also good) sandwich. Keep probes out of any bone.
-
-- **Weigh the salt.** 456 g is 456 g in any brand. Brand only matters if you measure by cups (Morton is about twice as dense as Diamond Crystal by volume).
-
-- **Storage.** Cooked porkstrami keeps about a week in the fridge; slices freeze well. Buy toppings only for the sandwiches you're eating. Slaw and bacon don't hold.
-
-- **Bread.** Dutch Crunch is the authentic roll and it's what I ate it on, but where I live you just can't find them, so I took a good Cuban bread and it worked wonderfully. As long as it's a nice, soft roll or bread, you'll be fine. Avoid hard baguette or ciabatta.
