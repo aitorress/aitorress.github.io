@@ -70,7 +70,7 @@ For the slaw:
 
 For the build:
 
-- 15 Dutch Crunch rolls (or bolillo / soft hoagie, something soft and thin-crusted)
+- 15 Dutch Crunch rolls (or Cuban bread, bolillo, any nice soft roll)
 - 30 slices smoked Gouda (2 per sandwich)
 - 30 strips bacon, cooked crisp (2 per sandwich)
 - 2 cups crinkle-cut dill pickle chips
@@ -112,6 +112,8 @@ For the build:
 
 - **SAFETY.** Prague Powder #1 (6.25% sodium nitrite, dyed pink) is NOT pink Himalayan salt. It's what keeps a 5-day cure safe. Measure level and exact, and scale it with the brine volume if you resize the batch. If you overshoot, dilute the whole brine back to ratio (more water plus proportional salt and sugar). Concentration is what the meat absorbs, not total grams.
 
+- **Everything here is flexible except the cure.** The only thing you actually need to get right is the cure ratio mix and the time spent in the fridge. Everything else is just how I did it. A little more of this, a little less of that, and it would still work perfectly fine.
+
 - **The timeline (7 days, ~2 hrs actual work).** Day 1 evening: mix brine, chill. Day 2: meat in, cure starts. Days 2 to 6: curing, just check it stays submerged. Day 6 evening: rinse, pellicle overnight, make rub. Day 7: smoke, then chill. Day 8: slice, steam, stack. Same-day eating: ice-bath the smaller pieces (sealed bag, 50/50 ice water, weighted under, 2 to 4 hrs).
 
 - **Why 165°F.** Collagen hasn't broken down yet, so it slices like deli meat. Take it to 200°F and it pulls instead, which is a different (also good) sandwich. Keep probes out of any bone.
@@ -120,4 +122,4 @@ For the build:
 
 - **Storage.** Cooked porkstrami keeps about a week in the fridge; slices freeze well. Buy toppings only for the sandwiches you're eating. Slaw and bacon don't hold.
 
-- **Bread.** Dutch Crunch is the authentic roll; bolillo or a soft hoagie is the best store stand-in. Avoid hard baguette or ciabatta.
+- **Bread.** Dutch Crunch is the authentic roll and it's what I ate it on, but where I live you just can't find them, so I took a good Cuban bread and it worked wonderfully. As long as it's a nice, soft roll or bread, you'll be fine. Avoid hard baguette or ciabatta.
