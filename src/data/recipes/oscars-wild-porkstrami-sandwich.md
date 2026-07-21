@@ -1,6 +1,7 @@
 ---
 title: "Oscar's Wild Porkstrami Sandwich"
 pubDatetime: 2026-07-20T00:00:00Z
+modDatetime: 2026-07-20T00:00:00Z
 description: "The sandwich I ate on my last trip to San Francisco, from a place called Oink & Oscar. I didn't know you could make pastrami out of pork."
 source: "The Oscar's Wild at Oink & Oscar, San Francisco"
 prepTime: "7 days, about 2 hours of actual work"
@@ -16,7 +17,11 @@ tags:
 
 This is the sandwich I ate on my last trip to San Francisco, from a place called Oink & Oscar, and needless to say, I didn't know you could make pastrami out of pork. The whole sandwich is a work of art. Every layer is amazing on its own, from the hot honey butter to the Oscar sauce to the porkstrami itself, which you could happily eat by itself, and the slaw makes it really, really nice. This is a hot sandwich, for sure. You could make just the porkstrami and stop there, but I really wanted to put together the whole thing, because the whole sandwich is what made the experience. A 7-day project, a couple hours of actual work.
 
-## Ingredients
+Every element here is its own thing. Build them separately, in whatever order works for you (the butter, sauce, and slaw take minutes; the porkstrami takes the week), and they only come together at the build.
+
+## The Porkstrami
+
+### Ingredients
 
 For the cure:
 
@@ -44,39 +49,7 @@ For the rub:
 - 2 tablespoons smoked paprika
 - 2 tablespoons granulated garlic
 
-For the hot honey butter:
-
-- 6 tablespoons unsalted butter, softened
-- 2 tablespoons honey
-- About 1/4 teaspoon cayenne, adjust to taste
-
-For the Oscar sauce:
-
-- 1/2 cup mayonnaise
-- 1 tablespoon Dijon or yellow mustard
-- 1 tablespoon pickle brine (from the pickle jar)
-- 1 teaspoon smoked paprika
-- 1 teaspoon Frank's-style hot sauce
-- 1 teaspoon ketchup
-
-For the slaw:
-
-- 3 cups green cabbage, shredded
-- 1/2 cup carrot, shredded
-- 5 tablespoons mayonnaise
-- 1 tablespoon apple cider vinegar
-- 1 teaspoon sugar
-- 1 teaspoon Dijon mustard
-
-For the build:
-
-- 15 Dutch Crunch rolls (or Cuban bread, bolillo, any nice soft roll)
-- 30 slices smoked Gouda (2 per sandwich)
-- 30 strips bacon, cooked crisp (2 per sandwich)
-- 2 cups crinkle-cut dill pickle chips
-- 1 cup giardiniera (optional but great)
-
-## Steps
+### Steps
 
 1. Debone and section the pork. If the butt is bone-in, debone it and let it separate into its natural muscle sections. Each section has its own grain, so later you can slice every piece properly across the grain. Trim anything hard or leathery. Save the bone: after curing and smoking it's basically a ham hock for beans or stock.
 
@@ -98,15 +71,65 @@ For the build:
 
 10. Slice thin, across the grain. Slice the cold porkstrami as thin as you can, across the grain, working one muscle section at a time. If a piece crumbles, a loose chopped pile eats just as well.
 
-11. Hot honey butter. Warm the honey with the cayenne for a minute so the heat infuses, cool slightly, then whip into the softened butter with a pinch of salt until smooth. Hot sauce doesn't belong here, too much vinegar thins the butter.
+## The Hot Honey Butter
 
-12. Oscar sauce. Stir together the mayo, mustard, pickle brine, smoked paprika, hot sauce, and ketchup. Taste and adjust heat and tang.
+### Ingredients
 
-13. Creamy slaw. Toss the cabbage and carrot with the mayo, vinegar, sugar, Dijon, and salt and pepper. Chill until build time.
+- 6 tablespoons unsalted butter, softened
+- 2 tablespoons honey
+- About 1/4 teaspoon cayenne, adjust to taste
 
-14. Steam the meat. Set a colander over an inch of simmering water (not touching), add the slices, lid on. A tilted lid or foil tent is fine. Steam 5 to 7 minutes until hot and floppy. Lay the Gouda over the meat for the last minute, lid back on, to melt. This step is what turns smoked cured pork into pastrami: warm it, don't cook it.
+### Steps
 
-15. Stack it. Warm the rolls. Hot honey butter on both cut faces (the fat is your soggy-bread barrier). Oscar sauce on the top face. Ruffle the meat, fold and drape, never stack flat, with its melted cheese onto the bottom, about 190 g per roll. Bacon on the cheese so it stays crisp, then pickles and giardiniera, slaw last against the top half. Close, press gently, eat immediately.
+1. Warm the honey with the cayenne for a minute so the heat infuses, cool slightly, then whip into the softened butter with a pinch of salt until smooth. Hot sauce doesn't belong here, too much vinegar thins the butter.
+
+## The Oscar Sauce
+
+### Ingredients
+
+- 1/2 cup mayonnaise
+- 1 tablespoon Dijon or yellow mustard
+- 1 tablespoon pickle brine (from the pickle jar)
+- 1 teaspoon smoked paprika
+- 1 teaspoon Frank's-style hot sauce
+- 1 teaspoon ketchup
+
+### Steps
+
+1. Stir together the mayo, mustard, pickle brine, smoked paprika, hot sauce, and ketchup. Taste and adjust heat and tang.
+
+## The Slaw
+
+### Ingredients
+
+- 3 cups green cabbage, shredded
+- 1/2 cup carrot, shredded
+- 5 tablespoons mayonnaise
+- 1 tablespoon apple cider vinegar
+- 1 teaspoon sugar
+- 1 teaspoon Dijon mustard
+
+### Steps
+
+1. Toss the cabbage and carrot with the mayo, vinegar, sugar, Dijon, and salt and pepper. Chill until build time.
+
+## The Build
+
+Everything above meets here.
+
+### Ingredients
+
+- 15 Dutch Crunch rolls (or Cuban bread, bolillo, any nice soft roll)
+- 30 slices smoked Gouda (2 per sandwich)
+- 30 strips bacon, cooked crisp (2 per sandwich)
+- 2 cups crinkle-cut dill pickle chips
+- 1 cup giardiniera (optional but great)
+
+### Steps
+
+1. Steam the meat. Set a colander over an inch of simmering water (not touching), add the porkstrami slices, lid on. A tilted lid or foil tent is fine. Steam 5 to 7 minutes until hot and floppy. Lay the Gouda over the meat for the last minute, lid back on, to melt. This step is what turns smoked cured pork into pastrami: warm it, don't cook it.
+
+2. Stack it. Warm the rolls. Hot honey butter on both cut faces (the fat is your soggy-bread barrier). Oscar sauce on the top face. Ruffle the meat, fold and drape, never stack flat, with its melted cheese onto the bottom, about 190 g per roll. Bacon on the cheese so it stays crisp, then pickles and giardiniera, slaw last against the top half. Close, press gently, eat immediately.
 
 ## Notes
 
