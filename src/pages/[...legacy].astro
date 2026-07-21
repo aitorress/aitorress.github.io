@@ -1,0 +1,63 @@
+---
+import type { CollectionEntry } from "astro:content";
+import { getCollection } from "astro:content";
+
+type Props = {
+  post: CollectionEntry<"blog">;
+};
+
+// Old Jekyll permalinks (/:categories/:title/) → new post slugs.
+// These pages carry full OG tags so link previews (LinkedIn, X, Slack)
+// scraped from pre-migration URLs still resolve to a valid card.
+export async function getStaticPaths() {
+  const LEGACY_REDIRECTS: Record<string, string> = {
+    "meta/aiaas": "ai-isnt-a-team-its-a-platform",
+    "engineering/ai/thought-leadership/mxe": "apis-arent-mcps",
+    "engineering/ai/thought-leadership/agents": "start-thinking-agentic",
+    "thought-leadership/ai/future-of-work/the-human-edge": "the-human-edge",
+    "the-labor-of-brevity": "the-labor-of-brevity",
+    "the-unbundling-of-work": "the-unbundling-of-work",
+    "still-handy": "still-handy",
+    "what-should-kids-prepare-for-in-the-era-of-ai":
+      "what-should-kids-prepare-for-in-the-era-of-ai",
+  };
+
+  const posts = await getCollection("blog");
+
+  return Object.entries(LEGACY_REDIRECTS).flatMap(([legacy, slug]) => {
+    const post = posts.find(p => p.id === slug);
+    if (!post) return [];
+    return [{ params: { legacy }, props: { post } }];
+  });
+}
+
+const { post } = Astro.props;
+
+const newUrl = new URL(`/posts/${post.id}/`, Astro.site).href;
+const ogImageUrl = new URL(`/posts/${post.id}/index.png`, Astro.site).href;
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>{post.data.title}</title>
+    <link rel="canonical" href={newUrl} />
+    <meta http-equiv="refresh" content={`0; url=${newUrl}`} />
+    <meta name="robots" content="noindex" />
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content={post.data.title} />
+    <meta property="og:description" content={post.data.description} />
+    <meta property="og:url" content={newUrl} />
+    <meta property="og:image" content={ogImageUrl} />
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta property="twitter:title" content={post.data.title} />
+    <meta property="twitter:description" content={post.data.description} />
+    <meta property="twitter:image" content={ogImageUrl} />
+  </head>
+  <body>
+    <p>
+      This post has moved to <a href={newUrl}>{newUrl}</a>.
+    </p>
+  </body>
+</html>
