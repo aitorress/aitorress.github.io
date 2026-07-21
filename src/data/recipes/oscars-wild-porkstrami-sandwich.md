@@ -1,8 +1,8 @@
 ---
 title: "Oscar's Wild Porkstrami Sandwich"
 pubDatetime: 2026-07-20T00:00:00Z
-description: "The complete Oscar's Wild clone as I built it: 5-day cured, coriander-pepper crusted, smoked porkstrami, stacked with hot honey butter, Oscar sauce, bacon, smoked Gouda, pickles, and slaw."
-source: "Clone of the Oscar's Wild at Oink & Oscar (found via The Infatuation and Flamingo Estate)"
+description: "The sandwich I ate on my last trip to San Francisco, from a place called Oink & Oscar. I didn't know you could make pastrami out of pork."
+source: "The Oscar's Wild at Oink & Oscar, San Francisco"
 prepTime: "7 days, about 2 hours of actual work"
 cookTime: "Smoke to temp, most of a day"
 servings: "15"
@@ -14,7 +14,7 @@ tags:
   - project
 ---
 
-The complete Oscar's Wild clone as I built it: 5-day cured, coriander-pepper crusted, smoked porkstrami, stacked with hot honey butter, Oscar sauce, bacon, smoked Gouda, pickles, and slaw. A 7-day project, a couple hours of actual work.
+This is the sandwich I ate on my last trip to San Francisco, from a place called Oink & Oscar, and needless to say, I didn't know you could make pastrami out of pork. The whole sandwich is a work of art. Every layer is amazing on its own, from the hot honey butter to the Oscar sauce to the porkstrami itself, which you could happily eat by itself, and the slaw makes it really, really nice. This is a hot sandwich, for sure. You could make just the porkstrami and stop there, but I really wanted to put together the whole thing, because the whole sandwich is what made the experience. A 7-day project, a couple hours of actual work.
 
 ## Ingredients
 
