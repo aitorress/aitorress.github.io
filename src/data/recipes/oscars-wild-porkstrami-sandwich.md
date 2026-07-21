@@ -17,7 +17,7 @@ tags:
 
 This is the sandwich I ate on my last trip to San Francisco, from a place called Oink & Oscar, and needless to say, I didn't know you could make pastrami out of pork. The whole sandwich is a work of art. Every layer is amazing on its own, from the hot honey butter to the Oscar sauce to the porkstrami itself, which you could happily eat by itself, and the slaw makes it really, really nice. This is a hot sandwich, for sure. You could make just the porkstrami and stop there, but I really wanted to put together the whole thing, because the whole sandwich is what made the experience. A 7-day project, a couple hours of actual work.
 
-Every element here is its own thing. Build them separately, in whatever order works for you (the butter, sauce, and slaw take minutes; the porkstrami takes the week), and they only come together at the build. And everything is flexible except the cure: get the cure ratio and the fridge time right, and the rest is just how I did it. A little more of this, a little less of that, and it would still work perfectly fine.
+Every element here is its own thing. Build them separately, in whatever order works for you (the butter, sauce, and slaw take minutes; the porkstrami takes the week), and they only come together at the build. The measurements were mostly driven by the size of the pork butts I found, so everything is pretty much up for scaling. If you wanna do less, do less. If you wanna do more, do more. That's the beauty of this recipe. The only things you really wanna measure well are the curing salt and the time in the fridge, because that's a specific ratio between your protein, the water, and the dilution. Be safe with that one. For everything else, have fun, try it out, and just do it.
 
 ## The Porkstrami
 
